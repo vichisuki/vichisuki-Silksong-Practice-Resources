@@ -1023,9 +1023,9 @@
         "BelltownDoctorConvo": 0,
         "MetFisherHomeBasic": false,
         "MetFisherHomeFull": false,
-        "FisherWalkerTimer": 1.6248779296875,
+        "FisherWalkerTimer": -0.0038398958276957275,
         "FisherWalkerDirection": true,
-        "FisherWalkerIdleTimeLeft": -0.001603451557457447,
+        "FisherWalkerIdleTimeLeft": 27.479957580566408,
         "MetBelltownRelicDealer": false,
         "BelltownRelicDealerGaveRelic": false,
         "BelltownRelicDealerCylinderConvo": false,
@@ -4844,7 +4844,7 @@
         }
     },
     "savePos": {
-        "x": 56.312862396240237,
+        "x": 58.303619384765628,
         "y": 99.56767272949219,
         "z": 0.004000000189989805
     },

@@ -2,7 +2,7 @@
     "saveStateIdentifier": "IL - Trobbio",
     "saveScene": "Library_02",
     "savedPd": {
-        "LastSetFieldName": "grindleInSong_08",
+        "LastSetFieldName": "HasSeenRation",
         "version": "1.0.29315",
         "RevisionBreak": 28104,
         "date": "2025/11/20",
@@ -28,7 +28,7 @@
         "heartPieces": 0,
         "SeenBindPrompt": true,
         "geo": 12,
-        "silk": 2,
+        "silk": 6,
         "silkMax": 9,
         "silkRegenMax": 1,
         "IsSilkSpoolBroken": true,
@@ -418,12 +418,61 @@
                 {
                     "Name": "Pilgrim 01 Song",
                     "Record": {
-                        "Kills": 1,
+                        "Kills": 3,
                         "HasBeenSeen": false
                     }
                 },
                 {
                     "Name": "Clockwork Dancer",
+                    "Record": {
+                        "Kills": 1,
+                        "HasBeenSeen": false
+                    }
+                },
+                {
+                    "Name": "Pilgrim 02 Song",
+                    "Record": {
+                        "Kills": 2,
+                        "HasBeenSeen": false
+                    }
+                },
+                {
+                    "Name": "Song Pilgrim 03",
+                    "Record": {
+                        "Kills": 2,
+                        "HasBeenSeen": false
+                    }
+                },
+                {
+                    "Name": "Pilgrim 04 Song",
+                    "Record": {
+                        "Kills": 3,
+                        "HasBeenSeen": false
+                    }
+                },
+                {
+                    "Name": "Pilgrim Stomper Song",
+                    "Record": {
+                        "Kills": 1,
+                        "HasBeenSeen": false
+                    }
+                },
+                {
+                    "Name": "Pilgrim 03 Song",
+                    "Record": {
+                        "Kills": 2,
+                        "HasBeenSeen": false
+                    }
+                },
+                {
+                    "Name": "Song Reed",
+                    "Record": {
+                        "Kills": 1,
+                        "HasBeenSeen": false
+                    }
+                },
+                {
+                    "Name": "Scholar",
                     "Record": {
                         "Kills": 1,
                         "HasBeenSeen": false
@@ -441,7 +490,7 @@
         "enteredTutorialFirstTime": false,
         "isInvincible": false,
         "infiniteAirJump": false,
-        "currentArea": "HALLS",
+        "currentArea": "LIBRARY",
         "visitedMossCave": true,
         "visitedBoneBottom": true,
         "visitedBoneForest": true,
@@ -471,7 +520,7 @@
         "visitedUnderstore": false,
         "visitedWard": false,
         "visitedHalls": true,
-        "visitedLibrary": false,
+        "visitedLibrary": true,
         "visitedStage": false,
         "visitedGloom": false,
         "visitedWeave": false,
@@ -974,9 +1023,9 @@
         "BelltownDoctorConvo": 0,
         "MetFisherHomeBasic": false,
         "MetFisherHomeFull": false,
-        "FisherWalkerTimer": 57.88113784790039,
+        "FisherWalkerTimer": -0.0038398958276957275,
         "FisherWalkerDirection": true,
-        "FisherWalkerIdleTimeLeft": -0.001603451557457447,
+        "FisherWalkerIdleTimeLeft": 36.35092544555664,
         "MetBelltownRelicDealer": false,
         "BelltownRelicDealerGaveRelic": false,
         "BelltownRelicDealerCylinderConvo": false,
@@ -1161,8 +1210,8 @@
         "song05MarchGroupReady": true,
         "laceMeetCitadel": true,
         "song18Shortcut": false,
-        "encounteredLibraryEntryBattle": false,
-        "completedLibraryEntryBattle": false,
+        "encounteredLibraryEntryBattle": true,
+        "completedLibraryEntryBattle": true,
         "scholarAmbushReady": false,
         "libraryRoofShortcut": false,
         "scholarAcolytesReleased": false,
@@ -1631,7 +1680,7 @@
         "HasSeenGeoMid": false,
         "HasSeenGeoBig": false,
         "HasSeenShellShards": true,
-        "HasSeenRation": false,
+        "HasSeenRation": true,
         "TempGeoStore": 0,
         "TempShellShardStore": 0,
         "Collectables": {
@@ -4110,6 +4159,12 @@
                     "ID": "Grouped Remasker",
                     "Value": true,
                     "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_01",
+                    "ID": "Breakable Wall",
+                    "Value": false,
+                    "Mutator": 0
                 }
             ]
         },
@@ -4696,6 +4751,18 @@
                     "ID": "Library Sliding Plat (1)",
                     "Value": -1,
                     "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_01",
+                    "ID": "Library Sliding Plat",
+                    "Value": 0,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_01",
+                    "ID": "Library Sliding Plat (1)",
+                    "Value": 0,
+                    "Mutator": 0
                 }
             ]
         },
@@ -4777,8 +4844,8 @@
         }
     },
     "savePos": {
-        "x": 59.98869705200195,
-        "y": 32.56768035888672,
+        "x": 117.53154754638672,
+        "y": 7.567685127258301,
         "z": 0.004000000189989805
     },
     "filePath": "",
