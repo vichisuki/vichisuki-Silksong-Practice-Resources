@@ -1,6 +1,6 @@
 {
     "saveStateIdentifier": "Movement - Architect's Melody Puzzle",
-    "saveScene": "Cog_08",
+    "saveScene": "Cog_09",
     "savedPd": {
         "LastSetFieldName": "HasMelodyLibrarian",
         "version": "1.0.29315",
@@ -647,7 +647,7 @@
         "hasMarker_e": false,
         "placedMarkers": [],
         "environmentType": 4,
-        "previousDarkness": 0,
+        "previousDarkness": 1,
         "HasMelodyArchitect": false,
         "HasMelodyLibrarian": true,
         "SeenMelodyLibrarianReturn": false,
@@ -1081,7 +1081,7 @@
         "MetFisherHomeFull": false,
         "FisherWalkerTimer": 68.50233459472656,
         "FisherWalkerDirection": false,
-        "FisherWalkerIdleTimeLeft": 45.27820587158203,
+        "FisherWalkerIdleTimeLeft": 37.2693977355957,
         "MetBelltownRelicDealer": false,
         "BelltownRelicDealerGaveRelic": false,
         "BelltownRelicDealerCylinderConvo": false,
@@ -5713,17 +5713,17 @@
         }
     },
     "savePos": {
-        "x": 12.513961791992188,
-        "y": 152.31143188476563,
+        "x": 5.960002899169922,
+        "y": 31.56768226623535,
         "z": 0.004000000189989805
     },
     "filePath": "",
     "isKinematized": false,
     "loadedScenes": [
-        "Cog_08"
+        "Cog_09"
     ],
     "loadedSceneActiveScenes": [
-        "Cog_08"
+        "Cog_09"
     ],
     "roomSpecificOptions": ""
 }
