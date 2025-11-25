@@ -1,22 +1,22 @@
 {
-    "saveStateIdentifier": "IL - Lace 2",
-    "saveScene": "Hang_12",
+    "saveStateIdentifier": "IL - Grand Mother Silk",
+    "saveScene": "Song_Tower_01",
     "savedPd": {
-        "LastSetFieldName": "HasMelodyConductor",
+        "LastSetFieldName": "disableInventory",
         "version": "1.0.29315",
         "RevisionBreak": 28104,
         "date": "2025/11/24",
         "profileID": 2,
-        "playTime": 10023.541015625,
+        "playTime": 10652.458984375,
         "openingCreditsPlayed": true,
         "permadeathMode": 0,
         "CollectedDockDemoKey": false,
         "PreMemoryState": {
             "IsRecorded": false,
             "Health": 4,
-            "Silk": 9,
-            "Rosaries": 12,
-            "ShellShards": 38,
+            "Silk": 6,
+            "Rosaries": 332,
+            "ShellShards": 44,
             "DoFullHeal": true
         },
         "HasStoredMemoryState": false,
@@ -24,21 +24,21 @@
         "maxHealth": 5,
         "maxHealthBase": 5,
         "healthBlue": 0,
-        "prevHealth": 5,
+        "prevHealth": 4,
         "heartPieces": 0,
         "SeenBindPrompt": true,
         "geo": 332,
-        "silk": 5,
+        "silk": 2,
         "silkMax": 9,
-        "silkRegenMax": 1,
+        "silkRegenMax": 2,
         "IsSilkSpoolBroken": true,
         "silkSpoolParts": 0,
         "atBench": false,
-        "respawnScene": "Hang_06b",
-        "mapZone": 27,
+        "respawnScene": "Song_Tower_01",
+        "mapZone": 29,
         "extraRestZone": 0,
-        "respawnMarkerName": "RestBench",
-        "respawnType": 1,
+        "respawnMarkerName": "Silk Heart Memory Respawn Marker",
+        "respawnType": 0,
         "hazardRespawnFacing": 0,
         "HeroCorpseScene": "",
         "HeroDeathScenePos": {
@@ -327,7 +327,7 @@
                 {
                     "Name": "Lace",
                     "Record": {
-                        "Kills": 1,
+                        "Kills": 2,
                         "HasBeenSeen": false
                     }
                 },
@@ -588,7 +588,7 @@
         "enteredTutorialFirstTime": false,
         "isInvincible": false,
         "infiniteAirJump": false,
-        "currentArea": "HANG",
+        "currentArea": "HALLS",
         "visitedMossCave": true,
         "visitedBoneBottom": true,
         "visitedBoneForest": true,
@@ -694,7 +694,7 @@
         "HasMelodyLibrarian": true,
         "SeenMelodyLibrarianReturn": false,
         "HasMelodyConductor": true,
-        "UnlockedMelodyLift": false,
+        "UnlockedMelodyLift": true,
         "MelodyLiftCanReturn": false,
         "HeardMelodyConductorNoQuest": false,
         "ConductorWeaverDlgQueued": false,
@@ -1121,9 +1121,9 @@
         "BelltownDoctorConvo": 0,
         "MetFisherHomeBasic": false,
         "MetFisherHomeFull": false,
-        "FisherWalkerTimer": -0.003788240486755967,
+        "FisherWalkerTimer": -0.0033275308087468149,
         "FisherWalkerDirection": true,
-        "FisherWalkerIdleTimeLeft": 30.99567222595215,
+        "FisherWalkerIdleTimeLeft": 4.279821872711182,
         "MetBelltownRelicDealer": false,
         "BelltownRelicDealerGaveRelic": false,
         "BelltownRelicDealerCylinderConvo": false,
@@ -1367,11 +1367,11 @@
         "MerchantEnclaveWardKey": false,
         "MerchantEnclaveSimpleKey": false,
         "MerchantEnclaveToolMetal": false,
-        "encounteredLaceTower": false,
-        "defeatedLaceTower": false,
-        "laceCorpseScaleX": 0.0,
-        "laceCorpsePosX": 0.0,
-        "laceTowerDoorOpened": false,
+        "encounteredLaceTower": true,
+        "defeatedLaceTower": true,
+        "laceCorpseScaleX": -1.0,
+        "laceCorpsePosX": 67.66000366210938,
+        "laceTowerDoorOpened": true,
         "laceCorpseAddedEffects": false,
         "MetGourmandServant": false,
         "GourmandServantOfferedQuest": false,
@@ -1426,7 +1426,7 @@
         "rosaryThievesLeftBank": false,
         "destroyedRosaryCannonMachine": false,
         "hang04Battle": true,
-        "leftTheGrandForum": false,
+        "leftTheGrandForum": true,
         "grindleMetGrandForum": false,
         "opened_cog_06_door": true,
         "cog7_automaton_defeated": false,
@@ -1607,7 +1607,7 @@
         "CurseKilledFlyShellwood": false,
         "CurseKilledFlySwamp": false,
         "act2Started": true,
-        "completionPercentage": 7.0,
+        "completionPercentage": 8.0,
         "mapKeyPref": 0,
         "promisedFirstWish": true,
         "betaEnd": false,
@@ -1760,6 +1760,26 @@
                 },
                 {
                     "Name": "Citadel Ascent Melodies",
+                    "Data": {
+                        "HasBeenSeen": false,
+                        "IsAccepted": true,
+                        "CompletedCount": 0,
+                        "IsCompleted": true,
+                        "WasEverCompleted": true
+                    }
+                },
+                {
+                    "Name": "Citadel Ascent Lift",
+                    "Data": {
+                        "HasBeenSeen": false,
+                        "IsAccepted": true,
+                        "CompletedCount": 0,
+                        "IsCompleted": true,
+                        "WasEverCompleted": true
+                    }
+                },
+                {
+                    "Name": "Citadel Ascent Silk Defeat",
                     "Data": {
                         "HasBeenSeen": false,
                         "IsAccepted": true,
@@ -5076,6 +5096,12 @@
                     "ID": "City Merchant Scavenge Generic",
                     "Value": false,
                     "Mutator": 0
+                },
+                {
+                    "SceneName": "Memory_Silk_Heart_LaceTower",
+                    "ID": "glow_rim_Remasker",
+                    "Value": true,
+                    "Mutator": 0
                 }
             ]
         },
@@ -5935,17 +5961,17 @@
         }
     },
     "savePos": {
-        "x": 61.16413116455078,
-        "y": 4.567685127258301,
+        "x": 79.7127456665039,
+        "y": 100.56767272949219,
         "z": 0.004000000189989805
     },
     "filePath": "",
     "isKinematized": false,
     "loadedScenes": [
-        "Hang_12"
+        "Song_Tower_01"
     ],
     "loadedSceneActiveScenes": [
-        "Hang_12"
+        "Song_Tower_01"
     ],
     "roomSpecificOptions": ""
 }

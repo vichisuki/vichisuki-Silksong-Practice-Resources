@@ -1,13 +1,13 @@
 {
-    "saveStateIdentifier": "IL - Lace 2",
-    "saveScene": "Hang_12",
+    "saveStateIdentifier": "IL - Conductor's Melody",
+    "saveScene": "Hang_06",
     "savedPd": {
-        "LastSetFieldName": "HasMelodyConductor",
+        "LastSetFieldName": "visitedHangAtrium",
         "version": "1.0.29315",
         "RevisionBreak": 28104,
-        "date": "2025/11/24",
+        "date": "2025/11/25",
         "profileID": 2,
-        "playTime": 10023.541015625,
+        "playTime": 9953.701171875,
         "openingCreditsPlayed": true,
         "permadeathMode": 0,
         "CollectedDockDemoKey": false,
@@ -28,7 +28,7 @@
         "heartPieces": 0,
         "SeenBindPrompt": true,
         "geo": 332,
-        "silk": 5,
+        "silk": 1,
         "silkMax": 9,
         "silkRegenMax": 1,
         "IsSilkSpoolBroken": true,
@@ -439,7 +439,7 @@
                 {
                     "Name": "Song Pilgrim 03",
                     "Record": {
-                        "Kills": 6,
+                        "Kills": 2,
                         "HasBeenSeen": false
                     }
                 },
@@ -460,14 +460,14 @@
                 {
                     "Name": "Pilgrim 03 Song",
                     "Record": {
-                        "Kills": 7,
+                        "Kills": 2,
                         "HasBeenSeen": false
                     }
                 },
                 {
                     "Name": "Song Reed",
                     "Record": {
-                        "Kills": 6,
+                        "Kills": 1,
                         "HasBeenSeen": false
                     }
                 },
@@ -538,41 +538,6 @@
                     "Name": "Song Automaton 02",
                     "Record": {
                         "Kills": 1,
-                        "HasBeenSeen": false
-                    }
-                },
-                {
-                    "Name": "Song Pilgrim 01",
-                    "Record": {
-                        "Kills": 1,
-                        "HasBeenSeen": false
-                    }
-                },
-                {
-                    "Name": "Song Handmaiden",
-                    "Record": {
-                        "Kills": 3,
-                        "HasBeenSeen": false
-                    }
-                },
-                {
-                    "Name": "Song Administrator",
-                    "Record": {
-                        "Kills": 4,
-                        "HasBeenSeen": false
-                    }
-                },
-                {
-                    "Name": "Song Pilgrim Maestro",
-                    "Record": {
-                        "Kills": 3,
-                        "HasBeenSeen": false
-                    }
-                },
-                {
-                    "Name": "Song Heavy Sentry",
-                    "Record": {
-                        "Kills": 3,
                         "HasBeenSeen": false
                     }
                 }
@@ -688,21 +653,21 @@
         "hasMarker_d": false,
         "hasMarker_e": false,
         "placedMarkers": [],
-        "environmentType": 4,
+        "environmentType": 0,
         "previousDarkness": 0,
         "HasMelodyArchitect": true,
         "HasMelodyLibrarian": true,
         "SeenMelodyLibrarianReturn": false,
-        "HasMelodyConductor": true,
+        "HasMelodyConductor": false,
         "UnlockedMelodyLift": false,
         "MelodyLiftCanReturn": false,
         "HeardMelodyConductorNoQuest": false,
         "ConductorWeaverDlgQueued": false,
         "ConductorWeaverDlgHeard": false,
         "muchTimePassed": false,
-        "pilgrimGroupBonegrave": 2,
-        "pilgrimGroupShellgrave": 1,
-        "pilgrimGroupGreymoorField": 1,
+        "pilgrimGroupBonegrave": 3,
+        "pilgrimGroupShellgrave": 3,
+        "pilgrimGroupGreymoorField": 2,
         "shellGravePopulated": false,
         "bellShrineBoneForest": true,
         "bellShrineWilds": true,
@@ -768,7 +733,7 @@
         "PurchasedBonebottomToolMetal": false,
         "BoneBottomShopKeepWillLeave": false,
         "BoneBottomShopKeepLeft": false,
-        "bonetownCrowd": 3,
+        "bonetownCrowd": 1,
         "grindleReleasedFromBonejail": false,
         "explodeWallMosstown3": false,
         "bonegraveOpen": false,
@@ -830,7 +795,7 @@
         "antBenchTrapDefused": false,
         "ant04_battleCompleted": false,
         "ant04_enemiesReturn": false,
-        "enemyGroupAnt04": 3,
+        "enemyGroupAnt04": 2,
         "antMerchantKilled": true,
         "ant21_InitBattleCompleted": false,
         "ant21_ExtraBattleAdded": false,
@@ -929,7 +894,7 @@
         "HalfwayBartenderCursedConvo": false,
         "HalfwayBartenderHauntedBellhartConvo": false,
         "visitedHalfway": false,
-        "halfwayCrowd": 1,
+        "halfwayCrowd": 3,
         "HalfwayScarecrawAppeared": false,
         "HalfwayNectarOffered": false,
         "HalfwayNectarPaid": false,
@@ -1068,7 +1033,7 @@
         "thievesReturnedToShadow28": false,
         "SeenBelltownCutscene": true,
         "belltownCrowdsReady": true,
-        "belltownCrowd": 6,
+        "belltownCrowd": 5,
         "MetBelltownShopkeep": false,
         "BelltownShopkeepCourierConvo1Accepted": false,
         "BelltownShopkeepCourierConvo1Completed": false,
@@ -1121,9 +1086,9 @@
         "BelltownDoctorConvo": 0,
         "MetFisherHomeBasic": false,
         "MetFisherHomeFull": false,
-        "FisherWalkerTimer": -0.003788240486755967,
-        "FisherWalkerDirection": true,
-        "FisherWalkerIdleTimeLeft": 30.99567222595215,
+        "FisherWalkerTimer": 2.757251501083374,
+        "FisherWalkerDirection": false,
+        "FisherWalkerIdleTimeLeft": -0.002003842033445835,
         "MetBelltownRelicDealer": false,
         "BelltownRelicDealerGaveRelic": false,
         "BelltownRelicDealerCylinderConvo": false,
@@ -1425,7 +1390,7 @@
         "rosaryThievesInBank": false,
         "rosaryThievesLeftBank": false,
         "destroyedRosaryCannonMachine": false,
-        "hang04Battle": true,
+        "hang04Battle": false,
         "leftTheGrandForum": false,
         "grindleMetGrandForum": false,
         "opened_cog_06_door": true,
@@ -4968,114 +4933,6 @@
                     "ID": "Remasker New",
                     "Value": false,
                     "Mutator": 0
-                },
-                {
-                    "SceneName": "Hang_04",
-                    "ID": "Breakable Window (1)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Hang_04",
-                    "ID": "Start Range",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Hang_04",
-                    "ID": "smash_floor (10)",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Hang_04",
-                    "ID": "smash_floor (7)",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Hang_04",
-                    "ID": "smash_floor (6)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Hang_04",
-                    "ID": "smash_floor",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Hang_04",
-                    "ID": "smash_floor (5)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Hang_04",
-                    "ID": "smash_floor (3)",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Hang_04",
-                    "ID": "smash_floor (4)",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Hang_04",
-                    "ID": "smash_floor (14)",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Hang_04",
-                    "ID": "smash_floor (8)",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Hang_04",
-                    "ID": "smash_floor (9)",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Hang_04",
-                    "ID": "smash_floor (12)",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Hang_04",
-                    "ID": "smash_floor (2)",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Hang_04",
-                    "ID": "smash_floor (11)",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Hang_04",
-                    "ID": "smash_floor (1)",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Hang_04",
-                    "ID": "smash_floor (13)",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Hang_04",
-                    "ID": "City Merchant Scavenge Generic",
-                    "Value": false,
-                    "Mutator": 0
                 }
             ]
         },
@@ -5935,17 +5792,17 @@
         }
     },
     "savePos": {
-        "x": 61.16413116455078,
-        "y": 4.567685127258301,
+        "x": 2.1069495677948,
+        "y": 4.567684650421143,
         "z": 0.004000000189989805
     },
     "filePath": "",
     "isKinematized": false,
     "loadedScenes": [
-        "Hang_12"
+        "Hang_06"
     ],
     "loadedSceneActiveScenes": [
-        "Hang_12"
+        "Hang_06"
     ],
     "roomSpecificOptions": ""
 }
