@@ -20,7 +20,7 @@ Savestates are best used with specific config settings in DebugMod's Settings.js
 This is a split used to directly record an IL attempt, intended for use with the accompanying split files found in the repository. They have been designed to be used with the [ComSOB spreadsheet](https://docs.google.com/spreadsheets/d/1-Hy5k_h9dBUUPlwh_I14K-DEwGcNdVQ0utI-KX56d8c/edit?gid=7316953#gid=7316953).
 
 ### Movement
-Typically starts one room after the IL starts, or after any kind of cutscenes that would otherwise be tedious to sit through when trying to practice.
+Typically starts one room after the IL starts, or after any kind of cutscenes that would otherwise be tedious to sit through when trying to practice. Usually an abridged version of the split.
 
 ### Bosses
 Self explanatory, savestates outside each major boss and sometimes arenas in the route.
