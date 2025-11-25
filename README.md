@@ -5,7 +5,7 @@ For a tutorial on how to set up these tools, I recommend checking out Ivy's Silk
 
 ## Savestates
 For a more detailed rundown on what each savestate does, view:
-- [Bell Route - Latest Patch Savestate Readme](BELLROUTE-SAVESTATES-README.md)
+- [Bell Route - Latest Patch Savestate Readme](Bell Route Latest Patch/Savestates/BELLROUTE-SAVESTATES-README.md)
 
 This savestate bundle was designed for Silksong to be more in line with older savestate bundles used for practicing Hollow Knight, particularly in four different categories.
 
