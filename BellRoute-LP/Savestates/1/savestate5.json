@@ -39,7 +39,7 @@
         "extraRestZone": 0,
         "respawnMarkerName": "Interim Respawn Marker",
         "respawnType": 0,
-        "hazardRespawnFacing": 2,
+        "hazardRespawnFacing": 1,
         "HeroCorpseScene": "",
         "HeroDeathScenePos": {
             "x": 0.0,
@@ -477,6 +477,13 @@
                         "Kills": 1,
                         "HasBeenSeen": false
                     }
+                },
+                {
+                    "Name": "Trobbio",
+                    "Record": {
+                        "Kills": 1,
+                        "HasBeenSeen": false
+                    }
                 }
             ]
         },
@@ -590,8 +597,8 @@
         "hasMarker_d": false,
         "hasMarker_e": false,
         "placedMarkers": [],
-        "environmentType": 11,
-        "previousDarkness": 0,
+        "environmentType": 0,
+        "previousDarkness": 1,
         "HasMelodyArchitect": false,
         "HasMelodyLibrarian": false,
         "SeenMelodyLibrarianReturn": false,
@@ -1023,9 +1030,9 @@
         "BelltownDoctorConvo": 0,
         "MetFisherHomeBasic": false,
         "MetFisherHomeFull": false,
-        "FisherWalkerTimer": -0.0028101028874516489,
-        "FisherWalkerDirection": true,
-        "FisherWalkerIdleTimeLeft": 26.02385139465332,
+        "FisherWalkerTimer": 9.533245086669922,
+        "FisherWalkerDirection": false,
+        "FisherWalkerIdleTimeLeft": -0.0012705621775239707,
         "MetBelltownRelicDealer": false,
         "BelltownRelicDealerGaveRelic": false,
         "BelltownRelicDealerCylinderConvo": false,
@@ -1222,7 +1229,7 @@
         "library_14_ambush": false,
         "completedGrandStageBattle": false,
         "encounteredTrobbio": true,
-        "defeatedTrobbio": false,
+        "defeatedTrobbio": true,
         "trobbioCleanedUp": false,
         "encounteredTormentedTrobbio": false,
         "defeatedTormentedTrobbio": false,
@@ -5048,8 +5055,8 @@
         }
     },
     "savePos": {
-        "x": 57.733489990234378,
-        "y": 14.567686080932618,
+        "x": 121.56300354003906,
+        "y": 14.5676851272583,
         "z": 0.004000000189989805
     },
     "filePath": "",
