@@ -1,13 +1,13 @@
 {
-    "saveStateIdentifier": "Boss - Greymoor Arena",
-    "saveScene": "Greymoor_03",
+    "saveStateIdentifier": "Boss - Shellwood Arena",
+    "saveScene": "Shellwood_01b",
     "savedPd": {
-        "LastSetFieldName": "bellShrineGreymoor",
+        "LastSetFieldName": "visitedBellhart",
         "version": "1.0.29315",
         "RevisionBreak": 28104,
-        "date": "2025/11/17",
+        "date": "2025/11/18",
         "profileID": 2,
-        "playTime": 3635.671142578125,
+        "playTime": 3684.326904296875,
         "openingCreditsPlayed": true,
         "permadeathMode": 0,
         "CollectedDockDemoKey": false,
@@ -34,12 +34,12 @@
         "IsSilkSpoolBroken": true,
         "silkSpoolParts": 0,
         "atBench": false,
-        "respawnScene": "Greymoor_02",
-        "mapZone": 3,
-        "extraRestZone": 0,
+        "respawnScene": "Belltown",
+        "mapZone": 10,
+        "extraRestZone": 21,
         "respawnMarkerName": "RestBench",
         "respawnType": 1,
-        "hazardRespawnFacing": 0,
+        "hazardRespawnFacing": 1,
         "HeroCorpseScene": "",
         "HeroDeathScenePos": {
             "x": 0.0,
@@ -99,7 +99,7 @@
         "fixerStatueConvo": false,
         "metSherma": false,
         "seenBellBeast": true,
-        "shermaPos": 1,
+        "shermaPos": 2,
         "shermaConvoBellBeast": false,
         "metShermaPilgrimsRest": false,
         "shermaInBellhart": false,
@@ -237,7 +237,7 @@
         "garmondBlackThreadDefeated": false,
         "pilgrimRestMerchant_SingConvo": false,
         "pilgrimRestMerchant_RhinoRuckusConvo": false,
-        "pilgrimRestCrowd": 5,
+        "pilgrimRestCrowd": 4,
         "nuuIsHome": true,
         "MetHalfwayHunterFan": false,
         "MetHunterFanOutside": false,
@@ -351,6 +351,27 @@
                         "Kills": 1,
                         "HasBeenSeen": false
                     }
+                },
+                {
+                    "Name": "Farmer Catcher",
+                    "Record": {
+                        "Kills": 2,
+                        "HasBeenSeen": false
+                    }
+                },
+                {
+                    "Name": "Farmer Centipede",
+                    "Record": {
+                        "Kills": 1,
+                        "HasBeenSeen": false
+                    }
+                },
+                {
+                    "Name": "Vampire Gnat",
+                    "Record": {
+                        "Kills": 1,
+                        "HasBeenSeen": false
+                    }
                 }
             ]
         },
@@ -364,7 +385,7 @@
         "enteredTutorialFirstTime": false,
         "isInvincible": false,
         "infiniteAirJump": false,
-        "currentArea": "GREYMOOR",
+        "currentArea": "SHELLWOOD",
         "visitedMossCave": true,
         "visitedBoneBottom": true,
         "visitedBoneForest": true,
@@ -375,10 +396,10 @@
         "visitedGrove": false,
         "visitedGreymoor": true,
         "visitedWisp": false,
-        "visitedBellhartHaunted": false,
-        "visitedBellhart": false,
+        "visitedBellhartHaunted": true,
+        "visitedBellhart": true,
         "visitedBellhartSaved": false,
-        "visitedShellwood": false,
+        "visitedShellwood": true,
         "visitedCrawl": false,
         "visitedDustpens": false,
         "visitedShadow": false,
@@ -464,7 +485,7 @@
         "hasMarker_d": false,
         "hasMarker_e": false,
         "placedMarkers": [],
-        "environmentType": 6,
+        "environmentType": 11,
         "previousDarkness": 0,
         "HasMelodyArchitect": false,
         "HasMelodyLibrarian": false,
@@ -476,9 +497,9 @@
         "ConductorWeaverDlgQueued": false,
         "ConductorWeaverDlgHeard": false,
         "muchTimePassed": false,
-        "pilgrimGroupBonegrave": 2,
+        "pilgrimGroupBonegrave": 3,
         "pilgrimGroupShellgrave": 1,
-        "pilgrimGroupGreymoorField": 2,
+        "pilgrimGroupGreymoorField": 3,
         "shellGravePopulated": false,
         "bellShrineBoneForest": true,
         "bellShrineWilds": true,
@@ -583,7 +604,7 @@
         "boneBottomFuneralComplete": false,
         "BonebottomBellwayPilgrimState": 0,
         "BonebottomBellwayPilgrimScared": false,
-        "BonebottomBellwayPilgrimLeft": false,
+        "BonebottomBellwayPilgrimLeft": true,
         "greatBoneGateOpened": false,
         "bone01shortcutPlat": false,
         "didPilgrimIntroScene": false,
@@ -606,7 +627,7 @@
         "antBenchTrapDefused": false,
         "ant04_battleCompleted": false,
         "ant04_enemiesReturn": false,
-        "enemyGroupAnt04": 1,
+        "enemyGroupAnt04": 3,
         "antMerchantKilled": false,
         "ant21_InitBattleCompleted": false,
         "ant21_ExtraBattleAdded": false,
@@ -682,9 +703,9 @@
         "CompletedWeaveSprintChallengeMax": false,
         "crashingIntoGreymoor": true,
         "crashedIntoGreymoor": true,
-        "greymoor_04_battleCompleted": false,
+        "greymoor_04_battleCompleted": true,
         "greymoor_10_entered": false,
-        "greymoor_05_centipedeArrives": false,
+        "greymoor_05_centipedeArrives": true,
         "killedRoostingCrowman": false,
         "hitCrowCourtSwitch": false,
         "tookGreymoor17Spool": false,
@@ -705,27 +726,27 @@
         "HalfwayBartenderCursedConvo": false,
         "HalfwayBartenderHauntedBellhartConvo": false,
         "visitedHalfway": false,
-        "halfwayCrowd": 3,
+        "halfwayCrowd": 1,
         "HalfwayScarecrawAppeared": false,
         "HalfwayNectarOffered": false,
         "HalfwayNectarPaid": false,
         "MetHalfwayBartenderAct3": false,
-        "halfwayCrowEnemyGroup": 1,
+        "halfwayCrowEnemyGroup": 2,
         "brokeUnderstoreFloor": false,
-        "enteredGreymoor05": false,
-        "previouslyVisitedGreymoor_05": false,
+        "enteredGreymoor05": true,
+        "previouslyVisitedGreymoor_05": true,
         "greymoor05_clearedOut": false,
         "greymoor05_killedJailer": false,
         "greymoor05_farmerPlatBroken": false,
         "greymoor08_plat_destroyed": false,
-        "encounteredVampireGnat_05": false,
-        "allowVampireGnatInAltLoc": false,
-        "encounteredVampireGnat_07": false,
-        "encounteredVampireGnatBoss": false,
-        "defeatedVampireGnatBoss": false,
+        "encounteredVampireGnat_05": true,
+        "allowVampireGnatInAltLoc": true,
+        "encounteredVampireGnat_07": true,
+        "encounteredVampireGnatBoss": true,
+        "defeatedVampireGnatBoss": true,
         "vampireGnatDeaths": 0,
         "vampireGnatRequestedAid": false,
-        "VampireGnatDefeatedBeforeCaravanArrived": false,
+        "VampireGnatDefeatedBeforeCaravanArrived": true,
         "VampireGnatCorpseOnCaravan": false,
         "VampireGnatCorpseInWater": false,
         "encounteredCrowCourt": false,
@@ -842,7 +863,7 @@
         "swampMuckmanTallInvades": false,
         "DefeatedSwampShaman": false,
         "thievesReturnedToShadow28": false,
-        "SeenBelltownCutscene": false,
+        "SeenBelltownCutscene": true,
         "belltownCrowdsReady": false,
         "belltownCrowd": 0,
         "MetBelltownShopkeep": false,
@@ -897,9 +918,9 @@
         "BelltownDoctorConvo": 0,
         "MetFisherHomeBasic": false,
         "MetFisherHomeFull": false,
-        "FisherWalkerTimer": 37.422874450683597,
-        "FisherWalkerDirection": true,
-        "FisherWalkerIdleTimeLeft": -0.0015799686079844833,
+        "FisherWalkerTimer": 66.89686584472656,
+        "FisherWalkerDirection": false,
+        "FisherWalkerIdleTimeLeft": -0.00045657739974558353,
         "MetBelltownRelicDealer": false,
         "BelltownRelicDealerGaveRelic": false,
         "BelltownRelicDealerCylinderConvo": false,
@@ -1502,6 +1523,16 @@
                         "CompletedCount": 0,
                         "IsCompleted": true,
                         "WasEverCompleted": true
+                    }
+                },
+                {
+                    "Name": "The Threadspun Town",
+                    "Data": {
+                        "HasBeenSeen": false,
+                        "IsAccepted": true,
+                        "CompletedCount": 0,
+                        "IsCompleted": false,
+                        "WasEverCompleted": false
                     }
                 }
             ]
@@ -2757,6 +2788,294 @@
                     "ID": "Hornet_cage_rect_lift_greymoor",
                     "Value": false,
                     "Mutator": 0
+                },
+                {
+                    "SceneName": "Greymoor_04",
+                    "ID": "Remasker New",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Greymoor_04",
+                    "ID": "Silk Grub Small Cocoon 1 (1)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Greymoor_04",
+                    "ID": "Geo Small Persistent (1)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Greymoor_04",
+                    "ID": "Geo Small Persistent (4)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Greymoor_04",
+                    "ID": "Geo Small Persistent (5)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Greymoor_04",
+                    "ID": "Geo Small Persistent",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Greymoor_04",
+                    "ID": "Geo Small Persistent (3)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Greymoor_04",
+                    "ID": "Geo Small Persistent (2)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Greymoor_04",
+                    "ID": "Silk Grub Large Cocoon",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Greymoor_04",
+                    "ID": "Silk Grub Small Cocoon 2",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Greymoor_04",
+                    "ID": "propeller (1)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Greymoor_04",
+                    "ID": "propeller (4)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Greymoor_04",
+                    "ID": "propeller (3)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Greymoor_04",
+                    "ID": "propeller (2)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Greymoor_05",
+                    "ID": "Garmond Fighter",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Greymoor_05",
+                    "ID": "Collectable Item Pickup",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Greymoor_05",
+                    "ID": "greymoor_breakable_plat (4)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Greymoor_05",
+                    "ID": "greymoor_breakable_plat (1)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Greymoor_05",
+                    "ID": "greymoor_breakable_plat (5)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Greymoor_05",
+                    "ID": "greymoor_breakable_plat (2)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Greymoor_05",
+                    "ID": "greymoor_breakable_plat (3)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Greymoor_05",
+                    "ID": "greymoor_breakable_plat",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Greymoor_06",
+                    "ID": "belltown_lever_drop_plat",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Greymoor_06",
+                    "ID": "Remasker New",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Greymoor_07",
+                    "ID": "One Way Wall",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Greymoor_07",
+                    "ID": "greymoor_lever_simple",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Greymoor_08",
+                    "ID": "grey_wood_chain_plat_mid_breakable",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Greymoor_08",
+                    "ID": "greymoor_drop_propeller",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Belltown_06",
+                    "ID": "Mines Lift",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Belltown_06",
+                    "ID": "Remasker New Sharp Ultra",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Belltown",
+                    "ID": "Collectable Item Pickup",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Belltown",
+                    "ID": "Remasker New Sharp Ultra",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Belltown",
+                    "ID": "craw_court_summons_pin",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Belltown",
+                    "ID": "Courier Short Bellhart",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Belltown_07",
+                    "ID": "Remasker New Sharp Ultra",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Shellwood_02",
+                    "ID": "Hornet_pressure_plate",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Shellwood_01",
+                    "ID": "Collectable Item Pickup",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Shellwood_01",
+                    "ID": "Nectar Pickup",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Shellwood_01",
+                    "ID": "Shell Shard Fossil Shellwood (1)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Shellwood_01",
+                    "ID": "Shell Shard Fossil Shellwood",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Shellwood_01",
+                    "ID": "Shellwood Hive",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Shellwood_01b",
+                    "ID": "bell_toll_machine",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Shellwood_01b",
+                    "ID": "Collectable Item Pickup",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Shellwood_01b",
+                    "ID": "Battle Scene",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Shellwood_01b",
+                    "ID": "Remasker New (1)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Shellwood_01b",
+                    "ID": "Remasker New",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Shellwood_01b",
+                    "ID": "craw_court_summons_pin",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Shellwood_01b",
+                    "ID": "Hornet_cage_rect_lift",
+                    "Value": false,
+                    "Mutator": 0
                 }
             ]
         },
@@ -3067,6 +3386,90 @@
                     "ID": "rosary_string_small",
                     "Value": -1,
                     "Mutator": 0
+                },
+                {
+                    "SceneName": "Greymoor_05",
+                    "ID": "rosary_string_small_half",
+                    "Value": -1,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Greymoor_05",
+                    "ID": "rosary_string_small_half (1)",
+                    "Value": -1,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Greymoor_05",
+                    "ID": "Garmond Sleep NPC",
+                    "Value": 0,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Greymoor_07",
+                    "ID": "rosary_string_small_half (1)",
+                    "Value": -1,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Greymoor_07",
+                    "ID": "rosary_shrine_small",
+                    "Value": -1,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Greymoor_07",
+                    "ID": "rosary_string_small",
+                    "Value": -1,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Greymoor_08",
+                    "ID": "rosary_string_small_half",
+                    "Value": -1,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Belltown",
+                    "ID": "Pilgrim Fisher NPC Walker",
+                    "Value": 0,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Belltown",
+                    "ID": "Courier Short Bellhart",
+                    "Value": 0,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Belltown_07",
+                    "ID": "rosary_cache_hang_bell",
+                    "Value": -1,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Shellwood_01",
+                    "ID": "Shell Shard Fossil Tiny Bumpy (1)",
+                    "Value": 1,
+                    "Mutator": 1
+                },
+                {
+                    "SceneName": "Shellwood_01",
+                    "ID": "Shell Shard Fossil Tiny Bumpy",
+                    "Value": 1,
+                    "Mutator": 1
+                },
+                {
+                    "SceneName": "Shellwood_01",
+                    "ID": "Shell Shard Fossil Tiny Front",
+                    "Value": 1,
+                    "Mutator": 1
+                },
+                {
+                    "SceneName": "Shellwood_01b",
+                    "ID": "Hornet_cage_rect_lift",
+                    "Value": 0,
+                    "Mutator": 0
                 }
             ]
         },
@@ -3113,22 +3516,46 @@
                     "ID": "Geo Rock 1",
                     "Value": 3,
                     "Mutator": 0
+                },
+                {
+                    "SceneName": "Greymoor_04",
+                    "ID": "Geo Rock Deepnest",
+                    "Value": 3,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Greymoor_05",
+                    "ID": "Geo Rock Deepnest",
+                    "Value": 3,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Greymoor_06",
+                    "ID": "Geo Rock Deepnest",
+                    "Value": 3,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Greymoor_07",
+                    "ID": "Geo Rock Deepnest",
+                    "Value": 3,
+                    "Mutator": 0
                 }
             ]
         }
     },
     "savePos": {
-        "x": 1.665475845336914,
-        "y": 11.5676851272583,
+        "x": 32.1717414855957,
+        "y": 22.56768226623535,
         "z": 0.004000000189989805
     },
     "filePath": "",
     "isKinematized": false,
     "loadedScenes": [
-        "Greymoor_03"
+        "Shellwood_01b"
     ],
     "loadedSceneActiveScenes": [
-        "Greymoor_03"
+        "Shellwood_01b"
     ],
     "roomSpecificOptions": ""
 }
