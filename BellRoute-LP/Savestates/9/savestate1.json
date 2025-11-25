@@ -1,5 +1,5 @@
 {
-    "saveStateIdentifier": "Trick - Blasted Steps Driznit Pogo",
+    "saveStateIdentifier": "Trick - Blasted Steps Heal Skip",
     "saveScene": "Coral_02",
     "savedPd": {
         "LastSetFieldName": "bellShrineShellwood",
@@ -20,15 +20,15 @@
             "DoFullHeal": true
         },
         "HasStoredMemoryState": false,
-        "health": 5,
+        "health": 3,
         "maxHealth": 5,
         "maxHealthBase": 5,
         "healthBlue": 0,
-        "prevHealth": 5,
+        "prevHealth": 3,
         "heartPieces": 0,
         "SeenBindPrompt": true,
         "geo": 12,
-        "silk": 1,
+        "silk": 9,
         "silkMax": 9,
         "silkRegenMax": 1,
         "IsSilkSpoolBroken": true,
@@ -39,7 +39,7 @@
         "extraRestZone": 9,
         "respawnMarkerName": "Death Respawn Marker",
         "respawnType": 0,
-        "hazardRespawnFacing": 0,
+        "hazardRespawnFacing": 2,
         "HeroCorpseScene": "",
         "HeroDeathScenePos": {
             "x": 0.0,
@@ -520,7 +520,7 @@
         "hasMarker_d": false,
         "hasMarker_e": false,
         "placedMarkers": [],
-        "environmentType": 4,
+        "environmentType": 0,
         "previousDarkness": 0,
         "HasMelodyArchitect": false,
         "HasMelodyLibrarian": false,
@@ -953,9 +953,9 @@
         "BelltownDoctorConvo": 0,
         "MetFisherHomeBasic": false,
         "MetFisherHomeFull": false,
-        "FisherWalkerTimer": -0.00299362582154572,
+        "FisherWalkerTimer": 33.0803108215332,
         "FisherWalkerDirection": true,
-        "FisherWalkerIdleTimeLeft": 39.91444396972656,
+        "FisherWalkerIdleTimeLeft": -0.002389445435255766,
         "MetBelltownRelicDealer": false,
         "BelltownRelicDealerGaveRelic": false,
         "BelltownRelicDealerCylinderConvo": false,
@@ -3988,8 +3988,8 @@
         }
     },
     "savePos": {
-        "x": 240.35848999023438,
-        "y": 57.56767654418945,
+        "x": 96.54512023925781,
+        "y": 30.567684173583986,
         "z": 0.004000000189989805
     },
     "filePath": "",

@@ -1,5 +1,5 @@
 {
-    "saveStateIdentifier": "Trick - Shellwood Heal Skip",
+    "saveStateIdentifier": "Trick - Garama Skip",
     "saveScene": "Shellwood_10",
     "savedPd": {
         "LastSetFieldName": "MapperLeftGreymoor",
@@ -20,15 +20,15 @@
             "DoFullHeal": true
         },
         "HasStoredMemoryState": false,
-        "health": 4,
+        "health": 5,
         "maxHealth": 5,
         "maxHealthBase": 5,
         "healthBlue": 0,
-        "prevHealth": 4,
+        "prevHealth": 5,
         "heartPieces": 0,
         "SeenBindPrompt": true,
         "geo": 12,
-        "silk": 9,
+        "silk": 5,
         "silkMax": 9,
         "silkRegenMax": 1,
         "IsSilkSpoolBroken": true,
@@ -39,7 +39,7 @@
         "extraRestZone": 21,
         "respawnMarkerName": "RestBench",
         "respawnType": 1,
-        "hazardRespawnFacing": 0,
+        "hazardRespawnFacing": 2,
         "HeroCorpseScene": "",
         "HeroDeathScenePos": {
             "x": 0.0,
@@ -939,7 +939,7 @@
         "BelltownDoctorConvo": 0,
         "MetFisherHomeBasic": false,
         "MetFisherHomeFull": false,
-        "FisherWalkerTimer": 27.85723304748535,
+        "FisherWalkerTimer": 62.911869049072269,
         "FisherWalkerDirection": true,
         "FisherWalkerIdleTimeLeft": -0.0011465147836133838,
         "MetBelltownRelicDealer": false,
@@ -3632,8 +3632,8 @@
         }
     },
     "savePos": {
-        "x": 1.0011672973632813,
-        "y": 64.56767272949219,
+        "x": 63.94499206542969,
+        "y": 22.56768226623535,
         "z": 0.004000000189989805
     },
     "filePath": "",

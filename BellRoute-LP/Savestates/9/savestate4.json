@@ -1,45 +1,45 @@
 {
-    "saveStateIdentifier": "Trick - Shellwood Heal Skip",
-    "saveScene": "Shellwood_10",
+    "saveStateIdentifier": "Trick - High Halls Pixel Drop",
+    "saveScene": "Hang_08",
     "savedPd": {
-        "LastSetFieldName": "MapperLeftGreymoor",
+        "LastSetFieldName": "enteredHang_08",
         "version": "1.0.29315",
         "RevisionBreak": 28104,
-        "date": "2025/11/18",
+        "date": "2025/11/21",
         "profileID": 2,
-        "playTime": 3684.326904296875,
+        "playTime": 9656.626953125,
         "openingCreditsPlayed": true,
         "permadeathMode": 0,
         "CollectedDockDemoKey": false,
         "PreMemoryState": {
             "IsRecorded": false,
-            "Health": 3,
+            "Health": 4,
             "Silk": 9,
-            "Rosaries": 0,
-            "ShellShards": 3,
+            "Rosaries": 12,
+            "ShellShards": 38,
             "DoFullHeal": true
         },
         "HasStoredMemoryState": false,
-        "health": 4,
+        "health": 5,
         "maxHealth": 5,
         "maxHealthBase": 5,
         "healthBlue": 0,
-        "prevHealth": 4,
+        "prevHealth": 5,
         "heartPieces": 0,
         "SeenBindPrompt": true,
-        "geo": 12,
-        "silk": 9,
+        "geo": 332,
+        "silk": 1,
         "silkMax": 9,
         "silkRegenMax": 1,
         "IsSilkSpoolBroken": true,
         "silkSpoolParts": 0,
         "atBench": false,
-        "respawnScene": "Belltown",
-        "mapZone": 10,
-        "extraRestZone": 21,
-        "respawnMarkerName": "RestBench",
-        "respawnType": 1,
-        "hazardRespawnFacing": 0,
+        "respawnScene": "Cog_09",
+        "mapZone": 23,
+        "extraRestZone": 0,
+        "respawnMarkerName": "Death Respawn Marker",
+        "respawnType": 0,
+        "hazardRespawnFacing": 2,
         "HeroCorpseScene": "",
         "HeroDeathScenePos": {
             "x": 0.0,
@@ -54,24 +54,24 @@
         "HeroCorpseMoneyPool": 0,
         "nailRange": 0,
         "beamDamage": 0,
-        "nailUpgrades": 0,
-        "InvNailHasNew": false,
+        "nailUpgrades": 1,
+        "InvNailHasNew": true,
         "hasSilkSpecial": true,
         "silkSpecialLevel": 0,
         "hasNeedleThrow": true,
         "hasThreadSphere": false,
         "hasParry": false,
-        "hasHarpoonDash": false,
+        "hasHarpoonDash": true,
         "hasSilkCharge": false,
         "hasSilkBomb": false,
         "hasSilkBossNeedle": false,
-        "hasNeedolin": false,
+        "hasNeedolin": true,
         "attunement": 0,
         "attunementLevel": 1,
         "hasNeedolinMemoryPowerup": false,
         "hasDash": true,
         "hasBrolly": true,
-        "hasWalljump": false,
+        "hasWalljump": true,
         "hasDoubleJump": false,
         "hasQuill": false,
         "hasChargeSlash": false,
@@ -102,16 +102,16 @@
         "shermaPos": 2,
         "shermaConvoBellBeast": false,
         "metShermaPilgrimsRest": false,
-        "shermaInBellhart": false,
+        "shermaInBellhart": true,
         "shermaSeenInBellhart": false,
         "shermaSeenInSteps": false,
-        "shermaAtSteps": false,
+        "shermaAtSteps": true,
         "shermaConvoCoralBench": false,
         "shermaConvoCoralJudges": false,
         "hasActivatedBellBench": false,
         "shermaWokeInSteps": false,
-        "enteredCoral_10": false,
-        "shermaCitadelEntrance_Visiting": false,
+        "enteredCoral_10": true,
+        "shermaCitadelEntrance_Visiting": true,
         "shermaCitadelEntrance_Seen": false,
         "shermaCitadelEntrance_Left": false,
         "openedCitadelSpaLeft": false,
@@ -150,7 +150,7 @@
         "mapperReactedToBrokenBellBench": false,
         "SeenMapperBonetown": false,
         "MapperLeftBonetown": false,
-        "MapperAppearInBellhart": false,
+        "MapperAppearInBellhart": true,
         "SeenMapperBoneForest": true,
         "MapperLeftBoneForest": true,
         "SeenMapperDocks": true,
@@ -164,7 +164,7 @@
         "SeenMapperBellhart": false,
         "MapperLeftBellhart": false,
         "SeenMapperShellwood": true,
-        "MapperLeftShellwood": false,
+        "MapperLeftShellwood": true,
         "SeenMapperHuntersNest": false,
         "MapperLeftHuntersNest": false,
         "SeenMapperJudgeSteps": false,
@@ -199,7 +199,7 @@
         "metLearnedPilgrimAct3": false,
         "metDicePilgrim": false,
         "dicePilgrimDefeated": false,
-        "dicePilgrimState": 0,
+        "dicePilgrimState": 1,
         "dicePilgrimGameExplained": false,
         "dicePilgrimBank": 16,
         "metGarmond": false,
@@ -210,17 +210,17 @@
         "garmondInDust05": false,
         "garmondSeenInDust05": false,
         "garmondEncounterCooldown": false,
-        "enteredSong_19": false,
+        "enteredSong_19": true,
         "enteredSong_01": false,
-        "enteredSong_02": false,
+        "enteredSong_02": true,
         "garmondInSong01": false,
         "garmondSeenInSong01": false,
-        "garmondInSong02": false,
+        "garmondInSong02": true,
         "garmondSeenInSong02": false,
-        "enteredSong_13": false,
-        "garmondInSong13": false,
+        "enteredSong_13": true,
+        "garmondInSong13": true,
         "garmondSeenInSong13": false,
-        "enteredSong_17": false,
+        "enteredSong_17": true,
         "garmondInSong17": false,
         "garmondSeenInSong17": false,
         "garmondInLibrary": false,
@@ -393,6 +393,153 @@
                         "Kills": 2,
                         "HasBeenSeen": false
                     }
+                },
+                {
+                    "Name": "Spinner Boss",
+                    "Record": {
+                        "Kills": 1,
+                        "HasBeenSeen": false
+                    }
+                },
+                {
+                    "Name": "Pilgrim Fly",
+                    "Record": {
+                        "Kills": 1,
+                        "HasBeenSeen": false
+                    }
+                },
+                {
+                    "Name": "Last Judge",
+                    "Record": {
+                        "Kills": 1,
+                        "HasBeenSeen": false
+                    }
+                },
+                {
+                    "Name": "Pilgrim 01 Song",
+                    "Record": {
+                        "Kills": 3,
+                        "HasBeenSeen": false
+                    }
+                },
+                {
+                    "Name": "Clockwork Dancer",
+                    "Record": {
+                        "Kills": 1,
+                        "HasBeenSeen": false
+                    }
+                },
+                {
+                    "Name": "Pilgrim 02 Song",
+                    "Record": {
+                        "Kills": 2,
+                        "HasBeenSeen": false
+                    }
+                },
+                {
+                    "Name": "Song Pilgrim 03",
+                    "Record": {
+                        "Kills": 2,
+                        "HasBeenSeen": false
+                    }
+                },
+                {
+                    "Name": "Pilgrim 04 Song",
+                    "Record": {
+                        "Kills": 3,
+                        "HasBeenSeen": false
+                    }
+                },
+                {
+                    "Name": "Pilgrim Stomper Song",
+                    "Record": {
+                        "Kills": 1,
+                        "HasBeenSeen": false
+                    }
+                },
+                {
+                    "Name": "Pilgrim 03 Song",
+                    "Record": {
+                        "Kills": 2,
+                        "HasBeenSeen": false
+                    }
+                },
+                {
+                    "Name": "Song Reed",
+                    "Record": {
+                        "Kills": 1,
+                        "HasBeenSeen": false
+                    }
+                },
+                {
+                    "Name": "Scholar",
+                    "Record": {
+                        "Kills": 2,
+                        "HasBeenSeen": false
+                    }
+                },
+                {
+                    "Name": "Trobbio",
+                    "Record": {
+                        "Kills": 2,
+                        "HasBeenSeen": false
+                    }
+                },
+                {
+                    "Name": "Understore Automaton EX",
+                    "Record": {
+                        "Kills": 6,
+                        "HasBeenSeen": false
+                    }
+                },
+                {
+                    "Name": "Understore Automaton",
+                    "Record": {
+                        "Kills": 2,
+                        "HasBeenSeen": false
+                    }
+                },
+                {
+                    "Name": "Pilgrim 03 Understore",
+                    "Record": {
+                        "Kills": 1,
+                        "HasBeenSeen": false
+                    }
+                },
+                {
+                    "Name": "Pilgrim Staff Understore",
+                    "Record": {
+                        "Kills": 1,
+                        "HasBeenSeen": false
+                    }
+                },
+                {
+                    "Name": "Understore Poker",
+                    "Record": {
+                        "Kills": 2,
+                        "HasBeenSeen": false
+                    }
+                },
+                {
+                    "Name": "Understore Thrower",
+                    "Record": {
+                        "Kills": 1,
+                        "HasBeenSeen": false
+                    }
+                },
+                {
+                    "Name": "Understore Heavy",
+                    "Record": {
+                        "Kills": 1,
+                        "HasBeenSeen": false
+                    }
+                },
+                {
+                    "Name": "Song Automaton 02",
+                    "Record": {
+                        "Kills": 1,
+                        "HasBeenSeen": false
+                    }
                 }
             ]
         },
@@ -406,7 +553,7 @@
         "enteredTutorialFirstTime": false,
         "isInvincible": false,
         "infiniteAirJump": false,
-        "currentArea": "SHELLWOOD",
+        "currentArea": "HANG",
         "visitedMossCave": true,
         "visitedBoneBottom": true,
         "visitedBoneForest": true,
@@ -419,40 +566,40 @@
         "visitedWisp": false,
         "visitedBellhartHaunted": true,
         "visitedBellhart": true,
-        "visitedBellhartSaved": false,
+        "visitedBellhartSaved": true,
         "visitedShellwood": true,
         "visitedCrawl": false,
         "visitedDustpens": false,
         "visitedShadow": false,
         "visitedAqueducts": false,
         "visitedMistmaze": false,
-        "visitedCoral": false,
+        "visitedCoral": true,
         "visitedCoralRiver": false,
         "visitedCoralRiverInner": false,
         "visitedCoralTower": false,
         "visitedSlab": false,
-        "visitedGrandGate": false,
-        "visitedCitadel": false,
-        "visitedUnderstore": false,
+        "visitedGrandGate": true,
+        "visitedCitadel": true,
+        "visitedUnderstore": true,
         "visitedWard": false,
-        "visitedHalls": false,
-        "visitedLibrary": false,
-        "visitedStage": false,
+        "visitedHalls": true,
+        "visitedLibrary": true,
+        "visitedStage": true,
         "visitedGloom": false,
         "visitedWeave": false,
         "visitedMountain": false,
         "visitedIceCore": false,
-        "visitedHang": false,
+        "visitedHang": true,
         "visitedHangAtrium": false,
         "visitedEnclave": false,
         "visitedArborium": false,
-        "visitedCogwork": false,
+        "visitedCogwork": true,
         "visitedCradle": false,
         "visitedRuinedCradle": false,
         "visitedFleatopia": false,
         "visitedFleaFestival": false,
         "visitedAbyss": false,
-        "citadelHalfwayComplete": false,
+        "citadelHalfwayComplete": true,
         "mapUpdateQueued": false,
         "mapAllRooms": false,
         "HasSeenMapUpdated": false,
@@ -506,10 +653,10 @@
         "hasMarker_d": false,
         "hasMarker_e": false,
         "placedMarkers": [],
-        "environmentType": 11,
+        "environmentType": 0,
         "previousDarkness": 0,
-        "HasMelodyArchitect": false,
-        "HasMelodyLibrarian": false,
+        "HasMelodyArchitect": true,
+        "HasMelodyLibrarian": true,
         "SeenMelodyLibrarianReturn": false,
         "HasMelodyConductor": false,
         "UnlockedMelodyLift": false,
@@ -518,15 +665,15 @@
         "ConductorWeaverDlgQueued": false,
         "ConductorWeaverDlgHeard": false,
         "muchTimePassed": false,
-        "pilgrimGroupBonegrave": 3,
+        "pilgrimGroupBonegrave": 1,
         "pilgrimGroupShellgrave": 1,
-        "pilgrimGroupGreymoorField": 3,
+        "pilgrimGroupGreymoorField": 1,
         "shellGravePopulated": false,
         "bellShrineBoneForest": true,
         "bellShrineWilds": true,
         "bellShrineGreymoor": true,
-        "bellShrineShellwood": false,
-        "bellShrineBellhart": false,
+        "bellShrineShellwood": true,
+        "bellShrineBellhart": true,
         "bellShrineEnclave": false,
         "completedMemory_reaper": false,
         "completedMemory_wanderer": false,
@@ -586,7 +733,7 @@
         "PurchasedBonebottomToolMetal": false,
         "BoneBottomShopKeepWillLeave": false,
         "BoneBottomShopKeepLeft": false,
-        "bonetownCrowd": 6,
+        "bonetownCrowd": 2,
         "grindleReleasedFromBonejail": false,
         "explodeWallMosstown3": false,
         "bonegraveOpen": false,
@@ -649,7 +796,7 @@
         "ant04_battleCompleted": false,
         "ant04_enemiesReturn": false,
         "enemyGroupAnt04": 3,
-        "antMerchantKilled": false,
+        "antMerchantKilled": true,
         "ant21_InitBattleCompleted": false,
         "ant21_ExtraBattleAdded": false,
         "metAntQueenNPC": false,
@@ -705,7 +852,7 @@
         "lavaChallengeEntranceCavedIn": false,
         "completedLavaChallenge": false,
         "lavaSpittersEmerge": false,
-        "IsPinGallerySetup": false,
+        "IsPinGallerySetup": true,
         "MetPinChallengeBug": false,
         "WasInPinChallenge": false,
         "PinGalleryLastChallengeOpen": false,
@@ -747,7 +894,7 @@
         "HalfwayBartenderCursedConvo": false,
         "HalfwayBartenderHauntedBellhartConvo": false,
         "visitedHalfway": false,
-        "halfwayCrowd": 1,
+        "halfwayCrowd": 4,
         "HalfwayScarecrawAppeared": false,
         "HalfwayNectarOffered": false,
         "HalfwayNectarPaid": false,
@@ -789,8 +936,8 @@
         "aspid_04b_wildlifeReturned": false,
         "pilgrimFisherPossessed": false,
         "spinnerEncounter": 0,
-        "encounteredSpinner": false,
-        "spinnerDefeated": false,
+        "encounteredSpinner": true,
+        "spinnerDefeated": true,
         "SpinnerDefeatedTimePassed": true,
         "shellwood14_ambushed": false,
         "shellwoodTwigShortcut": false,
@@ -799,11 +946,11 @@
         "splinterQueenSproutTimer": 0,
         "splinterQueenSproutGrewLarge": false,
         "splinterQueenSproutCut": false,
-        "shellwood13_BellWall": false,
+        "shellwood13_BellWall": true,
         "defeatedShellwoodRosaryPilgrim": false,
         "shellwoodBellshrineTwigWall": false,
-        "seenEmptyShellwood16": false,
-        "slabFlyInShellwood16": false,
+        "seenEmptyShellwood16": true,
+        "slabFlyInShellwood16": true,
         "shellwoodSlabflyDefeated": false,
         "visitedShellwood_16": true,
         "sethShortcut": false,
@@ -885,8 +1032,8 @@
         "DefeatedSwampShaman": false,
         "thievesReturnedToShadow28": false,
         "SeenBelltownCutscene": true,
-        "belltownCrowdsReady": false,
-        "belltownCrowd": 0,
+        "belltownCrowdsReady": true,
+        "belltownCrowd": 4,
         "MetBelltownShopkeep": false,
         "BelltownShopkeepCourierConvo1Accepted": false,
         "BelltownShopkeepCourierConvo1Completed": false,
@@ -916,7 +1063,7 @@
         "BelltownCouriersFirstBeginDlg": false,
         "BelltownCouriersGenericQuests": [],
         "BelltownCouriersLastCompletedQuest": "",
-        "PinsmithMetBelltown": false,
+        "PinsmithMetBelltown": true,
         "PinsmithQuestOffered": false,
         "PinsmithUpg2Offered": false,
         "PinsmithUpg3Offered": false,
@@ -939,9 +1086,9 @@
         "BelltownDoctorConvo": 0,
         "MetFisherHomeBasic": false,
         "MetFisherHomeFull": false,
-        "FisherWalkerTimer": 27.85723304748535,
+        "FisherWalkerTimer": -0.0017878293292596937,
         "FisherWalkerDirection": true,
-        "FisherWalkerIdleTimeLeft": -0.0011465147836133838,
+        "FisherWalkerIdleTimeLeft": 28.056690216064454,
         "MetBelltownRelicDealer": false,
         "BelltownRelicDealerGaveRelic": false,
         "BelltownRelicDealerCylinderConvo": false,
@@ -1012,9 +1159,9 @@
         "coralKingHeartAppeared": false,
         "metGatePilgrim": false,
         "gatePilgrimNoNeedolinConvo": false,
-        "encounteredLastJudge": false,
-        "defeatedLastJudge": false,
-        "SeenLastJudgeGateOpen": false,
+        "encounteredLastJudge": true,
+        "defeatedLastJudge": true,
+        "SeenLastJudgeGateOpen": true,
         "pinstressStoppedResting": false,
         "pinstressInsideSitting": false,
         "pinstressQuestReady": false,
@@ -1122,12 +1269,12 @@
         "ArchitectWillLeave": false,
         "ArchitectLeft": false,
         "SeenArchitectLeft": false,
-        "citadelWoken": false,
-        "song05MarchGroupReady": false,
-        "laceMeetCitadel": false,
+        "citadelWoken": true,
+        "song05MarchGroupReady": true,
+        "laceMeetCitadel": true,
         "song18Shortcut": false,
-        "encounteredLibraryEntryBattle": false,
-        "completedLibraryEntryBattle": false,
+        "encounteredLibraryEntryBattle": true,
+        "completedLibraryEntryBattle": true,
         "scholarAmbushReady": false,
         "libraryRoofShortcut": false,
         "scholarAcolytesReleased": false,
@@ -1137,22 +1284,22 @@
         "completedLibraryAcolyteBattle": false,
         "library_14_ambush": false,
         "completedGrandStageBattle": false,
-        "encounteredTrobbio": false,
-        "defeatedTrobbio": false,
+        "encounteredTrobbio": true,
+        "defeatedTrobbio": true,
         "trobbioCleanedUp": false,
         "encounteredTormentedTrobbio": false,
         "defeatedTormentedTrobbio": false,
         "tormentedTrobbioLurking": false,
         "libraryStatueWoken": false,
-        "marionettesMet": false,
+        "marionettesMet": true,
         "song_17_clearedOut": false,
         "song_27_opened": false,
         "marionettesBurned": false,
-        "song_11_oneway": false,
+        "song_11_oneway": true,
         "citadel_encounteredFencers": false,
-        "enteredHang_08": false,
-        "LibrarianAskedForRelic": false,
-        "GivenLibrarianRelic": false,
+        "enteredHang_08": true,
+        "LibrarianAskedForRelic": true,
+        "GivenLibrarianRelic": true,
         "LibrarianMetAct3": false,
         "LibrarianMentionedMelody": false,
         "LibrarianAskedForMelody": false,
@@ -1161,8 +1308,8 @@
             "StartTime": 0.0
         },
         "LibrarianCollectionComplete": false,
-        "encounteredCogworkDancers": false,
-        "defeatedCogworkDancers": false,
+        "encounteredCogworkDancers": true,
+        "defeatedCogworkDancers": true,
         "cityMerchantSaved": false,
         "cityMerchantIntroduced": false,
         "cityMerchantEnclaveConvo": false,
@@ -1246,7 +1393,7 @@
         "hang04Battle": false,
         "leftTheGrandForum": false,
         "grindleMetGrandForum": false,
-        "opened_cog_06_door": false,
+        "opened_cog_06_door": true,
         "cog7_automaton_defeated": false,
         "cog7_gateOpened": false,
         "cog7_automatonRepairing": false,
@@ -1424,8 +1571,8 @@
         "CurseKilledFlyGreymoor": false,
         "CurseKilledFlyShellwood": false,
         "CurseKilledFlySwamp": false,
-        "act2Started": false,
-        "completionPercentage": 3.0,
+        "act2Started": true,
+        "completionPercentage": 7.0,
         "mapKeyPref": 0,
         "promisedFirstWish": true,
         "betaEnd": false,
@@ -1532,8 +1679,8 @@
                         "HasBeenSeen": false,
                         "IsAccepted": true,
                         "CompletedCount": 0,
-                        "IsCompleted": false,
-                        "WasEverCompleted": false
+                        "IsCompleted": true,
+                        "WasEverCompleted": true
                     }
                 },
                 {
@@ -1552,6 +1699,36 @@
                         "HasBeenSeen": false,
                         "IsAccepted": true,
                         "CompletedCount": 0,
+                        "IsCompleted": true,
+                        "WasEverCompleted": false
+                    }
+                },
+                {
+                    "Name": "Citadel Investigate",
+                    "Data": {
+                        "HasBeenSeen": false,
+                        "IsAccepted": true,
+                        "CompletedCount": 0,
+                        "IsCompleted": true,
+                        "WasEverCompleted": true
+                    }
+                },
+                {
+                    "Name": "Citadel Ascent",
+                    "Data": {
+                        "HasBeenSeen": false,
+                        "IsAccepted": true,
+                        "CompletedCount": 0,
+                        "IsCompleted": true,
+                        "WasEverCompleted": true
+                    }
+                },
+                {
+                    "Name": "Citadel Ascent Melodies",
+                    "Data": {
+                        "HasBeenSeen": false,
+                        "IsAccepted": true,
+                        "CompletedCount": 0,
                         "IsCompleted": false,
                         "WasEverCompleted": false
                     }
@@ -1561,12 +1738,12 @@
         "QuestRumourData": {
             "savedData": []
         },
-        "ShellShards": 38,
+        "ShellShards": 44,
         "HasSeenGeo": true,
         "HasSeenGeoMid": false,
         "HasSeenGeoBig": false,
         "HasSeenShellShards": true,
-        "HasSeenRation": false,
+        "HasSeenRation": true,
         "TempGeoStore": 0,
         "TempShellShardStore": 0,
         "Collectables": {
@@ -1582,7 +1759,16 @@
             ]
         },
         "Relics": {
-            "savedData": []
+            "savedData": [
+                {
+                    "Name": "Librarian Melody Cylinder",
+                    "Data": {
+                        "IsCollected": true,
+                        "IsDeposited": true,
+                        "HasSeenInRelicBoard": true
+                    }
+                }
+            ]
         },
         "UnlockedFastTravel": true,
         "FastTravelNPCLocation": 0,
@@ -2981,7 +3167,7 @@
                 {
                     "SceneName": "Belltown_06",
                     "ID": "Mines Lift",
-                    "Value": false,
+                    "Value": true,
                     "Mutator": 0
                 },
                 {
@@ -3011,6 +3197,12 @@
                 {
                     "SceneName": "Belltown",
                     "ID": "Courier Short Bellhart",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Belltown",
+                    "ID": "Mapper Sit NPC",
                     "Value": false,
                     "Mutator": 0
                 },
@@ -3150,6 +3342,1590 @@
                     "SceneName": "Shellwood_10",
                     "ID": "Silkfly Ambient",
                     "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Shellwood_11",
+                    "ID": "grave_marker_break_grey",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Shellwood_11",
+                    "ID": "Shellwood Twig Wall (3)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Shellwood_11",
+                    "ID": "Shellwood Twig Wall top",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Shellwood_11",
+                    "ID": "Shellwood Twig Wall start",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Shellwood_11",
+                    "ID": "Geo Small Persistent (1)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Shellwood_11",
+                    "ID": "Geo Small Persistent",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Shellwood_11",
+                    "ID": "Remasker New (1)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Shellwood_11",
+                    "ID": "Remasker New Twig Wall",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Shellwood_26",
+                    "ID": "Shellwood Twig Wall (2)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Shellwood_26",
+                    "ID": "Nectar Pickup",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Shellwood_26",
+                    "ID": "Shellwood Hive (1)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Shellwood_26",
+                    "ID": "Shell Shard Fossil Shellwood (2)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Shellwood_13",
+                    "ID": "Collectable Item Pickup",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Shellwood_13",
+                    "ID": "Secret Mask New",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Shellwood_13",
+                    "ID": "Bell Wall Tall",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Shellwood_13",
+                    "ID": "Bell Wall Tall (2)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Shellwood_13",
+                    "ID": "Bell Wall Tall (1)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Shellwood_13",
+                    "ID": "Remasker New",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Shellwood_13",
+                    "ID": "Remasker New (1)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Belltown_04",
+                    "ID": "Bell Wall Tall",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Belltown_04",
+                    "ID": "Bell Wall Tall (1)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Belltown_04",
+                    "ID": "Bell Wall Tall (4)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Belltown_04",
+                    "ID": "Bell Wall Tall (2)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Belltown_04",
+                    "ID": "Bell Wall Tall (3)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Belltown_04",
+                    "ID": "Remasker New (1)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Belltown_04",
+                    "ID": "Remasker New",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Belltown_Shrine",
+                    "ID": "Song_lever_side",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Memory_Needolin",
+                    "ID": "Reminder Needolin - Memory",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Shellwood_04b",
+                    "ID": "Shellwood Twig Wall (1)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_19",
+                    "ID": "thread_memory",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_19",
+                    "ID": "Geo Small Persistent (1)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_19",
+                    "ID": "Geo Small Persistent (2)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_19",
+                    "ID": "Geo Small Persistent",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_19",
+                    "ID": "Silkfly Ambient Perched (1)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_19",
+                    "ID": "Silkfly Ambient Perched",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_19",
+                    "ID": "Remasker New Sharp Ultra",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_02",
+                    "ID": "Song_lever_side",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_02",
+                    "ID": "bell_toll_machine",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_02",
+                    "ID": "Collectable Item Pickup (1)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_02",
+                    "ID": "Remasker New (1)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_02",
+                    "ID": "Remasker New",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_03",
+                    "ID": "Song_lever_side",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_03",
+                    "ID": "Collectable Item Pickup",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_32",
+                    "ID": "Coral Crust Wall Tall",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_32",
+                    "ID": "Remasker New",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_32",
+                    "ID": "Remasker New Sharp Ultra",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_32",
+                    "ID": "Remasker New Sharp Ultra (1)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_32",
+                    "ID": "Remasker New Sharp Ultra (2)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_32",
+                    "ID": "tool_metal_deposit",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_Judge_Arena",
+                    "ID": "song_bridge_pole_large (2)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_Judge_Arena",
+                    "ID": "song_bridge_pole_large",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_Judge_Arena",
+                    "ID": "song_bridge_pole_large (1)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_Judge_Arena",
+                    "ID": "SC_0058_sc_floor_03 (8)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_Judge_Arena",
+                    "ID": "SC_0058_sc_floor_03 (5)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_Judge_Arena",
+                    "ID": "SC_0058_sc_floor_03 (3)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_Judge_Arena",
+                    "ID": "SC_0058_sc_floor_03 (1)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_Judge_Arena",
+                    "ID": "SC_0058_sc_floor_03 (2)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_Judge_Arena",
+                    "ID": "SC_0058_sc_floor_03 (6)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_Judge_Arena",
+                    "ID": "SC_0058_sc_floor_03 (7)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_Judge_Arena",
+                    "ID": "SC_0058_sc_floor_03 (4)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_Judge_Arena",
+                    "ID": "SC_0059_sc_floor_02 (3)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_Judge_Arena",
+                    "ID": "SC_0059_sc_floor_02 (2)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_Judge_Arena",
+                    "ID": "SC_0059_sc_floor_02",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_Judge_Arena",
+                    "ID": "SC_0059_sc_floor_02 (4)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_Judge_Arena",
+                    "ID": "SC_0059_sc_floor_02 (1)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_Judge_Arena",
+                    "ID": "SC_0060_sc_post_01 (35)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_Judge_Arena",
+                    "ID": "SC_0060_sc_post_01 (36)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_Judge_Arena",
+                    "ID": "SC_0060_sc_floor_01 (15)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_Judge_Arena",
+                    "ID": "SC_0060_sc_post_01 (12)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_Judge_Arena",
+                    "ID": "SC_0060_sc_floor_01 (39)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_Judge_Arena",
+                    "ID": "SC_0060_sc_floor_01 (40)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_Judge_Arena",
+                    "ID": "SC_0060_sc_floor_01 (26)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_Judge_Arena",
+                    "ID": "SC_0060_sc_floor_01 (21)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_Judge_Arena",
+                    "ID": "SC_0060_sc_floor_01 (42)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_Judge_Arena",
+                    "ID": "SC_0060_sc_post_01 (38)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_Judge_Arena",
+                    "ID": "SC_0060_sc_floor_01 (4)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_Judge_Arena",
+                    "ID": "SC_0060_sc_floor_01",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_Judge_Arena",
+                    "ID": "SC_0060_sc_floor_01 (14)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_Judge_Arena",
+                    "ID": "SC_0060_sc_post_01 (37)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_Judge_Arena",
+                    "ID": "SC_0060_sc_floor_01 (6)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_Judge_Arena",
+                    "ID": "SC_0060_sc_post_01 (31)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_Judge_Arena",
+                    "ID": "SC_0060_sc_floor_01 (1)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_Judge_Arena",
+                    "ID": "SC_0060_sc_floor_01 (2)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_Judge_Arena",
+                    "ID": "SC_0060_sc_floor_01 (18)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_Judge_Arena",
+                    "ID": "SC_0060_sc_floor_01 (41)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_Judge_Arena",
+                    "ID": "SC_0060_sc_post_01 (43)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_Judge_Arena",
+                    "ID": "SC_0060_sc_floor_01 (5)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_Judge_Arena",
+                    "ID": "SC_0060_sc_floor_01 (3)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_Judge_Arena",
+                    "ID": "SC_0060_sc_floor_01 (23)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_Judge_Arena",
+                    "ID": "SC_0060_sc_floor_01 (11)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_10",
+                    "ID": "Coral10rightsidegate",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_10",
+                    "ID": "Seth Stand NPC",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_10",
+                    "ID": "Sherma Citadel NPC",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_10",
+                    "ID": "Silkfly Ambient Perched (2)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_10",
+                    "ID": "Silkfly Ambient Perched",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_10",
+                    "ID": "Silkfly Ambient (1)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_10",
+                    "ID": "Silkfly Ambient Perched (3)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_10",
+                    "ID": "Silkfly Ambient (3)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_10",
+                    "ID": "Silkfly Ambient (4)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_10",
+                    "ID": "Silkfly Ambient (6)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_10",
+                    "ID": "Silkfly Ambient Perched (1)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Song_19_entrance",
+                    "ID": "Breakable Wall Entrance Secret",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Song_19_entrance",
+                    "ID": "Song_lever_side",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Song_19_entrance",
+                    "ID": "Silk Spool",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Song_01",
+                    "ID": "Breakable Floor_basic Song_01",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Song_01",
+                    "ID": "Song_lever_side",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Song_01",
+                    "ID": "Remasker New",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Song_01",
+                    "ID": "Remasker New Sharp Ultra",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Under_07c",
+                    "ID": "Bot Blocker",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Under_07b",
+                    "ID": "Remasker New",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Song_01b",
+                    "ID": "Song_lever_side (1)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Song_01b",
+                    "ID": "Geo Med Persistent",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Song_01b",
+                    "ID": "Geo Small Persistent (1)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Song_01b",
+                    "ID": "Geo Small Persistent",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Song_01b",
+                    "ID": "Remasker New (1)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Song_02",
+                    "ID": "Remasker New Sharp (1)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Song_02",
+                    "ID": "Remasker New Sharp",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Song_02",
+                    "ID": "Remasker New Sharp (2)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Song_02",
+                    "ID": "Remasker New",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Song_05",
+                    "ID": "Remasker New",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Song_05",
+                    "ID": "Remasker New (1)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Song_05",
+                    "ID": "Breakable Window (1)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Song_05",
+                    "ID": "Breakable Window",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Song_11",
+                    "ID": "Breakable Wall",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Song_11",
+                    "ID": "Inverse Remasker",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Song_11",
+                    "ID": "Breakable Wall (1)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Song_11",
+                    "ID": "Song_lever_side",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Song_11",
+                    "ID": "Plug_Gate",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Song_11",
+                    "ID": "propeller understore propeller",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Song_11",
+                    "ID": "Remasker New Inverse",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Song_11",
+                    "ID": "Remasker New (1)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Song_11",
+                    "ID": "Remasker New",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Song_15",
+                    "ID": "Remasker New Sharp",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Song_15",
+                    "ID": "Remasker New",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Hang_06",
+                    "ID": "Bot Blocker",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Cog_Dancers",
+                    "ID": "cog_lever",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Cog_Dancers",
+                    "ID": "Green Prince Kneel",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Cog_Dancers",
+                    "ID": "slide_gate_ring",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Cog_04",
+                    "ID": "cog_lever",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Cog_04",
+                    "ID": "cog_lever (1)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Cog_06",
+                    "ID": "cog_lever",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Song_20b",
+                    "ID": "Song_lever_side",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Song_20b",
+                    "ID": "Dial Door Bridge",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Song_20b",
+                    "ID": "Remasker New",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Song_20b",
+                    "ID": "Remasker New Sharp Ultra",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_02",
+                    "ID": "Remasker New (1)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_02",
+                    "ID": "Remasker New",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_02",
+                    "ID": "Grouped Remasker",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_01",
+                    "ID": "Breakable Wall",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_04",
+                    "ID": "Top Shortcut",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_04",
+                    "ID": "Song_lever_side (1)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_04",
+                    "ID": "Song_lever_side",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_04",
+                    "ID": "Remasker New Sharp",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_04",
+                    "ID": "attic_ladder",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_04",
+                    "ID": "Remasker New",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_05",
+                    "ID": "library_glass_heart_piece",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_05",
+                    "ID": "attic_ladder",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_05",
+                    "ID": "Remasker New",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_05",
+                    "ID": "Remasker New Sharp Ultra",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_06",
+                    "ID": "Remasker New",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_13b",
+                    "ID": "Remasker New Sharp Ultra (1)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_13b",
+                    "ID": "Collectable Item Pickup - Quill Red",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_13",
+                    "ID": "Inverse Remasker",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_13",
+                    "ID": "Song_Gate_small",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_13",
+                    "ID": "Song_lever_side",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_13",
+                    "ID": "Song_lever_side (1)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_13",
+                    "ID": "Shell Shard 02 Persistent",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_13",
+                    "ID": "Shell Shard 03 Persistent",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_13",
+                    "ID": "Grouped Remasker",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_11",
+                    "ID": "Remasker New",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_11",
+                    "ID": "Remasker New - Right",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_11",
+                    "ID": "Remasker New - Centre",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_11",
+                    "ID": "Remasker New - Left",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_11",
+                    "ID": "Understore Big Plate Gate",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_11b",
+                    "ID": "Memory Orb Challenge (1)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_11b",
+                    "ID": "Barrel Plat Lift Thin (1)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_11b",
+                    "ID": "Secret Mask New",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_11b",
+                    "ID": "Remasker New Sharp",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_11b",
+                    "ID": "Barrel Plat Lift (3)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_11b",
+                    "ID": "Barrel Plat Lift (1)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_11b",
+                    "ID": "Barrel Plat Lift (2)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_11b",
+                    "ID": "Barrel Plat Lift (4)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_11b",
+                    "ID": "Plug_Gate",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_11b",
+                    "ID": "Silk Spool",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_11b",
+                    "ID": "Barrel Plat Lift Thin",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_11b",
+                    "ID": "Barrel Plat Lift Thin (5)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_11b",
+                    "ID": "Barrel Plat Lift Thin (4)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_11b",
+                    "ID": "Barrel Plat Lift Thin (3)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_11b",
+                    "ID": "plank_wall_cluster_metal (1)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Under_17",
+                    "ID": "Collectable Item Pickup",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Under_17",
+                    "ID": "Shell Shard 03 Persistent",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Under_17",
+                    "ID": "understore propeller",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Under_17",
+                    "ID": "Remasker New (10)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Under_17",
+                    "ID": "Remasker New (6)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Under_17",
+                    "ID": "Remasker New (9)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Under_17",
+                    "ID": "Remasker New (2)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Under_17",
+                    "ID": "Remasker New (8)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Under_17",
+                    "ID": "Remasker New (3)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Under_17",
+                    "ID": "Remasker New (4)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Under_17",
+                    "ID": "Remasker New (7)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Under_17",
+                    "ID": "Silkfly Ambient Perched",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Under_17",
+                    "ID": "Shell Shard 01 Persistent (1)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Under_17",
+                    "ID": "Shell Shard 01 Persistent",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Under_17",
+                    "ID": "Architect Shrine Door",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Under_17",
+                    "ID": "Tension Tone Single",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Under_13",
+                    "ID": "Coal Bucket Plat (2)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Under_13",
+                    "ID": "Coal Bucket Plat (10)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Under_13",
+                    "ID": "Coal Bucket Plat (1)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Under_13",
+                    "ID": "Coal Bucket Plat (9)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Under_13",
+                    "ID": "Coal Bucket Plat (6)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Under_13",
+                    "ID": "Coal Bucket Plat (7)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Under_13",
+                    "ID": "Coal Bucket Plat (5)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Under_13",
+                    "ID": "Innerworks Trap Bridge Large",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Under_13",
+                    "ID": "Remasker New (2)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Under_13",
+                    "ID": "Remasker New",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Under_13",
+                    "ID": "Remasker New (1)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Under_13",
+                    "ID": "Remasker New (3)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Under_18",
+                    "ID": "Inverse Remasker",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Under_18",
+                    "ID": "Collectable Item Pickup (1)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Under_18",
+                    "ID": "Battle Scene",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Under_18",
+                    "ID": "Remasker New (1)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Under_18",
+                    "ID": "Barrel Plat Lift Thin",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_12",
+                    "ID": "Remasker",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_12",
+                    "ID": "One Way Wall",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_12",
+                    "ID": "Remasker (1)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_12",
+                    "ID": "Collectable Item Pickup",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_12",
+                    "ID": "Remasker New Sharp",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_12",
+                    "ID": "Remasker New Sharp (1)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_12",
+                    "ID": "Plug_Gate",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_12",
+                    "ID": "Remasker New (1)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_12",
+                    "ID": "Remasker New",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_12",
+                    "ID": "breakable blocker struts",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_12b",
+                    "ID": "thread_memory",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_12b",
+                    "ID": "Shell Shard 02 Persistent",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_12b",
+                    "ID": "Shell Shard 03 Persistent",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_10",
+                    "ID": "Hornet_pressure_plate_small_persistent",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_10",
+                    "ID": "Breakable Wall",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_10",
+                    "ID": "thread_memory",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_10",
+                    "ID": "Remasker New",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_10",
+                    "ID": "Remasker New (1)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_10",
+                    "ID": "Silkfly Ambient Perched (1)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_10",
+                    "ID": "Silkfly Ambient Perched",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_10",
+                    "ID": "Tension Tone Single",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_08",
+                    "ID": "Collapser Small",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_08",
+                    "ID": "Collectable Item Pickup",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_08",
+                    "ID": "Remasker New",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_08",
+                    "ID": "Remasker New Inverted",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_08",
+                    "ID": "Remasker New (2)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Cog_08",
+                    "ID": "cog_lever",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Cog_09",
+                    "ID": "Cog_Choir_Cylinder",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Cog_09",
+                    "ID": "Cog_Choir_Cylinder (1)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Cog_09",
+                    "ID": "Cog_Choir_Cylinder (2)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Cog_09",
+                    "ID": "Cog_Choir_Cylinder (3)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Song_17",
+                    "ID": "Chest",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Hang_02",
+                    "ID": "Breakable Window (1)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Hang_03",
+                    "ID": "Breakable Window (1)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Hang_13",
+                    "ID": "Breakable Window (1)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Hang_08",
+                    "ID": "Chest",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Hang_08",
+                    "ID": "Breakable Wall",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Hang_08",
+                    "ID": "Breakable Window (1)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Hang_08",
+                    "ID": "slide_gate_ring (3)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Hang_08",
+                    "ID": "slide_gate_ring",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Hang_08",
+                    "ID": "slide_gate_ring (2)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Hang_08",
+                    "ID": "Remasker New",
+                    "Value": false,
                     "Mutator": 0
                 }
             ]
@@ -3517,6 +5293,12 @@
                     "Mutator": 0
                 },
                 {
+                    "SceneName": "Belltown",
+                    "ID": "Belltown Greeter Act3",
+                    "Value": 0,
+                    "Mutator": 0
+                },
+                {
                     "SceneName": "Belltown_07",
                     "ID": "rosary_cache_hang_bell",
                     "Value": -1,
@@ -3556,6 +5338,372 @@
                     "SceneName": "Shellwood_16",
                     "ID": "Mapper NPC",
                     "Value": 0,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Shellwood_11",
+                    "ID": "Shell Shard Fossil Tiny Bumpy",
+                    "Value": 1,
+                    "Mutator": 1
+                },
+                {
+                    "SceneName": "Shellwood_11",
+                    "ID": "Shell Shard Fossil Tiny Bumpy (2)",
+                    "Value": 1,
+                    "Mutator": 1
+                },
+                {
+                    "SceneName": "Shellwood_11",
+                    "ID": "Shell Shard Fossil Tiny Bumpy (1)",
+                    "Value": 1,
+                    "Mutator": 1
+                },
+                {
+                    "SceneName": "Shellwood_11",
+                    "ID": "Shell Shard Fossil Tiny Egg",
+                    "Value": 1,
+                    "Mutator": 1
+                },
+                {
+                    "SceneName": "Shellwood_11",
+                    "ID": "Shell Shard Fossil Mid",
+                    "Value": 3,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Belltown_04",
+                    "ID": "rosary_cache_bell_ground",
+                    "Value": -1,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Belltown_04",
+                    "ID": "rosary_string_small",
+                    "Value": -1,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Belltown_04",
+                    "ID": "rosary_string_medium",
+                    "Value": -1,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Belltown_Shrine",
+                    "ID": "Bellshrine Sequence Bellhart",
+                    "Value": 3,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Bellshrine_03",
+                    "ID": "Bellshrine Sequence",
+                    "Value": 1,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Coral_02",
+                    "ID": "Shell Shard Fossil Tiny Bumpy",
+                    "Value": 1,
+                    "Mutator": 1
+                },
+                {
+                    "SceneName": "Coral_02",
+                    "ID": "Shell Shard Fossil Tiny Egg",
+                    "Value": 1,
+                    "Mutator": 1
+                },
+                {
+                    "SceneName": "Coral_02",
+                    "ID": "Shell Shard Fossil Tiny Front",
+                    "Value": 1,
+                    "Mutator": 1
+                },
+                {
+                    "SceneName": "Song_01",
+                    "ID": "rosary_string_small_half",
+                    "Value": -1,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Song_01",
+                    "ID": "rosary_string_small",
+                    "Value": -1,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Song_01",
+                    "ID": "Song Shard Barrel",
+                    "Value": 3,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Song_01",
+                    "ID": "rosary_string_medium",
+                    "Value": -1,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Song_01",
+                    "ID": "rosary_string_small (1)",
+                    "Value": -1,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Song_01b",
+                    "ID": "rosary_string_small_mixed",
+                    "Value": -1,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Song_01b",
+                    "ID": "rosary_string_small",
+                    "Value": -1,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Song_01b",
+                    "ID": "rosary_string_medium",
+                    "Value": -1,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Song_11",
+                    "ID": "rosary_string_small_half (1)",
+                    "Value": -1,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Song_11",
+                    "ID": "rosary_string_small_half",
+                    "Value": -1,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Song_11",
+                    "ID": "rosary_string_small",
+                    "Value": -1,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Song_15",
+                    "ID": "rosary_string_small_half",
+                    "Value": -1,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Song_15",
+                    "ID": "rosary_string_small",
+                    "Value": -1,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Song_15",
+                    "ID": "rosary_string_medium",
+                    "Value": -1,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_02",
+                    "ID": "Library Sliding Plat (2)",
+                    "Value": 1,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_02",
+                    "ID": "Library Sliding Plat (1)",
+                    "Value": 1,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_01",
+                    "ID": "Library Sliding Plat",
+                    "Value": 0,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_01",
+                    "ID": "Library Sliding Plat (1)",
+                    "Value": 0,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_04",
+                    "ID": "rosary_bucket_library",
+                    "Value": -1,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_04",
+                    "ID": "Library Sliding Plat (2)",
+                    "Value": 0,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_04",
+                    "ID": "Library Sliding Plat (3)",
+                    "Value": 1,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_04",
+                    "ID": "Library Sliding Plat Tall (1)",
+                    "Value": 0,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_04",
+                    "ID": "Library Sliding Plat (1)",
+                    "Value": 1,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_04",
+                    "ID": "Library Sliding Plat",
+                    "Value": 1,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_05",
+                    "ID": "Library Sliding Plat Tall",
+                    "Value": 0,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_06",
+                    "ID": "rosary_string_small_half",
+                    "Value": -1,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_06",
+                    "ID": "rosary_bucket_library",
+                    "Value": -1,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_06",
+                    "ID": "rosary_string_small",
+                    "Value": -1,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_06",
+                    "ID": "Library Sliding Plat",
+                    "Value": 0,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_06",
+                    "ID": "Library Sliding Plat (2)",
+                    "Value": 0,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_06",
+                    "ID": "Library Sliding Plat (3)",
+                    "Value": 0,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_13",
+                    "ID": "Song Shard Barrel",
+                    "Value": 3,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_11",
+                    "ID": "library_lift_large",
+                    "Value": 0,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_11b",
+                    "ID": "Shell Shard Fossil Tiny Bumpy",
+                    "Value": 1,
+                    "Mutator": 1
+                },
+                {
+                    "SceneName": "Library_11b",
+                    "ID": "Song Shard Barrel (1)",
+                    "Value": 3,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_11b",
+                    "ID": "Song Shard Barrel",
+                    "Value": 3,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_11b",
+                    "ID": "Shell Shard Fossil Tiny Egg",
+                    "Value": 1,
+                    "Mutator": 1
+                },
+                {
+                    "SceneName": "Library_11b",
+                    "ID": "Shell Shard Fossil Tiny Egg (2)",
+                    "Value": 1,
+                    "Mutator": 1
+                },
+                {
+                    "SceneName": "Library_11b",
+                    "ID": "Shell Shard Fossil Tiny Front",
+                    "Value": 1,
+                    "Mutator": 1
+                },
+                {
+                    "SceneName": "Under_17",
+                    "ID": "Song Shard Under Chest",
+                    "Value": 3,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_12",
+                    "ID": "Shell Shard Fossil Dustpen Short",
+                    "Value": 1,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_12",
+                    "ID": "Shell Shard Fossil Dustpen Tall",
+                    "Value": 1,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_12",
+                    "ID": "Shell Shard Fossil Tiny Egg",
+                    "Value": 1,
+                    "Mutator": 1
+                },
+                {
+                    "SceneName": "Library_12",
+                    "ID": "Shell Shard Fossil Tiny Front",
+                    "Value": 1,
+                    "Mutator": 1
+                },
+                {
+                    "SceneName": "Library_12b",
+                    "ID": "Song Shard Under Chest",
+                    "Value": 3,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_10",
+                    "ID": "Library Statue NPC",
+                    "Value": 0,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_08",
+                    "ID": "rosary_string_small_half",
+                    "Value": -1,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Library_08",
+                    "ID": "rosary_string_small",
+                    "Value": -1,
                     "Mutator": 0
                 }
             ]
@@ -3627,22 +5775,28 @@
                     "ID": "Geo Rock Deepnest",
                     "Value": 3,
                     "Mutator": 0
+                },
+                {
+                    "SceneName": "Shellwood_26",
+                    "ID": "Geo Rock 3",
+                    "Value": 3,
+                    "Mutator": 0
                 }
             ]
         }
     },
     "savePos": {
-        "x": 1.0011672973632813,
-        "y": 64.56767272949219,
+        "x": 10.729002952575684,
+        "y": 131.2943878173828,
         "z": 0.004000000189989805
     },
     "filePath": "",
     "isKinematized": false,
     "loadedScenes": [
-        "Shellwood_10"
+        "Hang_08"
     ],
     "loadedSceneActiveScenes": [
-        "Shellwood_10"
+        "Hang_08"
     ],
     "roomSpecificOptions": ""
 }

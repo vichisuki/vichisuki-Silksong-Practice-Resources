@@ -1,6 +1,6 @@
 {
-    "saveStateIdentifier": "Trick - Blasted Steps Wall Jump",
-    "saveScene": "Coral_03",
+    "saveStateIdentifier": "Trick - Blasted Steps Driznit Pogo",
+    "saveScene": "Coral_02",
     "savedPd": {
         "LastSetFieldName": "bellShrineShellwood",
         "version": "1.0.29315",
@@ -28,7 +28,7 @@
         "heartPieces": 0,
         "SeenBindPrompt": true,
         "geo": 12,
-        "silk": 2,
+        "silk": 1,
         "silkMax": 9,
         "silkRegenMax": 1,
         "IsSilkSpoolBroken": true,
@@ -39,7 +39,7 @@
         "extraRestZone": 9,
         "respawnMarkerName": "Death Respawn Marker",
         "respawnType": 0,
-        "hazardRespawnFacing": 2,
+        "hazardRespawnFacing": 0,
         "HeroCorpseScene": "",
         "HeroDeathScenePos": {
             "x": 0.0,
@@ -520,7 +520,7 @@
         "hasMarker_d": false,
         "hasMarker_e": false,
         "placedMarkers": [],
-        "environmentType": 0,
+        "environmentType": 4,
         "previousDarkness": 0,
         "HasMelodyArchitect": false,
         "HasMelodyLibrarian": false,
@@ -953,9 +953,9 @@
         "BelltownDoctorConvo": 0,
         "MetFisherHomeBasic": false,
         "MetFisherHomeFull": false,
-        "FisherWalkerTimer": -0.013383081182837487,
+        "FisherWalkerTimer": -0.00299362582154572,
         "FisherWalkerDirection": true,
-        "FisherWalkerIdleTimeLeft": 65.17118072509766,
+        "FisherWalkerIdleTimeLeft": 39.91444396972656,
         "MetBelltownRelicDealer": false,
         "BelltownRelicDealerGaveRelic": false,
         "BelltownRelicDealerCylinderConvo": false,
@@ -3417,18 +3417,6 @@
                     "ID": "Remasker New",
                     "Value": false,
                     "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_03",
-                    "ID": "Song_lever_side",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_03",
-                    "ID": "Collectable Item Pickup",
-                    "Value": false,
-                    "Mutator": 0
                 }
             ]
         },
@@ -4000,17 +3988,17 @@
         }
     },
     "savePos": {
-        "x": 21.550003051757814,
-        "y": 101.56767272949219,
+        "x": 240.35848999023438,
+        "y": 57.56767654418945,
         "z": 0.004000000189989805
     },
     "filePath": "",
     "isKinematized": false,
     "loadedScenes": [
-        "Coral_03"
+        "Coral_02"
     ],
     "loadedSceneActiveScenes": [
-        "Coral_03"
+        "Coral_02"
     ],
     "roomSpecificOptions": ""
 }

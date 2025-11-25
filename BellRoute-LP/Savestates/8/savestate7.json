@@ -1,13 +1,13 @@
 {
-    "saveStateIdentifier": "Trick - Craw Pogo",
-    "saveScene": "Greymoor_15",
+    "saveStateIdentifier": "Trick - Far Fields Cloak Pogo",
+    "saveScene": "Bone_East_10",
     "savedPd": {
-        "LastSetFieldName": "MapperLeftWilds",
+        "LastSetFieldName": "hasBrolly",
         "version": "1.0.29315",
         "RevisionBreak": 28104,
         "date": "2025/11/17",
         "profileID": 2,
-        "playTime": 3635.671142578125,
+        "playTime": 2372.982666015625,
         "openingCreditsPlayed": true,
         "permadeathMode": 0,
         "CollectedDockDemoKey": false,
@@ -28,18 +28,18 @@
         "heartPieces": 0,
         "SeenBindPrompt": true,
         "geo": 12,
-        "silk": 8,
+        "silk": 1,
         "silkMax": 9,
         "silkRegenMax": 1,
         "IsSilkSpoolBroken": true,
         "silkSpoolParts": 0,
         "atBench": false,
-        "respawnScene": "Greymoor_02",
-        "mapZone": 3,
-        "extraRestZone": 0,
+        "respawnScene": "Bone_East_Umbrella",
+        "mapZone": 16,
+        "extraRestZone": 2,
         "respawnMarkerName": "RestBench",
         "respawnType": 1,
-        "hazardRespawnFacing": 1,
+        "hazardRespawnFacing": 0,
         "HeroCorpseScene": "",
         "HeroDeathScenePos": {
             "x": 0.0,
@@ -139,7 +139,7 @@
         "mapperBellhartConvo": false,
         "mapperBellhartConvoTimePassed": false,
         "mapperBellhartConvo2": false,
-        "mapperAway": false,
+        "mapperAway": true,
         "mapperMetInAnt04": false,
         "mapperTubeConvo": false,
         "mapperBrokenBenchConvo": false,
@@ -154,12 +154,12 @@
         "SeenMapperBoneForest": true,
         "MapperLeftBoneForest": true,
         "SeenMapperDocks": true,
-        "MapperLeftDocks": true,
-        "SeenMapperWilds": true,
-        "MapperLeftWilds": true,
+        "MapperLeftDocks": false,
+        "SeenMapperWilds": false,
+        "MapperLeftWilds": false,
         "SeenMapperCrawl": false,
         "MapperLeftCrawl": false,
-        "SeenMapperGreymoor": true,
+        "SeenMapperGreymoor": false,
         "MapperLeftGreymoor": false,
         "SeenMapperBellhart": false,
         "MapperLeftBellhart": false,
@@ -292,7 +292,7 @@
                 {
                     "Name": "Bone Circler",
                     "Record": {
-                        "Kills": 3,
+                        "Kills": 1,
                         "HasBeenSeen": false
                     }
                 },
@@ -364,7 +364,7 @@
         "enteredTutorialFirstTime": false,
         "isInvincible": false,
         "infiniteAirJump": false,
-        "currentArea": "GREYMOOR",
+        "currentArea": "WILDS",
         "visitedMossCave": true,
         "visitedBoneBottom": true,
         "visitedBoneForest": true,
@@ -373,7 +373,7 @@
         "visitedDeepDocks": true,
         "visitedWilds": true,
         "visitedGrove": false,
-        "visitedGreymoor": true,
+        "visitedGreymoor": false,
         "visitedWisp": false,
         "visitedBellhartHaunted": false,
         "visitedBellhart": false,
@@ -477,7 +477,7 @@
         "ConductorWeaverDlgHeard": false,
         "muchTimePassed": false,
         "pilgrimGroupBonegrave": 2,
-        "pilgrimGroupShellgrave": 1,
+        "pilgrimGroupShellgrave": 3,
         "pilgrimGroupGreymoorField": 2,
         "shellGravePopulated": false,
         "bellShrineBoneForest": true,
@@ -544,7 +544,7 @@
         "PurchasedBonebottomToolMetal": false,
         "BoneBottomShopKeepWillLeave": false,
         "BoneBottomShopKeepLeft": false,
-        "bonetownCrowd": 6,
+        "bonetownCrowd": 5,
         "grindleReleasedFromBonejail": false,
         "explodeWallMosstown3": false,
         "bonegraveOpen": false,
@@ -606,7 +606,7 @@
         "antBenchTrapDefused": false,
         "ant04_battleCompleted": false,
         "ant04_enemiesReturn": false,
-        "enemyGroupAnt04": 1,
+        "enemyGroupAnt04": 2,
         "antMerchantKilled": false,
         "ant21_InitBattleCompleted": false,
         "ant21_ExtraBattleAdded": false,
@@ -625,7 +625,7 @@
         "destroyedSongGolemRock": false,
         "boneEast07_openedMidRoof": true,
         "openedTallGeyser": true,
-        "openedGeyserShaft": true,
+        "openedGeyserShaft": false,
         "openedSongGateDocks": false,
         "openedDocksBackEntrance": false,
         "docksBomberAmbush": false,
@@ -680,8 +680,8 @@
         "defeatedGuardBoneEast25": false,
         "CompletedWeaveSprintChallenge": false,
         "CompletedWeaveSprintChallengeMax": false,
-        "crashingIntoGreymoor": true,
-        "crashedIntoGreymoor": true,
+        "crashingIntoGreymoor": false,
+        "crashedIntoGreymoor": false,
         "greymoor_04_battleCompleted": false,
         "greymoor_10_entered": false,
         "greymoor_05_centipedeArrives": false,
@@ -705,12 +705,12 @@
         "HalfwayBartenderCursedConvo": false,
         "HalfwayBartenderHauntedBellhartConvo": false,
         "visitedHalfway": false,
-        "halfwayCrowd": 3,
+        "halfwayCrowd": 2,
         "HalfwayScarecrawAppeared": false,
         "HalfwayNectarOffered": false,
         "HalfwayNectarPaid": false,
         "MetHalfwayBartenderAct3": false,
-        "halfwayCrowEnemyGroup": 1,
+        "halfwayCrowEnemyGroup": 2,
         "brokeUnderstoreFloor": false,
         "enteredGreymoor05": false,
         "previouslyVisitedGreymoor_05": false,
@@ -897,9 +897,9 @@
         "BelltownDoctorConvo": 0,
         "MetFisherHomeBasic": false,
         "MetFisherHomeFull": false,
-        "FisherWalkerTimer": 68.50200653076172,
+        "FisherWalkerTimer": 42.5586051940918,
         "FisherWalkerDirection": false,
-        "FisherWalkerIdleTimeLeft": 27.77342987060547,
+        "FisherWalkerIdleTimeLeft": -0.0012214741436764598,
         "MetBelltownRelicDealer": false,
         "BelltownRelicDealerGaveRelic": false,
         "BelltownRelicDealerCylinderConvo": false,
@@ -2595,144 +2595,6 @@
                     "ID": "Toll Door",
                     "Value": false,
                     "Mutator": 0
-                },
-                {
-                    "SceneName": "Bone_East_11",
-                    "ID": "Song_lever_side (1)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Bone_East_11",
-                    "ID": "Song_lever_side",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Bone_East_11",
-                    "ID": "DropBomb Rock",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Bone_East_11",
-                    "ID": "Wind Rock",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Bone_East_11",
-                    "ID": "explode_wall",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Bone_East_11",
-                    "ID": "Bone East 11 Cross Over Group",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Bone_East_11",
-                    "ID": "Remasker New Sharp",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Greymoor_01",
-                    "ID": "Song_lever_side",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Greymoor_01",
-                    "ID": "Bell Chain Plat",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Greymoor_02",
-                    "ID": "Breakable Wall",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Greymoor_02",
-                    "ID": "Mapper Sit NPC",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Greymoor_02",
-                    "ID": "Silk Spool",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Greymoor_02",
-                    "ID": "Greymoor Stand Lever - Bridge",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Greymoor_02",
-                    "ID": "Greymoor Stand Lever - Crane",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Greymoor_02",
-                    "ID": "Craw_home_front",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Greymoor_02",
-                    "ID": "Craw_home_front (1)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Greymoor_02",
-                    "ID": "Craw_home_right",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Greymoor_02",
-                    "ID": "Flyaway Scene",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Greymoor_15",
-                    "ID": "Collectable Item Pickup",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Greymoor_15",
-                    "ID": "greymoor_lever_simple",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Greymoor_15",
-                    "ID": "Geo Small Persistent",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Greymoor_15",
-                    "ID": "Geo Small Persistent (1)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Greymoor_15",
-                    "ID": "Craw_home_right",
-                    "Value": false,
-                    "Mutator": 0
                 }
             ]
         },
@@ -3001,24 +2863,6 @@
                     "ID": "Sherma Docks NPC",
                     "Value": 0,
                     "Mutator": 0
-                },
-                {
-                    "SceneName": "Greymoor_02",
-                    "ID": "rosary_string_small_half",
-                    "Value": -1,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Greymoor_02",
-                    "ID": "rosary_string_small",
-                    "Value": -1,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Greymoor_02",
-                    "ID": "Seth Sit NPC Greymoor",
-                    "Value": 0,
-                    "Mutator": 0
                 }
             ]
         },
@@ -3053,34 +2897,22 @@
                     "ID": "Geo Rock 2",
                     "Value": 3,
                     "Mutator": 0
-                },
-                {
-                    "SceneName": "Greymoor_01",
-                    "ID": "Geo Rock Deepnest",
-                    "Value": 3,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Greymoor_15",
-                    "ID": "Geo Rock 1",
-                    "Value": 3,
-                    "Mutator": 0
                 }
             ]
         }
     },
     "savePos": {
-        "x": 15.897045135498047,
-        "y": 21.629783630371095,
+        "x": 2.5857434272766115,
+        "y": 15.5676851272583,
         "z": 0.004000000189989805
     },
     "filePath": "",
     "isKinematized": false,
     "loadedScenes": [
-        "Greymoor_15"
+        "Bone_East_10"
     ],
     "loadedSceneActiveScenes": [
-        "Greymoor_15"
+        "Bone_East_10"
     ],
     "roomSpecificOptions": ""
 }
