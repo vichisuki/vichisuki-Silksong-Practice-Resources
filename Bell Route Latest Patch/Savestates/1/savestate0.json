@@ -1,6 +1,6 @@
 {
     "saveStateIdentifier": "IL - Shellwood Bell (Use Kill All)",
-    "saveScene": "Shellwood_10",
+    "saveScene": "Belltown_Shrine",
     "savedPd": {
         "LastSetFieldName": "MapperLeftGreymoor",
         "version": "1.0.29315",
@@ -24,11 +24,11 @@
         "maxHealth": 5,
         "maxHealthBase": 5,
         "healthBlue": 0,
-        "prevHealth": 4,
+        "prevHealth": 5,
         "heartPieces": 0,
         "SeenBindPrompt": true,
         "geo": 12,
-        "silk": 9,
+        "silk": 1,
         "silkMax": 9,
         "silkRegenMax": 1,
         "IsSilkSpoolBroken": true,
@@ -506,8 +506,8 @@
         "hasMarker_d": false,
         "hasMarker_e": false,
         "placedMarkers": [],
-        "environmentType": 1,
-        "previousDarkness": 0,
+        "environmentType": 4,
+        "previousDarkness": 1,
         "HasMelodyArchitect": false,
         "HasMelodyLibrarian": false,
         "SeenMelodyLibrarianReturn": false,
@@ -799,7 +799,7 @@
         "splinterQueenSproutTimer": 0,
         "splinterQueenSproutGrewLarge": false,
         "splinterQueenSproutCut": false,
-        "shellwood13_BellWall": false,
+        "shellwood13_BellWall": true,
         "defeatedShellwoodRosaryPilgrim": false,
         "shellwoodBellshrineTwigWall": false,
         "seenEmptyShellwood16": false,
@@ -941,7 +941,7 @@
         "MetFisherHomeFull": false,
         "FisherWalkerTimer": -0.004118905868381262,
         "FisherWalkerDirection": true,
-        "FisherWalkerIdleTimeLeft": 80.4598388671875,
+        "FisherWalkerIdleTimeLeft": 30.062114715576173,
         "MetBelltownRelicDealer": false,
         "BelltownRelicDealerGaveRelic": false,
         "BelltownRelicDealerCylinderConvo": false,
@@ -3199,6 +3199,120 @@
                     "ID": "Remasker New Twig Wall",
                     "Value": false,
                     "Mutator": 0
+                },
+                {
+                    "SceneName": "Shellwood_26",
+                    "ID": "Shellwood Twig Wall (2)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Shellwood_26",
+                    "ID": "Nectar Pickup",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Shellwood_26",
+                    "ID": "Shellwood Hive (1)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Shellwood_26",
+                    "ID": "Shell Shard Fossil Shellwood (2)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Shellwood_13",
+                    "ID": "Collectable Item Pickup",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Shellwood_13",
+                    "ID": "Secret Mask New",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Shellwood_13",
+                    "ID": "Bell Wall Tall",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Shellwood_13",
+                    "ID": "Bell Wall Tall (2)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Shellwood_13",
+                    "ID": "Bell Wall Tall (1)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Shellwood_13",
+                    "ID": "Remasker New",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Shellwood_13",
+                    "ID": "Remasker New (1)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Belltown_04",
+                    "ID": "Bell Wall Tall",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Belltown_04",
+                    "ID": "Bell Wall Tall (1)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Belltown_04",
+                    "ID": "Bell Wall Tall (4)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Belltown_04",
+                    "ID": "Bell Wall Tall (2)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Belltown_04",
+                    "ID": "Bell Wall Tall (3)",
+                    "Value": true,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Belltown_04",
+                    "ID": "Remasker New (1)",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Belltown_04",
+                    "ID": "Remasker New",
+                    "Value": false,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Belltown_Shrine",
+                    "ID": "Song_lever_side",
+                    "Value": false,
+                    "Mutator": 0
                 }
             ]
         },
@@ -3635,6 +3749,30 @@
                     "ID": "Shell Shard Fossil Mid",
                     "Value": 3,
                     "Mutator": 0
+                },
+                {
+                    "SceneName": "Belltown_04",
+                    "ID": "rosary_cache_bell_ground",
+                    "Value": -1,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Belltown_04",
+                    "ID": "rosary_string_small",
+                    "Value": -1,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Belltown_04",
+                    "ID": "rosary_string_medium",
+                    "Value": -1,
+                    "Mutator": 0
+                },
+                {
+                    "SceneName": "Belltown_Shrine",
+                    "ID": "Bellshrine Sequence Bellhart",
+                    "Value": 0,
+                    "Mutator": 0
                 }
             ]
         },
@@ -3705,22 +3843,28 @@
                     "ID": "Geo Rock Deepnest",
                     "Value": 3,
                     "Mutator": 0
+                },
+                {
+                    "SceneName": "Shellwood_26",
+                    "ID": "Geo Rock 3",
+                    "Value": 3,
+                    "Mutator": 0
                 }
             ]
         }
     },
     "savePos": {
-        "x": 76.57061004638672,
-        "y": 93.56767272949219,
+        "x": 52.05733871459961,
+        "y": 8.567684173583985,
         "z": 0.004000000189989805
     },
     "filePath": "",
     "isKinematized": false,
     "loadedScenes": [
-        "Shellwood_10"
+        "Belltown_Shrine"
     ],
     "loadedSceneActiveScenes": [
-        "Shellwood_10"
+        "Belltown_Shrine"
     ],
     "roomSpecificOptions": ""
 }
