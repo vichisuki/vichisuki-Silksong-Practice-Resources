@@ -1,4 +1,8 @@
-Description of each savestate created for Bell Route's Latest Patch.
+# Bell Route LP Savestates
+
+Description of each savestate created for Bell Route's Latest Patch in Silksong Any%.
+
+ComSOB Sheet can be found [here](https://docs.google.com/spreadsheets/d/1-Hy5k_h9dBUUPlwh_I14K-DEwGcNdVQ0utI-KX56d8c/edit?gid=7316953#gid=7316953).
 
 Click on the arrows next to each label for more info. 
 <details>
@@ -7,7 +11,7 @@ Click on the arrows next to each label for more info.
 0. Moss Mother 
     - After bind prompt and movement is unlocked
     - If using with ComSOB Sheet, **please start split from game start**.
-    - If using for practice, set start split to manual split and start timer at 21.95 for when movement starts
+    - If using for practice, set start split to manual split and start timer at 21.90 for when movement starts
     - Start Split on Manual Split or Start Game
     - End Split on Moss Mother Transition
 1. Silk Spear
@@ -73,8 +77,32 @@ Click on the arrows next to each label for more info.
     - If using with ComSOB sheets, it is acceptable to use the provided savestate as long as the split starts upon transition into Cogwork Core and start timer is at 21.70.
 
 4. Trobbio
-    - In Whispering Vaults Arena room. Do not use Kill All, it will softlock you.
-    - If you wish to start split after arena completion, use the "Movement - Trobbio" savestate on page 5.
-    
+    - In Whispering Vaults Arena room after arena completion.
+    - Start Split on Whispering Vaults Arena exit transition
+    - End Split on transition after Trobbio
 
+5. Clawline
+    - Outside Trobbio arena before transition.
+    - Start Split on Trobbio transition
+    - End Split on Clawline arena exit (upwards)
+
+6. Vaultkeeper's Melody
+    - In completed Clawline arena.
+    - Start Split on Clawline arena transition
+    - End split on Vaultkeeper's Melody exit transition
+
+7. Architect's Melody
+    - In Vaultkeeper room after melody obtained.
+    - Start Split on Vaultkeeper's Melody transition
+    - End Split on Architect's Melody transition
+
+8. Enter High Halls Arena
+    - In Architect's Melody room at top of Cogwork Core after cutscene.
+    - Start Split on Architect's Melody transition (exit)
+    - End Split on Enter High Halls Gauntlet (transition)
+
+9. Conductor's Melody
+    - Outside High Halls Arena.
+    - Start Split on Enter High Halls Gauntlet transition
+    - End Split on transition after Conductor's Melody
 </details>
