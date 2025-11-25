@@ -309,6 +309,8 @@ Click on the arrows next to each label for more info.
 
 </details>
 
+### Tricks
+
 <details>
 <summary><b>Page 9</b></summary>
 
