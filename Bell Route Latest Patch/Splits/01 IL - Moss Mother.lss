@@ -87,7 +87,7 @@
     <CustomSettings>
       <Setting id="script_name" type="string" value="silksong_autosplit_wasm" />
       <Setting id="splits" type="list">
-        <Setting type="string" value="ManualSplit" />
+        <Setting type="string" value="StartNewGame" />
         <Setting type="string" value="TransitionExcludingDiscontinuities" />
         <Setting type="string" value="TransitionExcludingDiscontinuities" />
         <Setting type="string" value="TransitionExcludingDiscontinuities" />
@@ -96,7 +96,7 @@
         <Setting type="string" value="MossMother" />
         <Setting type="string" value="MossMotherTrans" />
       </Setting>
-      <Setting id="splits_0_item" type="string" value="ManualSplit" />
+      <Setting id="splits_0_item" type="string" value="StartNewGame" />
       <Setting id="splits_1_item" type="string" value="TransitionExcludingDiscontinuities" />
       <Setting id="splits_2_item" type="string" value="TransitionExcludingDiscontinuities" />
       <Setting id="splits_3_item" type="string" value="TransitionExcludingDiscontinuities" />
