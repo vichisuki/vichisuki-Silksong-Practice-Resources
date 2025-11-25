@@ -39,7 +39,7 @@
         "extraRestZone": 0,
         "respawnMarkerName": "Death Respawn Marker Church",
         "respawnType": 0,
-        "hazardRespawnFacing": 0,
+        "hazardRespawnFacing": 1,
         "HeroCorpseScene": "",
         "HeroDeathScenePos": {
             "x": 0.0,
@@ -287,9 +287,9 @@
         "enteredTutorialFirstTime": false,
         "isInvincible": false,
         "infiniteAirJump": false,
-        "currentArea": "MOSSCAVE",
+        "currentArea": "BONEBOTTOM",
         "visitedMossCave": true,
-        "visitedBoneBottom": false,
+        "visitedBoneBottom": true,
         "visitedBoneForest": false,
         "visitedMosstown": false,
         "visitedHuntersTrail": false,
@@ -822,7 +822,7 @@
         "MetFisherHomeFull": false,
         "FisherWalkerTimer": -0.0029401681385934355,
         "FisherWalkerDirection": true,
-        "FisherWalkerIdleTimeLeft": 27.900793075561525,
+        "FisherWalkerIdleTimeLeft": 7.3039374351501469,
         "MetBelltownRelicDealer": false,
         "BelltownRelicDealerGaveRelic": false,
         "BelltownRelicDealerCylinderConvo": false,
@@ -1780,7 +1780,7 @@
         }
     },
     "savePos": {
-        "x": 67.4000015258789,
+        "x": 313.090576171875,
         "y": 7.567685127258301,
         "z": 0.004000000189989805
     },
