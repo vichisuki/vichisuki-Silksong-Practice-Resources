@@ -1,8 +1,8 @@
 {
-    "saveStateIdentifier": "IL - Shellwood Bell (Use Kill All)",
-    "saveScene": "Belltown_Shrine",
+    "saveStateIdentifier": "IL - Shellwood Bell",
+    "saveScene": "Memory_Needolin",
     "savedPd": {
-        "LastSetFieldName": "MapperLeftGreymoor",
+        "LastSetFieldName": "disableInventory",
         "version": "1.0.29315",
         "RevisionBreak": 28104,
         "date": "2025/11/18",
@@ -12,14 +12,14 @@
         "permadeathMode": 0,
         "CollectedDockDemoKey": false,
         "PreMemoryState": {
-            "IsRecorded": false,
-            "Health": 3,
+            "IsRecorded": true,
+            "Health": 5,
             "Silk": 9,
-            "Rosaries": 0,
-            "ShellShards": 3,
-            "DoFullHeal": true
+            "Rosaries": 12,
+            "ShellShards": 38,
+            "DoFullHeal": false
         },
-        "HasStoredMemoryState": false,
+        "HasStoredMemoryState": true,
         "health": 5,
         "maxHealth": 5,
         "maxHealthBase": 5,
@@ -28,14 +28,14 @@
         "heartPieces": 0,
         "SeenBindPrompt": true,
         "geo": 12,
-        "silk": 1,
+        "silk": 9,
         "silkMax": 9,
         "silkRegenMax": 1,
         "IsSilkSpoolBroken": true,
         "silkSpoolParts": 0,
         "atBench": false,
-        "respawnScene": "Shellwood_10",
-        "mapZone": 4,
+        "respawnScene": "Memory_Needolin",
+        "mapZone": 33,
         "extraRestZone": 0,
         "respawnMarkerName": "Death Respawn Marker",
         "respawnType": 0,
@@ -65,7 +65,7 @@
         "hasSilkCharge": false,
         "hasSilkBomb": false,
         "hasSilkBossNeedle": false,
-        "hasNeedolin": false,
+        "hasNeedolin": true,
         "attunement": 0,
         "attunementLevel": 1,
         "hasNeedolinMemoryPowerup": false,
@@ -393,6 +393,13 @@
                         "Kills": 2,
                         "HasBeenSeen": false
                     }
+                },
+                {
+                    "Name": "Spinner Boss",
+                    "Record": {
+                        "Kills": 1,
+                        "HasBeenSeen": false
+                    }
                 }
             ]
         },
@@ -506,7 +513,7 @@
         "hasMarker_d": false,
         "hasMarker_e": false,
         "placedMarkers": [],
-        "environmentType": 4,
+        "environmentType": 12,
         "previousDarkness": 1,
         "HasMelodyArchitect": false,
         "HasMelodyLibrarian": false,
@@ -789,8 +796,8 @@
         "aspid_04b_wildlifeReturned": false,
         "pilgrimFisherPossessed": false,
         "spinnerEncounter": 0,
-        "encounteredSpinner": false,
-        "spinnerDefeated": false,
+        "encounteredSpinner": true,
+        "spinnerDefeated": true,
         "SpinnerDefeatedTimePassed": true,
         "shellwood14_ambushed": false,
         "shellwoodTwigShortcut": false,
@@ -939,9 +946,9 @@
         "BelltownDoctorConvo": 0,
         "MetFisherHomeBasic": false,
         "MetFisherHomeFull": false,
-        "FisherWalkerTimer": -0.004118905868381262,
-        "FisherWalkerDirection": true,
-        "FisherWalkerIdleTimeLeft": 30.062114715576173,
+        "FisherWalkerTimer": 59.07334899902344,
+        "FisherWalkerDirection": false,
+        "FisherWalkerIdleTimeLeft": -0.001165164401754737,
         "MetBelltownRelicDealer": false,
         "BelltownRelicDealerGaveRelic": false,
         "BelltownRelicDealerCylinderConvo": false,
@@ -3313,6 +3320,12 @@
                     "ID": "Song_lever_side",
                     "Value": false,
                     "Mutator": 0
+                },
+                {
+                    "SceneName": "Memory_Needolin",
+                    "ID": "Reminder Needolin - Memory",
+                    "Value": true,
+                    "Mutator": 0
                 }
             ]
         },
@@ -3854,17 +3867,17 @@
         }
     },
     "savePos": {
-        "x": 52.05733871459961,
-        "y": 8.567684173583985,
+        "x": 40.5936393737793,
+        "y": 186.56765747070313,
         "z": 0.004000000189989805
     },
     "filePath": "",
     "isKinematized": false,
     "loadedScenes": [
-        "Belltown_Shrine"
+        "Memory_Needolin"
     ],
     "loadedSceneActiveScenes": [
-        "Belltown_Shrine"
+        "Memory_Needolin"
     ],
     "roomSpecificOptions": ""
 }
