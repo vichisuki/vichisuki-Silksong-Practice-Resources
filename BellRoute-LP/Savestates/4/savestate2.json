@@ -1,8 +1,8 @@
 {
     "saveStateIdentifier": "Movement - Cogwork Dancers",
-    "saveScene": "Coral_10",
+    "saveScene": "Song_19_entrance",
     "savedPd": {
-        "LastSetFieldName": "enteredCoral_10",
+        "LastSetFieldName": "enteredSong_19",
         "version": "1.0.29315",
         "RevisionBreak": 28104,
         "date": "2025/11/19",
@@ -24,7 +24,7 @@
         "maxHealth": 5,
         "maxHealthBase": 5,
         "healthBlue": 0,
-        "prevHealth": 4,
+        "prevHealth": 5,
         "heartPieces": 0,
         "SeenBindPrompt": true,
         "geo": 12,
@@ -528,7 +528,7 @@
         "hasMarker_e": false,
         "placedMarkers": [],
         "environmentType": 4,
-        "previousDarkness": -1,
+        "previousDarkness": 0,
         "HasMelodyArchitect": false,
         "HasMelodyLibrarian": false,
         "SeenMelodyLibrarianReturn": false,
@@ -962,7 +962,7 @@
         "MetFisherHomeFull": false,
         "FisherWalkerTimer": 68.50395202636719,
         "FisherWalkerDirection": false,
-        "FisherWalkerIdleTimeLeft": 32.294368743896487,
+        "FisherWalkerIdleTimeLeft": 26.950759887695314,
         "MetBelltownRelicDealer": false,
         "BelltownRelicDealerGaveRelic": false,
         "BelltownRelicDealerCylinderConvo": false,
@@ -4383,17 +4383,17 @@
         }
     },
     "savePos": {
-        "x": 113.01766967773438,
+        "x": 5.624630928039551,
         "y": 8.567684173583985,
         "z": 0.004000000189989805
     },
     "filePath": "",
     "isKinematized": false,
     "loadedScenes": [
-        "Coral_10"
+        "Song_19_entrance"
     ],
     "loadedSceneActiveScenes": [
-        "Coral_10"
+        "Song_19_entrance"
     ],
     "roomSpecificOptions": ""
 }
