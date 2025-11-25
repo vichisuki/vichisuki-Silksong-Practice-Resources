@@ -2,7 +2,7 @@ Description of each savestate created for Bell Route's Latest Patch.
 
 Click on the arrows next to each label for more info. 
 <details>
-<summary>Page One</summary>
+<summary><b>Page One</b></summary>
 
 0. Moss Mother 
     - After bind prompt and movement is unlocked
@@ -40,4 +40,41 @@ Click on the arrows next to each label for more info.
     - Inside Greymoor Bell room in front of lever
     - Start Split on Greymoor Bell lever
     - End Split on Moorwing exit
+8. Cling Grip
+    - Moorwing room after boss dies
+    - Start Split on exiting Moorwing room
+    - End Split on Claw Grip Transition
+9. Widow
+    - At the exit to Cling Grip Room
+    - Start Split on Cling Grip Transition
+    - End Split on Widow Death (after binding)
+</details>
+
+<details>
+<summary><b>Page Two</b></summary>
+
+0. Shellwood Bell
+    - In Widow room. Start segment by challenging and using "Kill All" in Debug
+    - Start Split on Widow Death
+    - End Split on Shellwood Bell lever activation
+
+1. Last Judge
+    - In Shellwood Bell room after Widow
+    - Start Split on lever activation
+    - End Split on Act 2 Start (enter the citadel after Last Judge death)
+
+2. Cogwork Dancers
+    - In Last Judge room. Start segment by summoning Last Judge and using "Kill All" in Debug
+    - Start Split on Act 2 Start (enter the citadel after Last Judge death)
+    - End Split on Cogwork Dancers death (before quitout)
+
+3. Whispering Vaults Arena
+    - In Cogwork Dancers room after melody cutscene. 
+    - If using with ComSOB sheets, it is acceptable to use the provided savestate as long as the split starts upon transition into Cogwork Core and start timer is at 21.70.
+
+4. Trobbio
+    - In Whispering Vaults Arena room. Do not use Kill All, it will softlock you.
+    - If you wish to start split after arena completion, use the "Movement - Trobbio" savestate on page 5.
+    
+
 </details>
