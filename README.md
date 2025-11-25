@@ -9,6 +9,13 @@ For a more detailed rundown on what each savestate does, view:
 
 This savestate bundle was designed for Silksong to be more in line with older savestate bundles used for practicing Hollow Knight, particularly in four different categories.
 
+Savestates are best used with specific config settings in DebugMod's Settings.json, as shown below. These should be set by default, but if you run into any issues it might be because of this.
+
+```json
+"MaxSaveStates": 10,
+"MaxSavePages": 10,
+```
+
 ### IL
 This is a split used to directly record an IL attempt, intended for use with the accompanying split files found in the repository. They have been designed to be used with the [ComSOB spreadsheet](https://docs.google.com/spreadsheets/d/1-Hy5k_h9dBUUPlwh_I14K-DEwGcNdVQ0utI-KX56d8c/edit?gid=7316953#gid=7316953).
 
