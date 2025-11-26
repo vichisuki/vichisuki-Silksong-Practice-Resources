@@ -836,7 +836,7 @@
         "MetFisherHomeFull": false,
         "FisherWalkerTimer": -0.002977930009365082,
         "FisherWalkerDirection": true,
-        "FisherWalkerIdleTimeLeft": 22.948110580444337,
+        "FisherWalkerIdleTimeLeft": 6.8285112380981449,
         "MetBelltownRelicDealer": false,
         "BelltownRelicDealerGaveRelic": false,
         "BelltownRelicDealerCylinderConvo": false,
@@ -2166,7 +2166,7 @@
         }
     },
     "savePos": {
-        "x": 18.818710327148439,
+        "x": 17.49871826171875,
         "y": 4.567685127258301,
         "z": 0.004000000189989805
     },
