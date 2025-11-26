@@ -72,7 +72,7 @@ Click on the arrows next to each label for more info.
     - End Split on Act 2 Started (Event) (enter the citadel after Last Judge death)
 
 2. Cogwork Dancers
-    - In Last Judge room. Start segment by summoning Last Judge and using "Kill All" in Debug
+    - In Last Judge room.
     - Start Split on Act 2 Started (Event) (enter the citadel after Last Judge death)
     - End Split on Cogwork Dancers (Boss)
 
