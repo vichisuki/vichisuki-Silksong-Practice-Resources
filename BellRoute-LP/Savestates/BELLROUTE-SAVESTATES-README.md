@@ -52,6 +52,7 @@ Click on the arrows next to each label for more info.
     - End Split on Cling Grip (Transition)
 9. Widow
     - At the exit to Cling Grip Room
+    - This split ends upon loading back into the game after quitting out after hitting Bellhart Bell lever.
     - Start Split on Cling Grip (Transition)
     - End Split on Bellhart Bell (Event)
 </details>
@@ -60,7 +61,8 @@ Click on the arrows next to each label for more info.
 <summary><b>Page Two</b></summary>
 
 0. Shellwood Bell
-    - In Needolin Memory room in front of Needolin pickup.
+    - In Bellhart Bell room in front of lever.
+    - This split is a bit weird. You need to quit out when the lever disappears. On load back in, the Bellhart Bell Event will trigger immediately.
     - Start Split on Bellhart Bell (Event)
     - End Split on Shellwood Bell (Event)
 
