@@ -1,6 +1,6 @@
 {
     "saveStateIdentifier": "IL - Drifter's Cloak",
-    "saveScene": "Bellshrine_05",
+    "saveScene": "Bone_East_12",
     "savedPd": {
         "LastSetFieldName": "SeenMapperDocks",
         "version": "1.0.29315",
@@ -39,7 +39,7 @@
         "extraRestZone": 0,
         "respawnMarkerName": "Death Respawn Marker",
         "respawnType": 0,
-        "hazardRespawnFacing": 2,
+        "hazardRespawnFacing": 0,
         "HeroCorpseScene": "",
         "HeroDeathScenePos": {
             "x": 0.0,
@@ -443,7 +443,7 @@
         "hasMarker_d": false,
         "hasMarker_e": false,
         "placedMarkers": [],
-        "environmentType": 4,
+        "environmentType": 0,
         "previousDarkness": 0,
         "HasMelodyArchitect": false,
         "HasMelodyLibrarian": false,
@@ -876,9 +876,9 @@
         "BelltownDoctorConvo": 0,
         "MetFisherHomeBasic": false,
         "MetFisherHomeFull": false,
-        "FisherWalkerTimer": 59.09169006347656,
+        "FisherWalkerTimer": 68.50269317626953,
         "FisherWalkerDirection": false,
-        "FisherWalkerIdleTimeLeft": -0.001663988921791315,
+        "FisherWalkerIdleTimeLeft": 106.68583679199219,
         "MetBelltownRelicDealer": false,
         "BelltownRelicDealerGaveRelic": false,
         "BelltownRelicDealerCylinderConvo": false,
@@ -2634,17 +2634,17 @@
         }
     },
     "savePos": {
-        "x": 17.299482345581056,
-        "y": 4.567685127258301,
+        "x": 163.403564453125,
+        "y": 7.567685127258301,
         "z": 0.004000000189989805
     },
     "filePath": "",
     "isKinematized": false,
     "loadedScenes": [
-        "Bellshrine_05"
+        "Bone_East_12"
     ],
     "loadedSceneActiveScenes": [
-        "Bellshrine_05"
+        "Bone_East_12"
     ],
     "roomSpecificOptions": ""
 }
