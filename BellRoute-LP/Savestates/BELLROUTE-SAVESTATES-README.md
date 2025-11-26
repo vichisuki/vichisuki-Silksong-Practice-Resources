@@ -33,10 +33,10 @@ Click on the arrows next to each label for more info.
 4. Lace 1
     - Before Swift Step room exit
     - Start Split on Swift Step (Transition)
-    - End Split on Marrow Bell (Event)
+    - End Split on Lace 1 (Transition)
 5. Drifter's Cloak
     - Outside Deep Docks bell room. Lever not yet hit
-    - Start Split on Marrow Bell (Event)
+    - Start Split on Lace 1 (Transition)
     - End Split on Drifter's Cloak (Transition)
 6. Greymoor Bell
     - Inside Seamstress room after obtaining Drifter's Cloak
