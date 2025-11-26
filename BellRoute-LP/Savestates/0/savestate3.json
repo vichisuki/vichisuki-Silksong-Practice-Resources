@@ -1,25 +1,25 @@
 {
     "saveStateIdentifier": "IL - Swift Step",
-    "saveScene": "Memory_Silk_Heart_BellBeast",
+    "saveScene": "Bellshrine",
     "savedPd": {
-        "LastSetFieldName": "disableInventory",
+        "LastSetFieldName": "travelling",
         "version": "1.0.29315",
         "RevisionBreak": 28104,
-        "date": "2025/11/17",
+        "date": "2025/11/26",
         "profileID": 2,
-        "playTime": 767.9102783203125,
+        "playTime": 856.6890258789063,
         "openingCreditsPlayed": true,
         "permadeathMode": 0,
         "CollectedDockDemoKey": false,
         "PreMemoryState": {
-            "IsRecorded": true,
+            "IsRecorded": false,
             "Health": 3,
             "Silk": 9,
             "Rosaries": 0,
             "ShellShards": 3,
-            "DoFullHeal": false
+            "DoFullHeal": true
         },
-        "HasStoredMemoryState": true,
+        "HasStoredMemoryState": false,
         "health": 5,
         "maxHealth": 5,
         "maxHealthBase": 5,
@@ -28,18 +28,18 @@
         "heartPieces": 0,
         "SeenBindPrompt": true,
         "geo": 0,
-        "silk": 9,
+        "silk": 1,
         "silkMax": 9,
-        "silkRegenMax": 0,
+        "silkRegenMax": 1,
         "IsSilkSpoolBroken": true,
         "silkSpoolParts": 0,
         "atBench": false,
-        "respawnScene": "Memory_Silk_Heart_BellBeast",
-        "mapZone": 33,
+        "respawnScene": "Bone_05",
+        "mapZone": 2,
         "extraRestZone": 0,
-        "respawnMarkerName": "Death Respawn Marker",
+        "respawnMarkerName": "Silk Heart Memory Respawn Marker",
         "respawnType": 0,
-        "hazardRespawnFacing": 1,
+        "hazardRespawnFacing": 2,
         "HeroCorpseScene": "",
         "HeroDeathScenePos": {
             "x": 0.0,
@@ -99,7 +99,7 @@
         "fixerStatueConvo": false,
         "metSherma": false,
         "seenBellBeast": true,
-        "shermaPos": 0,
+        "shermaPos": 2,
         "shermaConvoBellBeast": false,
         "metShermaPilgrimsRest": false,
         "shermaInBellhart": false,
@@ -237,7 +237,7 @@
         "garmondBlackThreadDefeated": false,
         "pilgrimRestMerchant_SingConvo": false,
         "pilgrimRestMerchant_RhinoRuckusConvo": false,
-        "pilgrimRestCrowd": 2,
+        "pilgrimRestCrowd": 4,
         "nuuIsHome": true,
         "MetHalfwayHunterFan": false,
         "MetHunterFanOutside": false,
@@ -401,8 +401,8 @@
         "hasMarker_d": false,
         "hasMarker_e": false,
         "placedMarkers": [],
-        "environmentType": 12,
-        "previousDarkness": 2,
+        "environmentType": 4,
+        "previousDarkness": 0,
         "HasMelodyArchitect": false,
         "HasMelodyLibrarian": false,
         "SeenMelodyLibrarianReturn": false,
@@ -413,7 +413,7 @@
         "ConductorWeaverDlgQueued": false,
         "ConductorWeaverDlgHeard": false,
         "muchTimePassed": false,
-        "pilgrimGroupBonegrave": 1,
+        "pilgrimGroupBonegrave": 2,
         "pilgrimGroupShellgrave": 1,
         "pilgrimGroupGreymoorField": 1,
         "shellGravePopulated": false,
@@ -526,7 +526,7 @@
         "didPilgrimIntroScene": false,
         "mosstown01_shortcut": false,
         "encounteredBellBeast": true,
-        "defeatedBellBeast": false,
+        "defeatedBellBeast": true,
         "bonetownAspidBerryCollected": false,
         "pinGalleriesCompleted": 0,
         "PilgrimStomperNPCOffered": false,
@@ -543,7 +543,7 @@
         "antBenchTrapDefused": false,
         "ant04_battleCompleted": false,
         "ant04_enemiesReturn": false,
-        "enemyGroupAnt04": 1,
+        "enemyGroupAnt04": 2,
         "antMerchantKilled": false,
         "ant21_InitBattleCompleted": false,
         "ant21_ExtraBattleAdded": false,
@@ -647,7 +647,7 @@
         "HalfwayNectarOffered": false,
         "HalfwayNectarPaid": false,
         "MetHalfwayBartenderAct3": false,
-        "halfwayCrowEnemyGroup": 2,
+        "halfwayCrowEnemyGroup": 1,
         "brokeUnderstoreFloor": false,
         "enteredGreymoor05": false,
         "previouslyVisitedGreymoor_05": false,
@@ -836,7 +836,7 @@
         "MetFisherHomeFull": false,
         "FisherWalkerTimer": -0.002977930009365082,
         "FisherWalkerDirection": true,
-        "FisherWalkerIdleTimeLeft": 85.4909439086914,
+        "FisherWalkerIdleTimeLeft": 22.948110580444337,
         "MetBelltownRelicDealer": false,
         "BelltownRelicDealerGaveRelic": false,
         "BelltownRelicDealerCylinderConvo": false,
@@ -1320,7 +1320,7 @@
         "CurseKilledFlyShellwood": false,
         "CurseKilledFlySwamp": false,
         "act2Started": false,
-        "completionPercentage": 1.0,
+        "completionPercentage": 2.0,
         "mapKeyPref": 0,
         "promisedFirstWish": false,
         "betaEnd": false,
@@ -1450,7 +1450,7 @@
         "Relics": {
             "savedData": []
         },
-        "UnlockedFastTravel": false,
+        "UnlockedFastTravel": true,
         "FastTravelNPCLocation": 0,
         "UnlockedFastTravelTeleport": false,
         "UnlockedDocksStation": false,
@@ -2145,6 +2145,12 @@
                     "ID": "rosary_string_small_half",
                     "Value": -1,
                     "Mutator": 0
+                },
+                {
+                    "SceneName": "Bellshrine",
+                    "ID": "Bellshrine Sequence",
+                    "Value": 1,
+                    "Mutator": 0
                 }
             ]
         },
@@ -2160,17 +2166,17 @@
         }
     },
     "savePos": {
-        "x": 29.405696868896486,
-        "y": 105.58472442626953,
+        "x": 18.818710327148439,
+        "y": 4.567685127258301,
         "z": 0.004000000189989805
     },
     "filePath": "",
     "isKinematized": false,
     "loadedScenes": [
-        "Memory_Silk_Heart_BellBeast"
+        "Bellshrine"
     ],
     "loadedSceneActiveScenes": [
-        "Memory_Silk_Heart_BellBeast"
+        "Bellshrine"
     ],
     "roomSpecificOptions": ""
 }
