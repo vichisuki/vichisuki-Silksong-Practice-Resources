@@ -173,7 +173,6 @@ Click on the arrows next to each label for more info.
     - Before bell walls outside of Widow gauntlet.
     - For practicing movement to Widow after Cling Grip.
 
-
 1. Shellwood Bell
     - Leftwards transition exiting Bellhart.
     - This savestate has killed Widow and obtained Needolin, with Cling Grip.
