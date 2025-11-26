@@ -169,58 +169,65 @@ Click on the arrows next to each label for more info.
 <details>
 <summary><b>Page 5</b></summary>
 
-0. Shellwood Bell
+0. Bellvein
+    - Before bell walls outside of Widow gauntlet.
+    - For practicing movement to Widow after Cling Grip.
+
+
+1. Shellwood Bell
     - Leftwards transition exiting Bellhart.
     - This savestate has killed Widow and obtained Needolin, with Cling Grip.
 
-1. Last Judge
+2. Last Judge
     - First room after entering Blasted Steps.
     - All three tricks (heal skip, driznit pogo and walljump) are available on page 10.
 
-2. Cogwork Dancers
+3. Cogwork Dancers
     - Second room of Citadel with scale platforms.
 
-3. Whispering Vaults Arena
+4. Whispering Vaults Arena
     - Cogwork Dancers room after cutscene
     - Functionally identical to IL - Whispering Vaults Arena
 
-4. Trobbio
+5. Trobbio
     - Second room of Whispering Vaults.
 
-5. Clawline
+6. Clawline
     - Bottom of elevator room with elevator already hit back up.
 
-6. Post Clawline
+7. Post Clawline
     - Immediately after Clawline pickup, to practice movement upwards to Clawline arena.
 
-7. Vaultkeeper's Melody
+8. Vaultkeeper's Melody
     - Room after Clawline arena, with Last Architect in it. Exit out right transition.
 
-8. Architect's Melody
+9. Architect's Melody
     - Room connecting Whispering Vaults and Cogwork Core. Exit out left transition.
 
-9. Cogwork Core
-    - Transition before upwards gauntlet to Architect's Melody.
-    - This is still considered "Cogwork Core", and is labelled as such, as it is a subsplit of Architect's Melody, even though the player has accessed Cogwork Core previously.
-    - Placed outside the room to preserve enemy cycles and movement.
+
 
 </details>
 
 <details>
 <summary><b>Page 6</b></summary>
 
-0. Architect's Melody Puzzle
+0. Cogwork Core
+    - Transition before upwards gauntlet to Architect's Melody.
+    - This is still considered "Cogwork Core", and is labelled as such, as it is a subsplit of Architect's Melody, even though the player has accessed Cogwork Core previously.
+    - Placed outside the room to preserve enemy cycles and movement.
+
+1. Architect's Melody Puzzle
     - Inside highest room in Cogwork Core.
     - Specifically to practice movement of the Architect's Melody Puzzle.
 
-1. Enter High Halls Arena
+2. Enter High Halls Arena
     - Room outside High Halls.
     - To practice movement up to this point, use the IL savestate on Page 2.
 
-2. Lace 2
+3. Lace 2
     - Downwards transition to hallway towards Lace 2.
 
-3. Grand Mother Silk
+4. Grand Mother Silk
     - Bottom of Grand Mother Silk room.
     - Movement up to this point is mostly walljumps. To practice, use the IL savestate on Page 2.
 

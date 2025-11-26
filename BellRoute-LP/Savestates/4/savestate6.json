@@ -1,13 +1,13 @@
 {
-    "saveStateIdentifier": "Movement - Post Clawline",
-    "saveScene": "Under_18",
+    "saveStateIdentifier": "Movement - Clawline",
+    "saveScene": "Library_11",
     "savedPd": {
         "LastSetFieldName": "visitedStage",
         "version": "1.0.29315",
         "RevisionBreak": 28104,
-        "date": "2025/11/25",
+        "date": "2025/11/20",
         "profileID": 2,
-        "playTime": 6019.73779296875,
+        "playTime": 5865.685546875,
         "openingCreditsPlayed": true,
         "permadeathMode": 0,
         "CollectedDockDemoKey": false,
@@ -28,16 +28,16 @@
         "heartPieces": 0,
         "SeenBindPrompt": true,
         "geo": 12,
-        "silk": 9,
+        "silk": 8,
         "silkMax": 9,
         "silkRegenMax": 1,
         "IsSilkSpoolBroken": true,
         "silkSpoolParts": 0,
         "atBench": false,
-        "respawnScene": "Under_18",
-        "mapZone": 22,
+        "respawnScene": "Cog_Dancers",
+        "mapZone": 23,
         "extraRestZone": 0,
-        "respawnMarkerName": "Death Respawn Marker",
+        "respawnMarkerName": "Interim Respawn Marker",
         "respawnType": 0,
         "hazardRespawnFacing": 0,
         "HeroCorpseScene": "",
@@ -61,7 +61,7 @@
         "hasNeedleThrow": true,
         "hasThreadSphere": false,
         "hasParry": false,
-        "hasHarpoonDash": true,
+        "hasHarpoonDash": false,
         "hasSilkCharge": false,
         "hasSilkBomb": false,
         "hasSilkBossNeedle": false,
@@ -497,7 +497,7 @@
         "enteredTutorialFirstTime": false,
         "isInvincible": false,
         "infiniteAirJump": false,
-        "currentArea": "UNDERSTORE",
+        "currentArea": "LIBRARY",
         "visitedMossCave": true,
         "visitedBoneBottom": true,
         "visitedBoneForest": true,
@@ -524,7 +524,7 @@
         "visitedSlab": false,
         "visitedGrandGate": true,
         "visitedCitadel": true,
-        "visitedUnderstore": true,
+        "visitedUnderstore": false,
         "visitedWard": false,
         "visitedHalls": true,
         "visitedLibrary": true,
@@ -1030,9 +1030,9 @@
         "BelltownDoctorConvo": 0,
         "MetFisherHomeBasic": false,
         "MetFisherHomeFull": false,
-        "FisherWalkerTimer": 68.50196838378906,
+        "FisherWalkerTimer": 18.493558883666993,
         "FisherWalkerDirection": false,
-        "FisherWalkerIdleTimeLeft": 50.5841064453125,
+        "FisherWalkerIdleTimeLeft": -0.0001739815343171358,
         "MetBelltownRelicDealer": false,
         "BelltownRelicDealerGaveRelic": false,
         "BelltownRelicDealerCylinderConvo": false,
@@ -1516,7 +1516,7 @@
         "CurseKilledFlyShellwood": false,
         "CurseKilledFlySwamp": false,
         "act2Started": true,
-        "completionPercentage": 7.0,
+        "completionPercentage": 6.0,
         "mapKeyPref": 0,
         "promisedFirstWish": true,
         "betaEnd": false,
@@ -4322,294 +4322,6 @@
                     "ID": "Understore Big Plate Gate",
                     "Value": true,
                     "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_11b",
-                    "ID": "Memory Orb Challenge (1)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_11b",
-                    "ID": "Barrel Plat Lift Thin (1)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_11b",
-                    "ID": "Secret Mask New",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_11b",
-                    "ID": "Remasker New Sharp",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_11b",
-                    "ID": "Barrel Plat Lift (3)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_11b",
-                    "ID": "Barrel Plat Lift (1)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_11b",
-                    "ID": "Barrel Plat Lift (2)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_11b",
-                    "ID": "Barrel Plat Lift (4)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_11b",
-                    "ID": "Plug_Gate",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_11b",
-                    "ID": "Silk Spool",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_11b",
-                    "ID": "Barrel Plat Lift Thin",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_11b",
-                    "ID": "Barrel Plat Lift Thin (5)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_11b",
-                    "ID": "Barrel Plat Lift Thin (4)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_11b",
-                    "ID": "Barrel Plat Lift Thin (3)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_11b",
-                    "ID": "plank_wall_cluster_metal (1)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Under_17",
-                    "ID": "Collectable Item Pickup",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Under_17",
-                    "ID": "Shell Shard 03 Persistent",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Under_17",
-                    "ID": "understore propeller",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Under_17",
-                    "ID": "Remasker New (10)",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Under_17",
-                    "ID": "Remasker New (6)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Under_17",
-                    "ID": "Remasker New (9)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Under_17",
-                    "ID": "Remasker New (2)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Under_17",
-                    "ID": "Remasker New (8)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Under_17",
-                    "ID": "Remasker New (3)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Under_17",
-                    "ID": "Remasker New (4)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Under_17",
-                    "ID": "Remasker New (7)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Under_17",
-                    "ID": "Silkfly Ambient Perched",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Under_17",
-                    "ID": "Shell Shard 01 Persistent (1)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Under_17",
-                    "ID": "Shell Shard 01 Persistent",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Under_17",
-                    "ID": "Architect Shrine Door",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Under_17",
-                    "ID": "Tension Tone Single",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Under_13",
-                    "ID": "Coal Bucket Plat (2)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Under_13",
-                    "ID": "Coal Bucket Plat (10)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Under_13",
-                    "ID": "Coal Bucket Plat (1)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Under_13",
-                    "ID": "Coal Bucket Plat (9)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Under_13",
-                    "ID": "Coal Bucket Plat (6)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Under_13",
-                    "ID": "Coal Bucket Plat (7)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Under_13",
-                    "ID": "Coal Bucket Plat (5)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Under_13",
-                    "ID": "Innerworks Trap Bridge Large",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Under_13",
-                    "ID": "Remasker New (2)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Under_13",
-                    "ID": "Remasker New",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Under_13",
-                    "ID": "Remasker New (1)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Under_13",
-                    "ID": "Remasker New (3)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Under_18",
-                    "ID": "Inverse Remasker",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Under_18",
-                    "ID": "Collectable Item Pickup (1)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Under_18",
-                    "ID": "Battle Scene",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Under_18",
-                    "ID": "Remasker New (1)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Under_18",
-                    "ID": "Barrel Plat Lift Thin",
-                    "Value": false,
-                    "Mutator": 0
                 }
             ]
         },
@@ -5298,48 +5010,6 @@
                     "ID": "library_lift_large",
                     "Value": 0,
                     "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_11b",
-                    "ID": "Shell Shard Fossil Tiny Bumpy",
-                    "Value": 1,
-                    "Mutator": 1
-                },
-                {
-                    "SceneName": "Library_11b",
-                    "ID": "Song Shard Barrel (1)",
-                    "Value": 3,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_11b",
-                    "ID": "Song Shard Barrel",
-                    "Value": 3,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_11b",
-                    "ID": "Shell Shard Fossil Tiny Egg",
-                    "Value": 1,
-                    "Mutator": 1
-                },
-                {
-                    "SceneName": "Library_11b",
-                    "ID": "Shell Shard Fossil Tiny Egg (2)",
-                    "Value": 1,
-                    "Mutator": 1
-                },
-                {
-                    "SceneName": "Library_11b",
-                    "ID": "Shell Shard Fossil Tiny Front",
-                    "Value": 1,
-                    "Mutator": 1
-                },
-                {
-                    "SceneName": "Under_17",
-                    "ID": "Song Shard Under Chest",
-                    "Value": 3,
-                    "Mutator": 0
                 }
             ]
         },
@@ -5421,17 +5091,17 @@
         }
     },
     "savePos": {
-        "x": 26.349998474121095,
-        "y": 13.583203315734864,
+        "x": 1.7938764095306397,
+        "y": 90.56768798828125,
         "z": 0.004000000189989805
     },
     "filePath": "",
     "isKinematized": false,
     "loadedScenes": [
-        "Under_18"
+        "Library_11"
     ],
     "loadedSceneActiveScenes": [
-        "Under_18"
+        "Library_11"
     ],
     "roomSpecificOptions": ""
 }

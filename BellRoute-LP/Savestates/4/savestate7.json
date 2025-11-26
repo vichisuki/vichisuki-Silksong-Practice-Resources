@@ -1,13 +1,13 @@
 {
-    "saveStateIdentifier": "Movement - Vaultkeeper's Melody",
-    "saveScene": "Under_17",
+    "saveStateIdentifier": "Movement - Post Clawline",
+    "saveScene": "Under_18",
     "savedPd": {
         "LastSetFieldName": "visitedStage",
         "version": "1.0.29315",
         "RevisionBreak": 28104,
-        "date": "2025/11/21",
+        "date": "2025/11/25",
         "profileID": 2,
-        "playTime": 6596.978515625,
+        "playTime": 6019.73779296875,
         "openingCreditsPlayed": true,
         "permadeathMode": 0,
         "CollectedDockDemoKey": false,
@@ -28,7 +28,7 @@
         "heartPieces": 0,
         "SeenBindPrompt": true,
         "geo": 12,
-        "silk": 3,
+        "silk": 9,
         "silkMax": 9,
         "silkRegenMax": 1,
         "IsSilkSpoolBroken": true,
@@ -484,55 +484,6 @@
                         "Kills": 2,
                         "HasBeenSeen": false
                     }
-                },
-                {
-                    "Name": "Understore Automaton EX",
-                    "Record": {
-                        "Kills": 6,
-                        "HasBeenSeen": false
-                    }
-                },
-                {
-                    "Name": "Understore Automaton",
-                    "Record": {
-                        "Kills": 2,
-                        "HasBeenSeen": false
-                    }
-                },
-                {
-                    "Name": "Pilgrim 03 Understore",
-                    "Record": {
-                        "Kills": 1,
-                        "HasBeenSeen": false
-                    }
-                },
-                {
-                    "Name": "Pilgrim Staff Understore",
-                    "Record": {
-                        "Kills": 1,
-                        "HasBeenSeen": false
-                    }
-                },
-                {
-                    "Name": "Understore Poker",
-                    "Record": {
-                        "Kills": 2,
-                        "HasBeenSeen": false
-                    }
-                },
-                {
-                    "Name": "Understore Thrower",
-                    "Record": {
-                        "Kills": 1,
-                        "HasBeenSeen": false
-                    }
-                },
-                {
-                    "Name": "Understore Heavy",
-                    "Record": {
-                        "Kills": 1,
-                        "HasBeenSeen": false
-                    }
                 }
             ]
         },
@@ -646,7 +597,7 @@
         "hasMarker_d": false,
         "hasMarker_e": false,
         "placedMarkers": [],
-        "environmentType": 4,
+        "environmentType": 0,
         "previousDarkness": 0,
         "HasMelodyArchitect": false,
         "HasMelodyLibrarian": false,
@@ -1079,9 +1030,9 @@
         "BelltownDoctorConvo": 0,
         "MetFisherHomeBasic": false,
         "MetFisherHomeFull": false,
-        "FisherWalkerTimer": 68.50506591796875,
+        "FisherWalkerTimer": 68.50196838378906,
         "FisherWalkerDirection": false,
-        "FisherWalkerIdleTimeLeft": 2.709010601043701,
+        "FisherWalkerIdleTimeLeft": 50.5841064453125,
         "MetBelltownRelicDealer": false,
         "BelltownRelicDealerGaveRelic": false,
         "BelltownRelicDealerCylinderConvo": false,
@@ -4525,7 +4476,7 @@
                 {
                     "SceneName": "Under_17",
                     "ID": "Remasker New (7)",
-                    "Value": true,
+                    "Value": false,
                     "Mutator": 0
                 },
                 {
@@ -4645,13 +4596,13 @@
                 {
                     "SceneName": "Under_18",
                     "ID": "Battle Scene",
-                    "Value": true,
+                    "Value": false,
                     "Mutator": 0
                 },
                 {
                     "SceneName": "Under_18",
                     "ID": "Remasker New (1)",
-                    "Value": true,
+                    "Value": false,
                     "Mutator": 0
                 },
                 {
@@ -5470,17 +5421,17 @@
         }
     },
     "savePos": {
-        "x": 162.44464111328126,
-        "y": 14.5676851272583,
+        "x": 26.349998474121095,
+        "y": 13.583203315734864,
         "z": 0.004000000189989805
     },
     "filePath": "",
     "isKinematized": false,
     "loadedScenes": [
-        "Under_17"
+        "Under_18"
     ],
     "loadedSceneActiveScenes": [
-        "Under_17"
+        "Under_18"
     ],
     "roomSpecificOptions": ""
 }

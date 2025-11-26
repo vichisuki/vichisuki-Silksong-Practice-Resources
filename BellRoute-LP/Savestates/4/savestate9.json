@@ -1,6 +1,6 @@
 {
-    "saveStateIdentifier": "Movement - Cogwork Core",
-    "saveScene": "Cog_Dancers",
+    "saveStateIdentifier": "Movement - Architect's Melody",
+    "saveScene": "Song_20b",
     "savedPd": {
         "LastSetFieldName": "HasMelodyLibrarian",
         "version": "1.0.29315",
@@ -28,7 +28,7 @@
         "heartPieces": 0,
         "SeenBindPrompt": true,
         "geo": 332,
-        "silk": 1,
+        "silk": 2,
         "silkMax": 9,
         "silkRegenMax": 1,
         "IsSilkSpoolBroken": true,
@@ -546,7 +546,7 @@
         "enteredTutorialFirstTime": false,
         "isInvincible": false,
         "infiniteAirJump": false,
-        "currentArea": "COGWORK_CORE",
+        "currentArea": "HALLS",
         "visitedMossCave": true,
         "visitedBoneBottom": true,
         "visitedBoneForest": true,
@@ -646,8 +646,8 @@
         "hasMarker_d": false,
         "hasMarker_e": false,
         "placedMarkers": [],
-        "environmentType": 4,
-        "previousDarkness": 0,
+        "environmentType": 0,
+        "previousDarkness": 1,
         "HasMelodyArchitect": false,
         "HasMelodyLibrarian": true,
         "SeenMelodyLibrarianReturn": false,
@@ -1079,9 +1079,9 @@
         "BelltownDoctorConvo": 0,
         "MetFisherHomeBasic": false,
         "MetFisherHomeFull": false,
-        "FisherWalkerTimer": 62.98551940917969,
+        "FisherWalkerTimer": 27.699214935302736,
         "FisherWalkerDirection": false,
-        "FisherWalkerIdleTimeLeft": -0.001291522872634232,
+        "FisherWalkerIdleTimeLeft": -0.001352689228951931,
         "MetBelltownRelicDealer": false,
         "BelltownRelicDealerGaveRelic": false,
         "BelltownRelicDealerCylinderConvo": false,
@@ -4162,7 +4162,7 @@
                 {
                     "SceneName": "Cog_Dancers",
                     "ID": "slide_gate_ring",
-                    "Value": true,
+                    "Value": false,
                     "Mutator": 0
                 },
                 {
@@ -5683,17 +5683,17 @@
         }
     },
     "savePos": {
-        "x": 12.745001792907715,
-        "y": 40.580177307128909,
+        "x": 3.2554495334625246,
+        "y": 189.56883239746095,
         "z": 0.004000000189989805
     },
     "filePath": "",
     "isKinematized": false,
     "loadedScenes": [
-        "Cog_Dancers"
+        "Song_20b"
     ],
     "loadedSceneActiveScenes": [
-        "Cog_Dancers"
+        "Song_20b"
     ],
     "roomSpecificOptions": ""
 }

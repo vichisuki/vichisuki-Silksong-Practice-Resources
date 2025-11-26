@@ -1,13 +1,13 @@
 {
-    "saveStateIdentifier": "Movement - Cogwork Dancers",
-    "saveScene": "Song_19_entrance",
+    "saveStateIdentifier": "Movement - Last Judge",
+    "saveScene": "Coral_02",
     "savedPd": {
-        "LastSetFieldName": "enteredSong_19",
+        "LastSetFieldName": "bellShrineShellwood",
         "version": "1.0.29315",
         "RevisionBreak": 28104,
-        "date": "2025/11/19",
+        "date": "2025/11/18",
         "profileID": 2,
-        "playTime": 5360.466796875,
+        "playTime": 5276.767578125,
         "openingCreditsPlayed": true,
         "permadeathMode": 0,
         "CollectedDockDemoKey": false,
@@ -28,7 +28,7 @@
         "heartPieces": 0,
         "SeenBindPrompt": true,
         "geo": 12,
-        "silk": 1,
+        "silk": 9,
         "silkMax": 9,
         "silkRegenMax": 1,
         "IsSilkSpoolBroken": true,
@@ -39,7 +39,7 @@
         "extraRestZone": 9,
         "respawnMarkerName": "Death Respawn Marker",
         "respawnType": 0,
-        "hazardRespawnFacing": 2,
+        "hazardRespawnFacing": 0,
         "HeroCorpseScene": "",
         "HeroDeathScenePos": {
             "x": 0.0,
@@ -102,15 +102,15 @@
         "shermaPos": 2,
         "shermaConvoBellBeast": false,
         "metShermaPilgrimsRest": false,
-        "shermaInBellhart": true,
+        "shermaInBellhart": false,
         "shermaSeenInBellhart": false,
         "shermaSeenInSteps": false,
-        "shermaAtSteps": true,
+        "shermaAtSteps": false,
         "shermaConvoCoralBench": false,
         "shermaConvoCoralJudges": false,
         "hasActivatedBellBench": false,
         "shermaWokeInSteps": false,
-        "enteredCoral_10": true,
+        "enteredCoral_10": false,
         "shermaCitadelEntrance_Visiting": false,
         "shermaCitadelEntrance_Seen": false,
         "shermaCitadelEntrance_Left": false,
@@ -139,7 +139,7 @@
         "mapperBellhartConvo": false,
         "mapperBellhartConvoTimePassed": false,
         "mapperBellhartConvo2": false,
-        "mapperAway": false,
+        "mapperAway": true,
         "mapperMetInAnt04": false,
         "mapperTubeConvo": false,
         "mapperBrokenBenchConvo": false,
@@ -210,7 +210,7 @@
         "garmondInDust05": false,
         "garmondSeenInDust05": false,
         "garmondEncounterCooldown": false,
-        "enteredSong_19": true,
+        "enteredSong_19": false,
         "enteredSong_01": false,
         "enteredSong_02": false,
         "garmondInSong01": false,
@@ -237,7 +237,7 @@
         "garmondBlackThreadDefeated": false,
         "pilgrimRestMerchant_SingConvo": false,
         "pilgrimRestMerchant_RhinoRuckusConvo": false,
-        "pilgrimRestCrowd": 3,
+        "pilgrimRestCrowd": 1,
         "nuuIsHome": true,
         "MetHalfwayHunterFan": false,
         "MetHunterFanOutside": false,
@@ -407,13 +407,6 @@
                         "Kills": 1,
                         "HasBeenSeen": false
                     }
-                },
-                {
-                    "Name": "Last Judge",
-                    "Record": {
-                        "Kills": 1,
-                        "HasBeenSeen": false
-                    }
                 }
             ]
         },
@@ -427,7 +420,7 @@
         "enteredTutorialFirstTime": false,
         "isInvincible": false,
         "infiniteAirJump": false,
-        "currentArea": "GRANDGATE",
+        "currentArea": "CORAL_STEPS",
         "visitedMossCave": true,
         "visitedBoneBottom": true,
         "visitedBoneForest": true,
@@ -452,8 +445,8 @@
         "visitedCoralRiverInner": false,
         "visitedCoralTower": false,
         "visitedSlab": false,
-        "visitedGrandGate": true,
-        "visitedCitadel": true,
+        "visitedGrandGate": false,
+        "visitedCitadel": false,
         "visitedUnderstore": false,
         "visitedWard": false,
         "visitedHalls": false,
@@ -527,8 +520,8 @@
         "hasMarker_d": false,
         "hasMarker_e": false,
         "placedMarkers": [],
-        "environmentType": 4,
-        "previousDarkness": 0,
+        "environmentType": 0,
+        "previousDarkness": 1,
         "HasMelodyArchitect": false,
         "HasMelodyLibrarian": false,
         "SeenMelodyLibrarianReturn": false,
@@ -539,9 +532,9 @@
         "ConductorWeaverDlgQueued": false,
         "ConductorWeaverDlgHeard": false,
         "muchTimePassed": false,
-        "pilgrimGroupBonegrave": 1,
+        "pilgrimGroupBonegrave": 2,
         "pilgrimGroupShellgrave": 3,
-        "pilgrimGroupGreymoorField": 3,
+        "pilgrimGroupGreymoorField": 2,
         "shellGravePopulated": false,
         "bellShrineBoneForest": true,
         "bellShrineWilds": true,
@@ -607,7 +600,7 @@
         "PurchasedBonebottomToolMetal": false,
         "BoneBottomShopKeepWillLeave": false,
         "BoneBottomShopKeepLeft": false,
-        "bonetownCrowd": 2,
+        "bonetownCrowd": 7,
         "grindleReleasedFromBonejail": false,
         "explodeWallMosstown3": false,
         "bonegraveOpen": false,
@@ -669,7 +662,7 @@
         "antBenchTrapDefused": false,
         "ant04_battleCompleted": false,
         "ant04_enemiesReturn": false,
-        "enemyGroupAnt04": 3,
+        "enemyGroupAnt04": 2,
         "antMerchantKilled": false,
         "ant21_InitBattleCompleted": false,
         "ant21_ExtraBattleAdded": false,
@@ -768,12 +761,12 @@
         "HalfwayBartenderCursedConvo": false,
         "HalfwayBartenderHauntedBellhartConvo": false,
         "visitedHalfway": false,
-        "halfwayCrowd": 4,
+        "halfwayCrowd": 2,
         "HalfwayScarecrawAppeared": false,
         "HalfwayNectarOffered": false,
         "HalfwayNectarPaid": false,
         "MetHalfwayBartenderAct3": false,
-        "halfwayCrowEnemyGroup": 3,
+        "halfwayCrowEnemyGroup": 2,
         "brokeUnderstoreFloor": false,
         "enteredGreymoor05": true,
         "previouslyVisitedGreymoor_05": true,
@@ -824,7 +817,7 @@
         "defeatedShellwoodRosaryPilgrim": false,
         "shellwoodBellshrineTwigWall": false,
         "seenEmptyShellwood16": true,
-        "slabFlyInShellwood16": true,
+        "slabFlyInShellwood16": false,
         "shellwoodSlabflyDefeated": false,
         "visitedShellwood_16": true,
         "sethShortcut": false,
@@ -906,8 +899,8 @@
         "DefeatedSwampShaman": false,
         "thievesReturnedToShadow28": false,
         "SeenBelltownCutscene": true,
-        "belltownCrowdsReady": true,
-        "belltownCrowd": 6,
+        "belltownCrowdsReady": false,
+        "belltownCrowd": 0,
         "MetBelltownShopkeep": false,
         "BelltownShopkeepCourierConvo1Accepted": false,
         "BelltownShopkeepCourierConvo1Completed": false,
@@ -960,9 +953,9 @@
         "BelltownDoctorConvo": 0,
         "MetFisherHomeBasic": false,
         "MetFisherHomeFull": false,
-        "FisherWalkerTimer": 68.50395202636719,
-        "FisherWalkerDirection": false,
-        "FisherWalkerIdleTimeLeft": 26.950759887695314,
+        "FisherWalkerTimer": -0.00299362582154572,
+        "FisherWalkerDirection": true,
+        "FisherWalkerIdleTimeLeft": 66.59661865234375,
         "MetBelltownRelicDealer": false,
         "BelltownRelicDealerGaveRelic": false,
         "BelltownRelicDealerCylinderConvo": false,
@@ -1033,9 +1026,9 @@
         "coralKingHeartAppeared": false,
         "metGatePilgrim": false,
         "gatePilgrimNoNeedolinConvo": false,
-        "encounteredLastJudge": true,
-        "defeatedLastJudge": true,
-        "SeenLastJudgeGateOpen": true,
+        "encounteredLastJudge": false,
+        "defeatedLastJudge": false,
+        "SeenLastJudgeGateOpen": false,
         "pinstressStoppedResting": false,
         "pinstressInsideSitting": false,
         "pinstressQuestReady": false,
@@ -1445,7 +1438,7 @@
         "CurseKilledFlyGreymoor": false,
         "CurseKilledFlyShellwood": false,
         "CurseKilledFlySwamp": false,
-        "act2Started": true,
+        "act2Started": false,
         "completionPercentage": 6.0,
         "mapKeyPref": 0,
         "promisedFirstWish": true,
@@ -1553,8 +1546,8 @@
                         "HasBeenSeen": false,
                         "IsAccepted": true,
                         "CompletedCount": 0,
-                        "IsCompleted": true,
-                        "WasEverCompleted": true
+                        "IsCompleted": false,
+                        "WasEverCompleted": false
                     }
                 },
                 {
@@ -1574,16 +1567,6 @@
                         "IsAccepted": true,
                         "CompletedCount": 0,
                         "IsCompleted": true,
-                        "WasEverCompleted": false
-                    }
-                },
-                {
-                    "Name": "Citadel Investigate",
-                    "Data": {
-                        "HasBeenSeen": false,
-                        "IsAccepted": true,
-                        "CompletedCount": 0,
-                        "IsCompleted": false,
                         "WasEverCompleted": false
                     }
                 }
@@ -3434,384 +3417,6 @@
                     "ID": "Remasker New",
                     "Value": false,
                     "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_03",
-                    "ID": "Song_lever_side",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_03",
-                    "ID": "Collectable Item Pickup",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_32",
-                    "ID": "Coral Crust Wall Tall",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_32",
-                    "ID": "Remasker New",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_32",
-                    "ID": "Remasker New Sharp Ultra",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_32",
-                    "ID": "Remasker New Sharp Ultra (1)",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_32",
-                    "ID": "Remasker New Sharp Ultra (2)",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_32",
-                    "ID": "tool_metal_deposit",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_Judge_Arena",
-                    "ID": "song_bridge_pole_large (2)",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_Judge_Arena",
-                    "ID": "song_bridge_pole_large",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_Judge_Arena",
-                    "ID": "song_bridge_pole_large (1)",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_Judge_Arena",
-                    "ID": "SC_0058_sc_floor_03 (8)",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_Judge_Arena",
-                    "ID": "SC_0058_sc_floor_03 (5)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_Judge_Arena",
-                    "ID": "SC_0058_sc_floor_03 (3)",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_Judge_Arena",
-                    "ID": "SC_0058_sc_floor_03 (1)",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_Judge_Arena",
-                    "ID": "SC_0058_sc_floor_03 (2)",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_Judge_Arena",
-                    "ID": "SC_0058_sc_floor_03 (6)",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_Judge_Arena",
-                    "ID": "SC_0058_sc_floor_03 (7)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_Judge_Arena",
-                    "ID": "SC_0058_sc_floor_03 (4)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_Judge_Arena",
-                    "ID": "SC_0059_sc_floor_02 (3)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_Judge_Arena",
-                    "ID": "SC_0059_sc_floor_02 (2)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_Judge_Arena",
-                    "ID": "SC_0059_sc_floor_02",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_Judge_Arena",
-                    "ID": "SC_0059_sc_floor_02 (4)",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_Judge_Arena",
-                    "ID": "SC_0059_sc_floor_02 (1)",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_Judge_Arena",
-                    "ID": "SC_0060_sc_post_01 (35)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_Judge_Arena",
-                    "ID": "SC_0060_sc_post_01 (36)",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_Judge_Arena",
-                    "ID": "SC_0060_sc_floor_01 (15)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_Judge_Arena",
-                    "ID": "SC_0060_sc_post_01 (12)",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_Judge_Arena",
-                    "ID": "SC_0060_sc_floor_01 (39)",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_Judge_Arena",
-                    "ID": "SC_0060_sc_floor_01 (40)",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_Judge_Arena",
-                    "ID": "SC_0060_sc_floor_01 (26)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_Judge_Arena",
-                    "ID": "SC_0060_sc_floor_01 (21)",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_Judge_Arena",
-                    "ID": "SC_0060_sc_floor_01 (42)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_Judge_Arena",
-                    "ID": "SC_0060_sc_post_01 (38)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_Judge_Arena",
-                    "ID": "SC_0060_sc_floor_01 (4)",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_Judge_Arena",
-                    "ID": "SC_0060_sc_floor_01",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_Judge_Arena",
-                    "ID": "SC_0060_sc_floor_01 (14)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_Judge_Arena",
-                    "ID": "SC_0060_sc_post_01 (37)",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_Judge_Arena",
-                    "ID": "SC_0060_sc_floor_01 (6)",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_Judge_Arena",
-                    "ID": "SC_0060_sc_post_01 (31)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_Judge_Arena",
-                    "ID": "SC_0060_sc_floor_01 (1)",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_Judge_Arena",
-                    "ID": "SC_0060_sc_floor_01 (2)",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_Judge_Arena",
-                    "ID": "SC_0060_sc_floor_01 (18)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_Judge_Arena",
-                    "ID": "SC_0060_sc_floor_01 (41)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_Judge_Arena",
-                    "ID": "SC_0060_sc_post_01 (43)",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_Judge_Arena",
-                    "ID": "SC_0060_sc_floor_01 (5)",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_Judge_Arena",
-                    "ID": "SC_0060_sc_floor_01 (3)",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_Judge_Arena",
-                    "ID": "SC_0060_sc_floor_01 (23)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_Judge_Arena",
-                    "ID": "SC_0060_sc_floor_01 (11)",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_10",
-                    "ID": "Coral10rightsidegate",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_10",
-                    "ID": "Seth Stand NPC",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_10",
-                    "ID": "Sherma Citadel NPC",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_10",
-                    "ID": "Silkfly Ambient Perched (2)",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_10",
-                    "ID": "Silkfly Ambient Perched",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_10",
-                    "ID": "Silkfly Ambient (1)",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_10",
-                    "ID": "Silkfly Ambient Perched (3)",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_10",
-                    "ID": "Silkfly Ambient (3)",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_10",
-                    "ID": "Silkfly Ambient (4)",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_10",
-                    "ID": "Silkfly Ambient (6)",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_10",
-                    "ID": "Silkfly Ambient Perched (1)",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Song_19_entrance",
-                    "ID": "Breakable Wall Entrance Secret",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Song_19_entrance",
-                    "ID": "Song_lever_side",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Song_19_entrance",
-                    "ID": "Silk Spool",
-                    "Value": false,
-                    "Mutator": 0
                 }
             ]
         },
@@ -4383,17 +3988,17 @@
         }
     },
     "savePos": {
-        "x": 5.624630928039551,
-        "y": 8.567684173583985,
+        "x": 224.95993041992188,
+        "y": 4.567685127258301,
         "z": 0.004000000189989805
     },
     "filePath": "",
     "isKinematized": false,
     "loadedScenes": [
-        "Song_19_entrance"
+        "Coral_02"
     ],
     "loadedSceneActiveScenes": [
-        "Song_19_entrance"
+        "Coral_02"
     ],
     "roomSpecificOptions": ""
 }

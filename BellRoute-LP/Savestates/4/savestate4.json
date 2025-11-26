@@ -1,8 +1,8 @@
 {
-    "saveStateIdentifier": "Movement - Trobbio",
-    "saveScene": "Library_01",
+    "saveStateIdentifier": "Movement - Whispering Vaults Arena",
+    "saveScene": "Cog_Dancers",
     "savedPd": {
-        "LastSetFieldName": "HasSeenRation",
+        "LastSetFieldName": "grindleInSong_08",
         "version": "1.0.29315",
         "RevisionBreak": 28104,
         "date": "2025/11/20",
@@ -28,7 +28,7 @@
         "heartPieces": 0,
         "SeenBindPrompt": true,
         "geo": 12,
-        "silk": 6,
+        "silk": 1,
         "silkMax": 9,
         "silkRegenMax": 1,
         "IsSilkSpoolBroken": true,
@@ -39,7 +39,7 @@
         "extraRestZone": 0,
         "respawnMarkerName": "Interim Respawn Marker",
         "respawnType": 0,
-        "hazardRespawnFacing": 2,
+        "hazardRespawnFacing": 1,
         "HeroCorpseScene": "",
         "HeroDeathScenePos": {
             "x": 0.0,
@@ -418,61 +418,12 @@
                 {
                     "Name": "Pilgrim 01 Song",
                     "Record": {
-                        "Kills": 3,
+                        "Kills": 1,
                         "HasBeenSeen": false
                     }
                 },
                 {
                     "Name": "Clockwork Dancer",
-                    "Record": {
-                        "Kills": 1,
-                        "HasBeenSeen": false
-                    }
-                },
-                {
-                    "Name": "Pilgrim 02 Song",
-                    "Record": {
-                        "Kills": 2,
-                        "HasBeenSeen": false
-                    }
-                },
-                {
-                    "Name": "Song Pilgrim 03",
-                    "Record": {
-                        "Kills": 2,
-                        "HasBeenSeen": false
-                    }
-                },
-                {
-                    "Name": "Pilgrim 04 Song",
-                    "Record": {
-                        "Kills": 3,
-                        "HasBeenSeen": false
-                    }
-                },
-                {
-                    "Name": "Pilgrim Stomper Song",
-                    "Record": {
-                        "Kills": 1,
-                        "HasBeenSeen": false
-                    }
-                },
-                {
-                    "Name": "Pilgrim 03 Song",
-                    "Record": {
-                        "Kills": 2,
-                        "HasBeenSeen": false
-                    }
-                },
-                {
-                    "Name": "Song Reed",
-                    "Record": {
-                        "Kills": 1,
-                        "HasBeenSeen": false
-                    }
-                },
-                {
-                    "Name": "Scholar",
                     "Record": {
                         "Kills": 1,
                         "HasBeenSeen": false
@@ -490,7 +441,7 @@
         "enteredTutorialFirstTime": false,
         "isInvincible": false,
         "infiniteAirJump": false,
-        "currentArea": "LIBRARY",
+        "currentArea": "HALLS",
         "visitedMossCave": true,
         "visitedBoneBottom": true,
         "visitedBoneForest": true,
@@ -520,7 +471,7 @@
         "visitedUnderstore": false,
         "visitedWard": false,
         "visitedHalls": true,
-        "visitedLibrary": true,
+        "visitedLibrary": false,
         "visitedStage": false,
         "visitedGloom": false,
         "visitedWeave": false,
@@ -530,7 +481,7 @@
         "visitedHangAtrium": false,
         "visitedEnclave": false,
         "visitedArborium": false,
-        "visitedCogwork": true,
+        "visitedCogwork": false,
         "visitedCradle": false,
         "visitedRuinedCradle": false,
         "visitedFleatopia": false,
@@ -590,8 +541,8 @@
         "hasMarker_d": false,
         "hasMarker_e": false,
         "placedMarkers": [],
-        "environmentType": 11,
-        "previousDarkness": 0,
+        "environmentType": 4,
+        "previousDarkness": -1,
         "HasMelodyArchitect": false,
         "HasMelodyLibrarian": false,
         "SeenMelodyLibrarianReturn": false,
@@ -1023,9 +974,9 @@
         "BelltownDoctorConvo": 0,
         "MetFisherHomeBasic": false,
         "MetFisherHomeFull": false,
-        "FisherWalkerTimer": -0.0038398958276957275,
-        "FisherWalkerDirection": true,
-        "FisherWalkerIdleTimeLeft": 27.479957580566408,
+        "FisherWalkerTimer": 68.5030517578125,
+        "FisherWalkerDirection": false,
+        "FisherWalkerIdleTimeLeft": 45.63772964477539,
         "MetBelltownRelicDealer": false,
         "BelltownRelicDealerGaveRelic": false,
         "BelltownRelicDealerCylinderConvo": false,
@@ -1210,8 +1161,8 @@
         "song05MarchGroupReady": true,
         "laceMeetCitadel": true,
         "song18Shortcut": false,
-        "encounteredLibraryEntryBattle": true,
-        "completedLibraryEntryBattle": true,
+        "encounteredLibraryEntryBattle": false,
+        "completedLibraryEntryBattle": false,
         "scholarAmbushReady": false,
         "libraryRoofShortcut": false,
         "scholarAcolytesReleased": false,
@@ -1330,7 +1281,7 @@
         "hang04Battle": false,
         "leftTheGrandForum": false,
         "grindleMetGrandForum": false,
-        "opened_cog_06_door": true,
+        "opened_cog_06_door": false,
         "cog7_automaton_defeated": false,
         "cog7_gateOpened": false,
         "cog7_automatonRepairing": false,
@@ -1680,7 +1631,7 @@
         "HasSeenGeoMid": false,
         "HasSeenGeoBig": false,
         "HasSeenShellShards": true,
-        "HasSeenRation": true,
+        "HasSeenRation": false,
         "TempGeoStore": 0,
         "TempShellShardStore": 0,
         "Collectables": {
@@ -4099,72 +4050,6 @@
                     "ID": "slide_gate_ring",
                     "Value": false,
                     "Mutator": 0
-                },
-                {
-                    "SceneName": "Cog_04",
-                    "ID": "cog_lever",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Cog_04",
-                    "ID": "cog_lever (1)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Cog_06",
-                    "ID": "cog_lever",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Song_20b",
-                    "ID": "Song_lever_side",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Song_20b",
-                    "ID": "Dial Door Bridge",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Song_20b",
-                    "ID": "Remasker New",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Song_20b",
-                    "ID": "Remasker New Sharp Ultra",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_02",
-                    "ID": "Remasker New (1)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_02",
-                    "ID": "Remasker New",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_02",
-                    "ID": "Grouped Remasker",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_01",
-                    "ID": "Breakable Wall",
-                    "Value": false,
-                    "Mutator": 0
                 }
             ]
         },
@@ -4739,30 +4624,6 @@
                     "ID": "rosary_string_medium",
                     "Value": -1,
                     "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_02",
-                    "ID": "Library Sliding Plat (2)",
-                    "Value": 1,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_02",
-                    "ID": "Library Sliding Plat (1)",
-                    "Value": -1,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_01",
-                    "ID": "Library Sliding Plat",
-                    "Value": 0,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_01",
-                    "ID": "Library Sliding Plat (1)",
-                    "Value": 0,
-                    "Mutator": 0
                 }
             ]
         },
@@ -4844,17 +4705,17 @@
         }
     },
     "savePos": {
-        "x": 58.303619384765628,
-        "y": 99.56767272949219,
+        "x": 34.97997283935547,
+        "y": 4.5969696044921879,
         "z": 0.004000000189989805
     },
     "filePath": "",
     "isKinematized": false,
     "loadedScenes": [
-        "Library_01"
+        "Cog_Dancers"
     ],
     "loadedSceneActiveScenes": [
-        "Library_01"
+        "Cog_Dancers"
     ],
     "roomSpecificOptions": ""
 }

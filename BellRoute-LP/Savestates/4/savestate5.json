@@ -1,8 +1,8 @@
 {
-    "saveStateIdentifier": "Movement - Clawline",
-    "saveScene": "Library_11",
+    "saveStateIdentifier": "Movement - Trobbio",
+    "saveScene": "Library_01",
     "savedPd": {
-        "LastSetFieldName": "visitedStage",
+        "LastSetFieldName": "HasSeenRation",
         "version": "1.0.29315",
         "RevisionBreak": 28104,
         "date": "2025/11/20",
@@ -28,7 +28,7 @@
         "heartPieces": 0,
         "SeenBindPrompt": true,
         "geo": 12,
-        "silk": 8,
+        "silk": 6,
         "silkMax": 9,
         "silkRegenMax": 1,
         "IsSilkSpoolBroken": true,
@@ -39,7 +39,7 @@
         "extraRestZone": 0,
         "respawnMarkerName": "Interim Respawn Marker",
         "respawnType": 0,
-        "hazardRespawnFacing": 0,
+        "hazardRespawnFacing": 2,
         "HeroCorpseScene": "",
         "HeroDeathScenePos": {
             "x": 0.0,
@@ -477,13 +477,6 @@
                         "Kills": 1,
                         "HasBeenSeen": false
                     }
-                },
-                {
-                    "Name": "Trobbio",
-                    "Record": {
-                        "Kills": 2,
-                        "HasBeenSeen": false
-                    }
                 }
             ]
         },
@@ -528,7 +521,7 @@
         "visitedWard": false,
         "visitedHalls": true,
         "visitedLibrary": true,
-        "visitedStage": true,
+        "visitedStage": false,
         "visitedGloom": false,
         "visitedWeave": false,
         "visitedMountain": false,
@@ -597,7 +590,7 @@
         "hasMarker_d": false,
         "hasMarker_e": false,
         "placedMarkers": [],
-        "environmentType": 0,
+        "environmentType": 11,
         "previousDarkness": 0,
         "HasMelodyArchitect": false,
         "HasMelodyLibrarian": false,
@@ -1030,9 +1023,9 @@
         "BelltownDoctorConvo": 0,
         "MetFisherHomeBasic": false,
         "MetFisherHomeFull": false,
-        "FisherWalkerTimer": 18.493558883666993,
-        "FisherWalkerDirection": false,
-        "FisherWalkerIdleTimeLeft": -0.0001739815343171358,
+        "FisherWalkerTimer": -0.0038398958276957275,
+        "FisherWalkerDirection": true,
+        "FisherWalkerIdleTimeLeft": 27.479957580566408,
         "MetBelltownRelicDealer": false,
         "BelltownRelicDealerGaveRelic": false,
         "BelltownRelicDealerCylinderConvo": false,
@@ -1228,8 +1221,8 @@
         "completedLibraryAcolyteBattle": false,
         "library_14_ambush": false,
         "completedGrandStageBattle": false,
-        "encounteredTrobbio": true,
-        "defeatedTrobbio": true,
+        "encounteredTrobbio": false,
+        "defeatedTrobbio": false,
         "trobbioCleanedUp": false,
         "encounteredTormentedTrobbio": false,
         "defeatedTormentedTrobbio": false,
@@ -4172,156 +4165,6 @@
                     "ID": "Breakable Wall",
                     "Value": false,
                     "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_04",
-                    "ID": "Top Shortcut",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_04",
-                    "ID": "Song_lever_side (1)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_04",
-                    "ID": "Song_lever_side",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_04",
-                    "ID": "Remasker New Sharp",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_04",
-                    "ID": "attic_ladder",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_04",
-                    "ID": "Remasker New",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_05",
-                    "ID": "library_glass_heart_piece",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_05",
-                    "ID": "attic_ladder",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_05",
-                    "ID": "Remasker New",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_05",
-                    "ID": "Remasker New Sharp Ultra",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_06",
-                    "ID": "Remasker New",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_13b",
-                    "ID": "Remasker New Sharp Ultra (1)",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_13b",
-                    "ID": "Collectable Item Pickup - Quill Red",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_13",
-                    "ID": "Inverse Remasker",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_13",
-                    "ID": "Song_Gate_small",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_13",
-                    "ID": "Song_lever_side",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_13",
-                    "ID": "Song_lever_side (1)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_13",
-                    "ID": "Shell Shard 02 Persistent",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_13",
-                    "ID": "Shell Shard 03 Persistent",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_13",
-                    "ID": "Grouped Remasker",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_11",
-                    "ID": "Remasker New",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_11",
-                    "ID": "Remasker New - Right",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_11",
-                    "ID": "Remasker New - Centre",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_11",
-                    "ID": "Remasker New - Left",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_11",
-                    "ID": "Understore Big Plate Gate",
-                    "Value": true,
-                    "Mutator": 0
                 }
             ]
         },
@@ -4920,96 +4763,6 @@
                     "ID": "Library Sliding Plat (1)",
                     "Value": 0,
                     "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_04",
-                    "ID": "rosary_bucket_library",
-                    "Value": -1,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_04",
-                    "ID": "Library Sliding Plat (2)",
-                    "Value": 0,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_04",
-                    "ID": "Library Sliding Plat (3)",
-                    "Value": 0,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_04",
-                    "ID": "Library Sliding Plat Tall (1)",
-                    "Value": 0,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_04",
-                    "ID": "Library Sliding Plat (1)",
-                    "Value": 0,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_04",
-                    "ID": "Library Sliding Plat",
-                    "Value": 0,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_05",
-                    "ID": "Library Sliding Plat Tall",
-                    "Value": 0,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_06",
-                    "ID": "rosary_string_small_half",
-                    "Value": -1,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_06",
-                    "ID": "rosary_bucket_library",
-                    "Value": -1,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_06",
-                    "ID": "rosary_string_small",
-                    "Value": -1,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_06",
-                    "ID": "Library Sliding Plat",
-                    "Value": 0,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_06",
-                    "ID": "Library Sliding Plat (2)",
-                    "Value": 0,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_06",
-                    "ID": "Library Sliding Plat (3)",
-                    "Value": 0,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_13",
-                    "ID": "Song Shard Barrel",
-                    "Value": 3,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_11",
-                    "ID": "library_lift_large",
-                    "Value": 0,
-                    "Mutator": 0
                 }
             ]
         },
@@ -5091,17 +4844,17 @@
         }
     },
     "savePos": {
-        "x": 1.7938764095306397,
-        "y": 90.56768798828125,
+        "x": 58.303619384765628,
+        "y": 99.56767272949219,
         "z": 0.004000000189989805
     },
     "filePath": "",
     "isKinematized": false,
     "loadedScenes": [
-        "Library_11"
+        "Library_01"
     ],
     "loadedSceneActiveScenes": [
-        "Library_11"
+        "Library_01"
     ],
     "roomSpecificOptions": ""
 }

@@ -1,13 +1,13 @@
 {
-    "saveStateIdentifier": "Movement - Architect's Melody",
-    "saveScene": "Song_20b",
+    "saveStateIdentifier": "Movement - Vaultkeeper's Melody",
+    "saveScene": "Under_17",
     "savedPd": {
-        "LastSetFieldName": "HasMelodyLibrarian",
+        "LastSetFieldName": "visitedStage",
         "version": "1.0.29315",
         "RevisionBreak": 28104,
         "date": "2025/11/21",
         "profileID": 2,
-        "playTime": 7667.94287109375,
+        "playTime": 6596.978515625,
         "openingCreditsPlayed": true,
         "permadeathMode": 0,
         "CollectedDockDemoKey": false,
@@ -27,8 +27,8 @@
         "prevHealth": 5,
         "heartPieces": 0,
         "SeenBindPrompt": true,
-        "geo": 332,
-        "silk": 2,
+        "geo": 12,
+        "silk": 3,
         "silkMax": 9,
         "silkRegenMax": 1,
         "IsSilkSpoolBroken": true,
@@ -474,7 +474,7 @@
                 {
                     "Name": "Scholar",
                     "Record": {
-                        "Kills": 2,
+                        "Kills": 1,
                         "HasBeenSeen": false
                     }
                 },
@@ -546,7 +546,7 @@
         "enteredTutorialFirstTime": false,
         "isInvincible": false,
         "infiniteAirJump": false,
-        "currentArea": "HALLS",
+        "currentArea": "UNDERSTORE",
         "visitedMossCave": true,
         "visitedBoneBottom": true,
         "visitedBoneForest": true,
@@ -646,10 +646,10 @@
         "hasMarker_d": false,
         "hasMarker_e": false,
         "placedMarkers": [],
-        "environmentType": 0,
-        "previousDarkness": 1,
+        "environmentType": 4,
+        "previousDarkness": 0,
         "HasMelodyArchitect": false,
-        "HasMelodyLibrarian": true,
+        "HasMelodyLibrarian": false,
         "SeenMelodyLibrarianReturn": false,
         "HasMelodyConductor": false,
         "UnlockedMelodyLift": false,
@@ -1079,9 +1079,9 @@
         "BelltownDoctorConvo": 0,
         "MetFisherHomeBasic": false,
         "MetFisherHomeFull": false,
-        "FisherWalkerTimer": 27.699214935302736,
+        "FisherWalkerTimer": 68.50506591796875,
         "FisherWalkerDirection": false,
-        "FisherWalkerIdleTimeLeft": -0.001352689228951931,
+        "FisherWalkerIdleTimeLeft": 2.709010601043701,
         "MetBelltownRelicDealer": false,
         "BelltownRelicDealerGaveRelic": false,
         "BelltownRelicDealerCylinderConvo": false,
@@ -1291,8 +1291,8 @@
         "song_11_oneway": true,
         "citadel_encounteredFencers": false,
         "enteredHang_08": false,
-        "LibrarianAskedForRelic": true,
-        "GivenLibrarianRelic": true,
+        "LibrarianAskedForRelic": false,
+        "GivenLibrarianRelic": false,
         "LibrarianMetAct3": false,
         "LibrarianMentionedMelody": false,
         "LibrarianAskedForMelody": false,
@@ -1752,16 +1752,7 @@
             ]
         },
         "Relics": {
-            "savedData": [
-                {
-                    "Name": "Librarian Melody Cylinder",
-                    "Data": {
-                        "IsCollected": true,
-                        "IsDeposited": true,
-                        "HasSeenInRelicBoard": true
-                    }
-                }
-            ]
+            "savedData": []
         },
         "UnlockedFastTravel": true,
         "FastTravelNPCLocation": 0,
@@ -4240,7 +4231,7 @@
                 {
                     "SceneName": "Library_04",
                     "ID": "Song_lever_side (1)",
-                    "Value": true,
+                    "Value": false,
                     "Mutator": 0
                 },
                 {
@@ -4666,162 +4657,6 @@
                 {
                     "SceneName": "Under_18",
                     "ID": "Barrel Plat Lift Thin",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_12",
-                    "ID": "Remasker",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_12",
-                    "ID": "One Way Wall",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_12",
-                    "ID": "Remasker (1)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_12",
-                    "ID": "Collectable Item Pickup",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_12",
-                    "ID": "Remasker New Sharp",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_12",
-                    "ID": "Remasker New Sharp (1)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_12",
-                    "ID": "Plug_Gate",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_12",
-                    "ID": "Remasker New (1)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_12",
-                    "ID": "Remasker New",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_12",
-                    "ID": "breakable blocker struts",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_12b",
-                    "ID": "thread_memory",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_12b",
-                    "ID": "Shell Shard 02 Persistent",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_12b",
-                    "ID": "Shell Shard 03 Persistent",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_10",
-                    "ID": "Hornet_pressure_plate_small_persistent",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_10",
-                    "ID": "Breakable Wall",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_10",
-                    "ID": "thread_memory",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_10",
-                    "ID": "Remasker New",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_10",
-                    "ID": "Remasker New (1)",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_10",
-                    "ID": "Silkfly Ambient Perched (1)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_10",
-                    "ID": "Silkfly Ambient Perched",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_10",
-                    "ID": "Tension Tone Single",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_08",
-                    "ID": "Collapser Small",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_08",
-                    "ID": "Collectable Item Pickup",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_08",
-                    "ID": "Remasker New",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_08",
-                    "ID": "Remasker New Inverted",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_08",
-                    "ID": "Remasker New (2)",
                     "Value": false,
                     "Mutator": 0
                 }
@@ -5408,7 +5243,7 @@
                 {
                     "SceneName": "Library_02",
                     "ID": "Library Sliding Plat (1)",
-                    "Value": 1,
+                    "Value": -1,
                     "Mutator": 0
                 },
                 {
@@ -5438,7 +5273,7 @@
                 {
                     "SceneName": "Library_04",
                     "ID": "Library Sliding Plat (3)",
-                    "Value": 1,
+                    "Value": 0,
                     "Mutator": 0
                 },
                 {
@@ -5450,13 +5285,13 @@
                 {
                     "SceneName": "Library_04",
                     "ID": "Library Sliding Plat (1)",
-                    "Value": 1,
+                    "Value": 0,
                     "Mutator": 0
                 },
                 {
                     "SceneName": "Library_04",
                     "ID": "Library Sliding Plat",
-                    "Value": 1,
+                    "Value": 0,
                     "Mutator": 0
                 },
                 {
@@ -5554,54 +5389,6 @@
                     "ID": "Song Shard Under Chest",
                     "Value": 3,
                     "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_12",
-                    "ID": "Shell Shard Fossil Dustpen Short",
-                    "Value": 1,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_12",
-                    "ID": "Shell Shard Fossil Dustpen Tall",
-                    "Value": 1,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_12",
-                    "ID": "Shell Shard Fossil Tiny Egg",
-                    "Value": 1,
-                    "Mutator": 1
-                },
-                {
-                    "SceneName": "Library_12",
-                    "ID": "Shell Shard Fossil Tiny Front",
-                    "Value": 1,
-                    "Mutator": 1
-                },
-                {
-                    "SceneName": "Library_12b",
-                    "ID": "Song Shard Under Chest",
-                    "Value": 3,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_10",
-                    "ID": "Library Statue NPC",
-                    "Value": 0,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_08",
-                    "ID": "rosary_string_small_half",
-                    "Value": -1,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Library_08",
-                    "ID": "rosary_string_small",
-                    "Value": -1,
-                    "Mutator": 0
                 }
             ]
         },
@@ -5683,17 +5470,17 @@
         }
     },
     "savePos": {
-        "x": 3.2554495334625246,
-        "y": 189.56883239746095,
+        "x": 162.44464111328126,
+        "y": 14.5676851272583,
         "z": 0.004000000189989805
     },
     "filePath": "",
     "isKinematized": false,
     "loadedScenes": [
-        "Song_20b"
+        "Under_17"
     ],
     "loadedSceneActiveScenes": [
-        "Song_20b"
+        "Under_17"
     ],
     "roomSpecificOptions": ""
 }

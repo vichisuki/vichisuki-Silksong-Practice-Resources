@@ -1,8 +1,8 @@
 {
-    "saveStateIdentifier": "Movement - Last Judge",
-    "saveScene": "Coral_02",
+    "saveStateIdentifier": "Movement - Shellwood Bell",
+    "saveScene": "Belltown_07",
     "savedPd": {
-        "LastSetFieldName": "bellShrineShellwood",
+        "LastSetFieldName": "MapperLeftShellwood",
         "version": "1.0.29315",
         "RevisionBreak": 28104,
         "date": "2025/11/18",
@@ -24,7 +24,7 @@
         "maxHealth": 5,
         "maxHealthBase": 5,
         "healthBlue": 0,
-        "prevHealth": 3,
+        "prevHealth": 5,
         "heartPieces": 0,
         "SeenBindPrompt": true,
         "geo": 12,
@@ -400,13 +400,6 @@
                         "Kills": 1,
                         "HasBeenSeen": false
                     }
-                },
-                {
-                    "Name": "Pilgrim Fly",
-                    "Record": {
-                        "Kills": 1,
-                        "HasBeenSeen": false
-                    }
                 }
             ]
         },
@@ -420,7 +413,7 @@
         "enteredTutorialFirstTime": false,
         "isInvincible": false,
         "infiniteAirJump": false,
-        "currentArea": "CORAL_STEPS",
+        "currentArea": "BELLHART",
         "visitedMossCave": true,
         "visitedBoneBottom": true,
         "visitedBoneForest": true,
@@ -440,7 +433,7 @@
         "visitedShadow": false,
         "visitedAqueducts": false,
         "visitedMistmaze": false,
-        "visitedCoral": true,
+        "visitedCoral": false,
         "visitedCoralRiver": false,
         "visitedCoralRiverInner": false,
         "visitedCoralTower": false,
@@ -520,8 +513,8 @@
         "hasMarker_d": false,
         "hasMarker_e": false,
         "placedMarkers": [],
-        "environmentType": 4,
-        "previousDarkness": 0,
+        "environmentType": 8,
+        "previousDarkness": 1,
         "HasMelodyArchitect": false,
         "HasMelodyLibrarian": false,
         "SeenMelodyLibrarianReturn": false,
@@ -539,7 +532,7 @@
         "bellShrineBoneForest": true,
         "bellShrineWilds": true,
         "bellShrineGreymoor": true,
-        "bellShrineShellwood": true,
+        "bellShrineShellwood": false,
         "bellShrineBellhart": true,
         "bellShrineEnclave": false,
         "completedMemory_reaper": false,
@@ -816,7 +809,7 @@
         "shellwood13_BellWall": true,
         "defeatedShellwoodRosaryPilgrim": false,
         "shellwoodBellshrineTwigWall": false,
-        "seenEmptyShellwood16": true,
+        "seenEmptyShellwood16": false,
         "slabFlyInShellwood16": false,
         "shellwoodSlabflyDefeated": false,
         "visitedShellwood_16": true,
@@ -953,9 +946,9 @@
         "BelltownDoctorConvo": 0,
         "MetFisherHomeBasic": false,
         "MetFisherHomeFull": false,
-        "FisherWalkerTimer": 17.127817153930665,
-        "FisherWalkerDirection": true,
-        "FisherWalkerIdleTimeLeft": -0.002389445435255766,
+        "FisherWalkerTimer": 68.50283813476563,
+        "FisherWalkerDirection": false,
+        "FisherWalkerIdleTimeLeft": 63.15595626831055,
         "MetBelltownRelicDealer": false,
         "BelltownRelicDealerGaveRelic": false,
         "BelltownRelicDealerCylinderConvo": false,
@@ -3339,84 +3332,6 @@
                     "ID": "Reminder Needolin - Memory",
                     "Value": true,
                     "Mutator": 0
-                },
-                {
-                    "SceneName": "Shellwood_04b",
-                    "ID": "Shellwood Twig Wall (1)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_19",
-                    "ID": "thread_memory",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_19",
-                    "ID": "Geo Small Persistent (1)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_19",
-                    "ID": "Geo Small Persistent (2)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_19",
-                    "ID": "Geo Small Persistent",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_19",
-                    "ID": "Silkfly Ambient Perched (1)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_19",
-                    "ID": "Silkfly Ambient Perched",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_19",
-                    "ID": "Remasker New Sharp Ultra",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_02",
-                    "ID": "Song_lever_side",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_02",
-                    "ID": "bell_toll_machine",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_02",
-                    "ID": "Collectable Item Pickup (1)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_02",
-                    "ID": "Remasker New (1)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_02",
-                    "ID": "Remasker New",
-                    "Value": false,
-                    "Mutator": 0
                 }
             ]
         },
@@ -3883,30 +3798,6 @@
                     "ID": "Bellshrine Sequence Bellhart",
                     "Value": 3,
                     "Mutator": 0
-                },
-                {
-                    "SceneName": "Bellshrine_03",
-                    "ID": "Bellshrine Sequence",
-                    "Value": 1,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Coral_02",
-                    "ID": "Shell Shard Fossil Tiny Bumpy",
-                    "Value": 1,
-                    "Mutator": 1
-                },
-                {
-                    "SceneName": "Coral_02",
-                    "ID": "Shell Shard Fossil Tiny Egg",
-                    "Value": 1,
-                    "Mutator": 1
-                },
-                {
-                    "SceneName": "Coral_02",
-                    "ID": "Shell Shard Fossil Tiny Front",
-                    "Value": 1,
-                    "Mutator": 1
                 }
             ]
         },
@@ -3988,17 +3879,17 @@
         }
     },
     "savePos": {
-        "x": 242.9299774169922,
-        "y": 57.56767654418945,
+        "x": 4.79631233215332,
+        "y": 7.567685127258301,
         "z": 0.004000000189989805
     },
     "filePath": "",
     "isKinematized": false,
     "loadedScenes": [
-        "Coral_02"
+        "Belltown_07"
     ],
     "loadedSceneActiveScenes": [
-        "Coral_02"
+        "Belltown_07"
     ],
     "roomSpecificOptions": ""
 }

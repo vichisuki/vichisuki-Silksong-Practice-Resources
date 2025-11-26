@@ -1,22 +1,22 @@
 {
-    "saveStateIdentifier": "Movement - Shellwood Bell",
-    "saveScene": "Belltown_07",
+    "saveStateIdentifier": "Movement - Bellvein",
+    "saveScene": "Shellwood_13",
     "savedPd": {
-        "LastSetFieldName": "MapperLeftShellwood",
+        "LastSetFieldName": "MapperLeftGreymoor",
         "version": "1.0.29315",
         "RevisionBreak": 28104,
         "date": "2025/11/18",
         "profileID": 2,
-        "playTime": 5276.767578125,
+        "playTime": 4853.814453125,
         "openingCreditsPlayed": true,
         "permadeathMode": 0,
         "CollectedDockDemoKey": false,
         "PreMemoryState": {
             "IsRecorded": false,
-            "Health": 4,
+            "Health": 3,
             "Silk": 9,
-            "Rosaries": 12,
-            "ShellShards": 38,
+            "Rosaries": 0,
+            "ShellShards": 3,
             "DoFullHeal": true
         },
         "HasStoredMemoryState": false,
@@ -28,18 +28,18 @@
         "heartPieces": 0,
         "SeenBindPrompt": true,
         "geo": 12,
-        "silk": 1,
+        "silk": 9,
         "silkMax": 9,
         "silkRegenMax": 1,
         "IsSilkSpoolBroken": true,
         "silkSpoolParts": 0,
         "atBench": false,
-        "respawnScene": "Belltown_Shrine",
-        "mapZone": 10,
-        "extraRestZone": 9,
+        "respawnScene": "Shellwood_10",
+        "mapZone": 4,
+        "extraRestZone": 0,
         "respawnMarkerName": "Death Respawn Marker",
         "respawnType": 0,
-        "hazardRespawnFacing": 0,
+        "hazardRespawnFacing": 2,
         "HeroCorpseScene": "",
         "HeroDeathScenePos": {
             "x": 0.0,
@@ -54,8 +54,8 @@
         "HeroCorpseMoneyPool": 0,
         "nailRange": 0,
         "beamDamage": 0,
-        "nailUpgrades": 1,
-        "InvNailHasNew": true,
+        "nailUpgrades": 0,
+        "InvNailHasNew": false,
         "hasSilkSpecial": true,
         "silkSpecialLevel": 0,
         "hasNeedleThrow": true,
@@ -65,7 +65,7 @@
         "hasSilkCharge": false,
         "hasSilkBomb": false,
         "hasSilkBossNeedle": false,
-        "hasNeedolin": true,
+        "hasNeedolin": false,
         "attunement": 0,
         "attunementLevel": 1,
         "hasNeedolinMemoryPowerup": false,
@@ -139,7 +139,7 @@
         "mapperBellhartConvo": false,
         "mapperBellhartConvoTimePassed": false,
         "mapperBellhartConvo2": false,
-        "mapperAway": true,
+        "mapperAway": false,
         "mapperMetInAnt04": false,
         "mapperTubeConvo": false,
         "mapperBrokenBenchConvo": false,
@@ -150,7 +150,7 @@
         "mapperReactedToBrokenBellBench": false,
         "SeenMapperBonetown": false,
         "MapperLeftBonetown": false,
-        "MapperAppearInBellhart": true,
+        "MapperAppearInBellhart": false,
         "SeenMapperBoneForest": true,
         "MapperLeftBoneForest": true,
         "SeenMapperDocks": true,
@@ -164,7 +164,7 @@
         "SeenMapperBellhart": false,
         "MapperLeftBellhart": false,
         "SeenMapperShellwood": true,
-        "MapperLeftShellwood": true,
+        "MapperLeftShellwood": false,
         "SeenMapperHuntersNest": false,
         "MapperLeftHuntersNest": false,
         "SeenMapperJudgeSteps": false,
@@ -237,7 +237,7 @@
         "garmondBlackThreadDefeated": false,
         "pilgrimRestMerchant_SingConvo": false,
         "pilgrimRestMerchant_RhinoRuckusConvo": false,
-        "pilgrimRestCrowd": 1,
+        "pilgrimRestCrowd": 4,
         "nuuIsHome": true,
         "MetHalfwayHunterFan": false,
         "MetHunterFanOutside": false,
@@ -393,13 +393,6 @@
                         "Kills": 2,
                         "HasBeenSeen": false
                     }
-                },
-                {
-                    "Name": "Spinner Boss",
-                    "Record": {
-                        "Kills": 1,
-                        "HasBeenSeen": false
-                    }
                 }
             ]
         },
@@ -413,7 +406,7 @@
         "enteredTutorialFirstTime": false,
         "isInvincible": false,
         "infiniteAirJump": false,
-        "currentArea": "BELLHART",
+        "currentArea": "SHELLWOOD",
         "visitedMossCave": true,
         "visitedBoneBottom": true,
         "visitedBoneForest": true,
@@ -426,7 +419,7 @@
         "visitedWisp": false,
         "visitedBellhartHaunted": true,
         "visitedBellhart": true,
-        "visitedBellhartSaved": true,
+        "visitedBellhartSaved": false,
         "visitedShellwood": true,
         "visitedCrawl": false,
         "visitedDustpens": false,
@@ -513,8 +506,8 @@
         "hasMarker_d": false,
         "hasMarker_e": false,
         "placedMarkers": [],
-        "environmentType": 8,
-        "previousDarkness": 1,
+        "environmentType": 4,
+        "previousDarkness": 0,
         "HasMelodyArchitect": false,
         "HasMelodyLibrarian": false,
         "SeenMelodyLibrarianReturn": false,
@@ -525,15 +518,15 @@
         "ConductorWeaverDlgQueued": false,
         "ConductorWeaverDlgHeard": false,
         "muchTimePassed": false,
-        "pilgrimGroupBonegrave": 2,
-        "pilgrimGroupShellgrave": 3,
-        "pilgrimGroupGreymoorField": 2,
+        "pilgrimGroupBonegrave": 3,
+        "pilgrimGroupShellgrave": 1,
+        "pilgrimGroupGreymoorField": 3,
         "shellGravePopulated": false,
         "bellShrineBoneForest": true,
         "bellShrineWilds": true,
         "bellShrineGreymoor": true,
         "bellShrineShellwood": false,
-        "bellShrineBellhart": true,
+        "bellShrineBellhart": false,
         "bellShrineEnclave": false,
         "completedMemory_reaper": false,
         "completedMemory_wanderer": false,
@@ -593,7 +586,7 @@
         "PurchasedBonebottomToolMetal": false,
         "BoneBottomShopKeepWillLeave": false,
         "BoneBottomShopKeepLeft": false,
-        "bonetownCrowd": 7,
+        "bonetownCrowd": 6,
         "grindleReleasedFromBonejail": false,
         "explodeWallMosstown3": false,
         "bonegraveOpen": false,
@@ -655,7 +648,7 @@
         "antBenchTrapDefused": false,
         "ant04_battleCompleted": false,
         "ant04_enemiesReturn": false,
-        "enemyGroupAnt04": 2,
+        "enemyGroupAnt04": 3,
         "antMerchantKilled": false,
         "ant21_InitBattleCompleted": false,
         "ant21_ExtraBattleAdded": false,
@@ -712,7 +705,7 @@
         "lavaChallengeEntranceCavedIn": false,
         "completedLavaChallenge": false,
         "lavaSpittersEmerge": false,
-        "IsPinGallerySetup": true,
+        "IsPinGallerySetup": false,
         "MetPinChallengeBug": false,
         "WasInPinChallenge": false,
         "PinGalleryLastChallengeOpen": false,
@@ -754,7 +747,7 @@
         "HalfwayBartenderCursedConvo": false,
         "HalfwayBartenderHauntedBellhartConvo": false,
         "visitedHalfway": false,
-        "halfwayCrowd": 2,
+        "halfwayCrowd": 1,
         "HalfwayScarecrawAppeared": false,
         "HalfwayNectarOffered": false,
         "HalfwayNectarPaid": false,
@@ -796,8 +789,8 @@
         "aspid_04b_wildlifeReturned": false,
         "pilgrimFisherPossessed": false,
         "spinnerEncounter": 0,
-        "encounteredSpinner": true,
-        "spinnerDefeated": true,
+        "encounteredSpinner": false,
+        "spinnerDefeated": false,
         "SpinnerDefeatedTimePassed": true,
         "shellwood14_ambushed": false,
         "shellwoodTwigShortcut": false,
@@ -806,7 +799,7 @@
         "splinterQueenSproutTimer": 0,
         "splinterQueenSproutGrewLarge": false,
         "splinterQueenSproutCut": false,
-        "shellwood13_BellWall": true,
+        "shellwood13_BellWall": false,
         "defeatedShellwoodRosaryPilgrim": false,
         "shellwoodBellshrineTwigWall": false,
         "seenEmptyShellwood16": false,
@@ -923,7 +916,7 @@
         "BelltownCouriersFirstBeginDlg": false,
         "BelltownCouriersGenericQuests": [],
         "BelltownCouriersLastCompletedQuest": "",
-        "PinsmithMetBelltown": true,
+        "PinsmithMetBelltown": false,
         "PinsmithQuestOffered": false,
         "PinsmithUpg2Offered": false,
         "PinsmithUpg3Offered": false,
@@ -946,9 +939,9 @@
         "BelltownDoctorConvo": 0,
         "MetFisherHomeBasic": false,
         "MetFisherHomeFull": false,
-        "FisherWalkerTimer": 68.50283813476563,
-        "FisherWalkerDirection": false,
-        "FisherWalkerIdleTimeLeft": 63.15595626831055,
+        "FisherWalkerTimer": -0.004118905868381262,
+        "FisherWalkerDirection": true,
+        "FisherWalkerIdleTimeLeft": 52.606449127197269,
         "MetBelltownRelicDealer": false,
         "BelltownRelicDealerGaveRelic": false,
         "BelltownRelicDealerCylinderConvo": false,
@@ -1432,7 +1425,7 @@
         "CurseKilledFlyShellwood": false,
         "CurseKilledFlySwamp": false,
         "act2Started": false,
-        "completionPercentage": 6.0,
+        "completionPercentage": 4.0,
         "mapKeyPref": 0,
         "promisedFirstWish": true,
         "betaEnd": false,
@@ -1559,7 +1552,7 @@
                         "HasBeenSeen": false,
                         "IsAccepted": true,
                         "CompletedCount": 0,
-                        "IsCompleted": true,
+                        "IsCompleted": false,
                         "WasEverCompleted": false
                     }
                 }
@@ -2988,7 +2981,7 @@
                 {
                     "SceneName": "Belltown_06",
                     "ID": "Mines Lift",
-                    "Value": true,
+                    "Value": false,
                     "Mutator": 0
                 },
                 {
@@ -3018,12 +3011,6 @@
                 {
                     "SceneName": "Belltown",
                     "ID": "Courier Short Bellhart",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Belltown",
-                    "ID": "Mapper Sit NPC",
                     "Value": false,
                     "Mutator": 0
                 },
@@ -3252,19 +3239,19 @@
                 {
                     "SceneName": "Shellwood_13",
                     "ID": "Bell Wall Tall",
-                    "Value": true,
+                    "Value": false,
                     "Mutator": 0
                 },
                 {
                     "SceneName": "Shellwood_13",
                     "ID": "Bell Wall Tall (2)",
-                    "Value": true,
+                    "Value": false,
                     "Mutator": 0
                 },
                 {
                     "SceneName": "Shellwood_13",
                     "ID": "Bell Wall Tall (1)",
-                    "Value": true,
+                    "Value": false,
                     "Mutator": 0
                 },
                 {
@@ -3276,60 +3263,6 @@
                 {
                     "SceneName": "Shellwood_13",
                     "ID": "Remasker New (1)",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Belltown_04",
-                    "ID": "Bell Wall Tall",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Belltown_04",
-                    "ID": "Bell Wall Tall (1)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Belltown_04",
-                    "ID": "Bell Wall Tall (4)",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Belltown_04",
-                    "ID": "Bell Wall Tall (2)",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Belltown_04",
-                    "ID": "Bell Wall Tall (3)",
-                    "Value": true,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Belltown_04",
-                    "ID": "Remasker New (1)",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Belltown_04",
-                    "ID": "Remasker New",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Belltown_Shrine",
-                    "ID": "Song_lever_side",
-                    "Value": false,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Memory_Needolin",
-                    "ID": "Reminder Needolin - Memory",
                     "Value": true,
                     "Mutator": 0
                 }
@@ -3698,12 +3631,6 @@
                     "Mutator": 0
                 },
                 {
-                    "SceneName": "Belltown",
-                    "ID": "Belltown Greeter Act3",
-                    "Value": 0,
-                    "Mutator": 0
-                },
-                {
                     "SceneName": "Belltown_07",
                     "ID": "rosary_cache_hang_bell",
                     "Value": -1,
@@ -3772,30 +3699,6 @@
                 {
                     "SceneName": "Shellwood_11",
                     "ID": "Shell Shard Fossil Mid",
-                    "Value": 3,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Belltown_04",
-                    "ID": "rosary_cache_bell_ground",
-                    "Value": -1,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Belltown_04",
-                    "ID": "rosary_string_small",
-                    "Value": -1,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Belltown_04",
-                    "ID": "rosary_string_medium",
-                    "Value": -1,
-                    "Mutator": 0
-                },
-                {
-                    "SceneName": "Belltown_Shrine",
-                    "ID": "Bellshrine Sequence Bellhart",
                     "Value": 3,
                     "Mutator": 0
                 }
@@ -3879,17 +3782,17 @@
         }
     },
     "savePos": {
-        "x": 4.79631233215332,
-        "y": 7.567685127258301,
+        "x": 88.98133087158203,
+        "y": 32.56768035888672,
         "z": 0.004000000189989805
     },
     "filePath": "",
     "isKinematized": false,
     "loadedScenes": [
-        "Belltown_07"
+        "Shellwood_13"
     ],
     "loadedSceneActiveScenes": [
-        "Belltown_07"
+        "Shellwood_13"
     ],
     "roomSpecificOptions": ""
 }
