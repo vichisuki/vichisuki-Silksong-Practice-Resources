@@ -1,25 +1,25 @@
 {
     "saveStateIdentifier": "IL - Shellwood Bell",
-    "saveScene": "Memory_Needolin",
+    "saveScene": "Belltown_Shrine",
     "savedPd": {
         "LastSetFieldName": "disableInventory",
         "version": "1.0.29315",
         "RevisionBreak": 28104,
-        "date": "2025/11/18",
+        "date": "2025/11/26",
         "profileID": 2,
-        "playTime": 4853.814453125,
+        "playTime": 4920.9833984375,
         "openingCreditsPlayed": true,
         "permadeathMode": 0,
         "CollectedDockDemoKey": false,
         "PreMemoryState": {
-            "IsRecorded": true,
+            "IsRecorded": false,
             "Health": 5,
             "Silk": 9,
             "Rosaries": 12,
             "ShellShards": 38,
-            "DoFullHeal": false
+            "DoFullHeal": true
         },
-        "HasStoredMemoryState": true,
+        "HasStoredMemoryState": false,
         "health": 5,
         "maxHealth": 5,
         "maxHealthBase": 5,
@@ -34,12 +34,12 @@
         "IsSilkSpoolBroken": true,
         "silkSpoolParts": 0,
         "atBench": false,
-        "respawnScene": "Memory_Needolin",
-        "mapZone": 33,
-        "extraRestZone": 0,
+        "respawnScene": "Belltown_Shrine",
+        "mapZone": 10,
+        "extraRestZone": 9,
         "respawnMarkerName": "Death Respawn Marker",
         "respawnType": 0,
-        "hazardRespawnFacing": 0,
+        "hazardRespawnFacing": 2,
         "HeroCorpseScene": "",
         "HeroDeathScenePos": {
             "x": 0.0,
@@ -513,7 +513,7 @@
         "hasMarker_d": false,
         "hasMarker_e": false,
         "placedMarkers": [],
-        "environmentType": 12,
+        "environmentType": 4,
         "previousDarkness": 1,
         "HasMelodyArchitect": false,
         "HasMelodyLibrarian": false,
@@ -946,9 +946,9 @@
         "BelltownDoctorConvo": 0,
         "MetFisherHomeBasic": false,
         "MetFisherHomeFull": false,
-        "FisherWalkerTimer": 59.07334899902344,
+        "FisherWalkerTimer": 68.50326538085938,
         "FisherWalkerDirection": false,
-        "FisherWalkerIdleTimeLeft": -0.001165164401754737,
+        "FisherWalkerIdleTimeLeft": 40.01771545410156,
         "MetBelltownRelicDealer": false,
         "BelltownRelicDealerGaveRelic": false,
         "BelltownRelicDealerCylinderConvo": false,
@@ -1432,7 +1432,7 @@
         "CurseKilledFlyShellwood": false,
         "CurseKilledFlySwamp": false,
         "act2Started": false,
-        "completionPercentage": 4.0,
+        "completionPercentage": 5.0,
         "mapKeyPref": 0,
         "promisedFirstWish": true,
         "betaEnd": false,
@@ -3784,7 +3784,7 @@
                 {
                     "SceneName": "Belltown_Shrine",
                     "ID": "Bellshrine Sequence Bellhart",
-                    "Value": 0,
+                    "Value": 1,
                     "Mutator": 0
                 }
             ]
@@ -3867,17 +3867,17 @@
         }
     },
     "savePos": {
-        "x": 40.5936393737793,
-        "y": 186.56765747070313,
+        "x": 50.66484832763672,
+        "y": 8.567684173583985,
         "z": 0.004000000189989805
     },
     "filePath": "",
     "isKinematized": false,
     "loadedScenes": [
-        "Memory_Needolin"
+        "Belltown_Shrine"
     ],
     "loadedSceneActiveScenes": [
-        "Memory_Needolin"
+        "Belltown_Shrine"
     ],
     "roomSpecificOptions": ""
 }
