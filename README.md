@@ -3,6 +3,8 @@ This repository serves as a way for me to host my own practice resources created
 
 For a tutorial on how to set up these tools, I recommend checking out Ivy's Silksong Tutorial series, particularly the [introductory guide found here](https://www.youtube.com/watch?v=CYudtHjQmzQ).
 
+To download, click Code > Download ZIP.
+
 ## Savestates
 For a more detailed rundown on what each savestate does, view:
 - [Bell Route - Latest Patch Savestate Readme](BellRoute-LP/Savestates/BELLROUTE-SAVESTATES-README.md)
